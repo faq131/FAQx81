@@ -21,8 +21,11 @@
                 {% endif %}
             </div>
         </header>
-        <main>
-            {{ content | toc }}
+        <nav aria-label="Table of Contents">
+            {{ content | toc_only }}
+        </nav>        
+        <main itemprop="articleBody">
+            {{ content }}
         </main>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

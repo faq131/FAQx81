@@ -6,11 +6,5 @@ opengraph_type: "article"
 url: "https://daks01.github.io/FAQx81/"
 image : "/assets/img/logo.png"
 toc: true
-  min_level: 1
-  max_level: 3
-search: true
-search_full_content: false
-search_provider: lunr
 plugins:
   - jekyll-toc
-  - jekyll-lunr-js-search
