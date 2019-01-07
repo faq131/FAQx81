@@ -137,7 +137,7 @@ ul {
 //mobile menu
 .mobile-menu-btn {
     display: none;
-    position: fixed;
+    position: sticky;
     z-index: 99;
     bottom: 10px;
     float: right;
