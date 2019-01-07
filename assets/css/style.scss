@@ -262,8 +262,8 @@ h2:target {
 }
 .social-block a {
     padding: 0;
-    filter: grayscale(100%);
+    filter: grayscale(70%);
 }
 .social-block a:hover {
-    filter: grayscale(70%);
+    filter: grayscale(0);
 }
