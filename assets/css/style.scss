@@ -140,7 +140,7 @@ ul {
     position: fixed;
     z-index: 99;
     bottom: 10px;
-    right: 10px;
+    float: right;
     width: 50px;
     height: 50px;
     background: #000;
@@ -151,9 +151,18 @@ ul {
     line-height: 50px;
 }
 .mobile-menu-btn:active,
-.mobile-menu-btn:hover {
+.mobile-menu-btn:hover, 
+.mobile-menu-btn:visited {
     color: #ffffff !important;
     text-decoration: none;
+}
+
+//mobile helpers
+.mobile-hide {
+    display: block;
+}
+.mobile-show {
+    display: none;
 }
 
 @media screen and (max-width: $screen-md) {
@@ -184,13 +193,6 @@ ul {
     }
 }
 
-//mobile helpers
-.mobile-hide {
-    display: block;
-}
-.mobile-show {
-    display: none;
-}
 
 //nav
 .toc-menu ul {

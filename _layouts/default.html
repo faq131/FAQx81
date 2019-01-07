@@ -41,18 +41,17 @@
             </aside>
             <main class="page-layout__content">
                 <div class="page-layout__content-inner">
-                    <div class="mobile-hide">
+                    <div class="mobile-hide" style="text-align: center;">
                         {% include pagetitle.html %}
                     </div>
                     {{ content }}
+                    <a href="#menu" class="mobile-menu-btn">
+                        &#9776;
+                    </a>
                 </div>
             </main>
         </div>
-    </div>
-    
-    <a href="#menu" class="mobile-menu-btn">
-        &#9776;
-    </a>
+    </div>    
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
