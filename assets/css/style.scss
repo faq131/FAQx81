@@ -240,18 +240,18 @@ h2:target {
 }
 @-webkit-keyframes highlight {
     0% {
-        background-color: rgb(71, 71, 71);
+        color: #fdfdfd;
     }
     100% {
-        background-color: none;
+        color: #222222;
     }
 }
 @keyframes highlight {
     0% {
-        background-color: rgb(71, 71, 71);
+        color: #fdfdfd;
     }
     100% {
-        background-color: none;
+        color: #222222;
     }
 }
 
