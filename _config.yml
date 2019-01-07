@@ -1,17 +1,16 @@
 theme: jekyll-theme-minimal
 lang: ru
-title: 'faq*x81'
-description: 'жирный faq по маркообразным в 81 кузове'
-opengraph_type: 'article'
-url: 'https://daks01.github.io/FAQx81/faq'
-logo: /assets/img/logo.png
-image : /assets/img/logo.png
+title: faq x81
+description: "жирный faq по маркообразным в 81 кузове"
+opengraph_type: "article"
+url: "https://daks01.github.io/FAQx81/"
+image : "/assets/img/logo.png"
 toc: true
+  min_level: 1
+  max_level: 3
 search: true
 search_full_content: false
 search_provider: lunr
 plugins:
   - jekyll-toc
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-lunr-js-search

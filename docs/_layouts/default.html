@@ -13,28 +13,16 @@
 <body>
     <div class="wrapper">
         <header>
-            <div class="h1">
+            <div class="h1" style="font-size: 65px !important;">
                 {{ site.title | default: site.github.repository_name }}
-                <a href="{{ site.github.repository_url }}"><img src="https://help.github.com/assets/images/site/invertocat.png" width="24px" alt="GitHub" style="vertical-align: top;"></a>
+                <a href="{{ site.github.repository_url }}">
+                {% if site.github.is_project_page %}
+                    <img src="https://help.github.com/assets/images/site/invertocat.png" width="24px" alt="" title="GitHub"></a>
+                {% endif %}
             </div>
-            {% if site.logo %}
-                <img src="{{site.logo | relative_url}}" alt="Logo" />
-            {% endif %}
-            {% if site.github.is_project_page %}
-                <p class="view">
-                    View on <a href="{{ site.github.repository_url }}">
-                        GitHub <img src="https://help.github.com/assets/images/site/invertocat.png" width="24px" alt="GitHub" style="vertical-align: top;">
-                    </a>
-                </p>
-            {% endif %}
         </header>
         <main>
-            <form action="/search" method="get">
-                <input type="text" id="search-query" name="q" placeholder="Поиск" autocomplete="off">
-            </form>
-            <div id="search-results" style="display: none;"> </div>
-
-            {{ content | toc_only }}
+            {{ content | toc }}
         </main>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
