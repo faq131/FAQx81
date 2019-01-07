@@ -22,8 +22,18 @@
             </div>
         </header>
         <nav aria-label="Table of Contents">
-            {{ content | toc_only }}
-        </nav>        
+            <h1 onclick="window.getComputedStyle(document.querySelector('[data-toc]')).display === 'none' ? document.querySelector('[data-toc]').style.display = 'block' : document.querySelector('[data-toc]').style.display = 'none'">
+                <a>Оглавление &DownTeeArrow;</a>
+            </h1>
+            <div data-toc style="display: none;">
+                {{ content | toc_only }}
+            </div>
+            * TOC
+            {:toc}
+        </nav>
+        <br>
+        <br>
+        <hr>
         <main itemprop="articleBody">
             {{ content }}
         </main>
