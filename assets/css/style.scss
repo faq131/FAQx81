@@ -254,3 +254,16 @@ h2:target {
         background-color: none;
     }
 }
+
+//social-block
+.social-block {
+    margin-top: 40px;
+    padding: 9px 15px 10px;
+}
+.social-block a {
+    padding: 0;
+    filter: grayscale(100%);
+}
+.social-block a:hover {
+    filter: grayscale(70%);
+}
