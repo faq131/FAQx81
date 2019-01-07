@@ -32,12 +32,16 @@ body {
 
 //typography
 a {
-    color: #043e86;
+    color: #0367e3;
     text-decoration: none;
 }
-a:hover {
+a:hover,
+a:active {
     text-decoration: underline;
     font-weight: inherit;
+}
+main a:visited {
+    color: #b900e5;
 }
 h1,
 h2,
@@ -126,7 +130,7 @@ ul {
     -webkit-overflow-scrolling: touch;
 }
 .page-layout__content-inner {
-    padding: 50px 40px;    
+    padding: 50px 40px;
     max-width: 1000px;
 }
 
