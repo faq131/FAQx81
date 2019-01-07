@@ -16,13 +16,8 @@
 <body>
     <div class="page-layout">
         <div class="page-layout__row">
-            <aside class="page-layout__sidebar">
-                <a href="#menu" 
-                    onclick="window.getComputedStyle(document.querySelector('#menu')).display === 'none' ? document.querySelector('#menu').style.display = 'block' : document.querySelector('#menu').style.display = 'none'"
-                    class="mobile-menu-btn" >
-                    &#9776;
-                </a>
-                <nav class="toc-menu" id="menu">
+            <aside class="page-layout__sidebar" id="menu">
+                <nav class="toc-menu">
                     {% include toc.html html=content %}
                 </nav>
             </aside>
@@ -41,6 +36,12 @@
             </main>
         </div>
     </div>
+    
+    <a href="#menu" 
+        onclick="window.getComputedStyle(document.querySelector('#menu')).display === 'none' ? document.querySelector('#menu').style.display = 'block' : document.querySelector('#menu').style.display = 'none'"
+        class="mobile-menu-btn" >
+        &#9776;
+    </a>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 

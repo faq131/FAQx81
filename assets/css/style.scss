@@ -141,6 +141,22 @@ ul {
     -webkit-overflow-scrolling: touch;
 }
 
+.mobile-menu-btn {
+    display: none;
+    position: fixed;
+    z-index: 99;
+    bottom: 10px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+    background: #000;
+    border-radius: 50px;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+}
+
 @media screen and (max-width: $screen-md) {
     .page-layout,
     .page-layout__row,
@@ -162,21 +178,6 @@ ul {
     }
 }
 
-.mobile-menu-btn {
-    display: block;
-    position: fixed;
-    z-index: 99;
-    bottom: 10px;
-    right: 10px;
-    width: 50px;
-    height: 50px;
-    background: #000;
-    border-radius: 50px;
-    font-size: 24px;
-    color: #fff;
-    text-align: center;
-    line-height: 50px;
-}
 
 .toc-menu ul {
     list-style-type: none;
