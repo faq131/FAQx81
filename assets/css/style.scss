@@ -195,6 +195,9 @@ ul {
     margin: 0;
     padding: 0;
 }
+.toc-menu ul ul{
+    display: none;
+}
 .toc-menu li {
     display: block;
     padding: 0;
