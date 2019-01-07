@@ -30,16 +30,15 @@ body {
     padding: 0; 
 }
 
+//typography
 a {
     color: #043e86;
     text-decoration: none;
 }
-
 a:hover {
     text-decoration: underline;
     font-weight: inherit;
 }
-
 h1,
 h2,
 h3,
@@ -59,7 +58,6 @@ h2 {
     margin-top: .8em;
     font-size: 20px;
 }
-
 p,
 ul,
 ol, {
@@ -69,7 +67,7 @@ ul {
     padding-left: 1.2em;
 }
 
-
+//page-layout 
 .page-layout {
     height: 100%;
     overflow: hidden;
@@ -82,7 +80,6 @@ ul {
     -ms-flex-direction: column;
     flex-direction: column;
 }
-
 .page-layout__row {
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -96,7 +93,6 @@ ul {
     z-index: 1;
     height: 100%;
 }
-
 .page-layout__sidebar {
     position: relative;
     background-color: #303030;
@@ -115,7 +111,6 @@ ul {
     -webkit-overflow-scrolling: touch;
     color: #b5b1b1 !important;
 }
-
 .page-layout__content {
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -125,13 +120,17 @@ ul {
     -moz-flex: 1 1;
     -ms-flex: 1 1;
     flex: 1 1;
-    background: #f1f1f1;
+    background: #fdfdfd;
     height: 100%;
     overflow-y: scroll; /* has to be scroll, not auto */
     -webkit-overflow-scrolling: touch;
+}
+.page-layout__content-inner {
     padding: 50px 40px;
+    max-width: 100px;
 }
 
+//mobile menu
 .mobile-menu-btn {
     display: none;
     position: fixed;
@@ -166,20 +165,31 @@ ul {
     .mobile-menu-btn {
         display: block;
     }
-    .page-layout__content {
+    .page-layout__content-inner {
         padding: 30px 15px;
+        max-width: 100px;
+    }
+    .toc-menu ul ul{
+        display: none;
     }
     
     .mobile-hide {
         display: none;
     }
+    .mobile-show {
+        display: block;
+    }
 }
 
+//mobile helpers
+.mobile-hide {
+    display: block;
+}
 .mobile-show {
     display: none;
 }
 
-
+//nav
 .toc-menu ul {
     list-style-type: none;
     margin: 0;
@@ -210,9 +220,31 @@ ul {
     background: rgba(0,0,0,.1);
 }
 
-.toc-menu ul ul{
-    display: none;
-}
-.toc-menu li:hover ul{
+//anchors
+:target:before {
+    content: "";
     display: block;
+    height: 30px;
+    margin: -30px 0 0;
+}
+h1:target,
+h2:target {
+    -webkit-animation: highlight .8s ease-out;
+    animation: highlight .8s ease-out;
+}
+@-webkit-keyframes highlight {
+    0% {
+        background-color: rgb(71, 71, 71);
+    }
+    100% {
+        background-color: none;
+    }
+}
+@keyframes highlight {
+    0% {
+        background-color: rgb(71, 71, 71);
+    }
+    100% {
+        background-color: none;
+    }
 }

@@ -25,7 +25,7 @@
                 </nav>
             </aside>
             <main class="page-layout__content">
-                <div>
+                <div class="page-layout__content-inner">
                     <div class="mobile-hide">
                         {% include pagetitle.html %}
                     </div>
@@ -40,6 +40,25 @@
     </a>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    <script>
+        function collapceMenu() {
+            document.addEventListener('click', function (event) {
+                if (!event.target.matches('.toc-menu>ul>li>a')) {
+                    return;
+                }
+                let submenu = event.target.nextElementSibling;
+                if (document.body.contains(submenu)) {
+                    toggleElement(submenu);
+                }
+            }, false);
+
+            function toggleElement(el) {
+                window.getComputedStyle(el).display === 'none' ? el.style.display = 'block' : el.style.display = 'none';
+            }
+        }
+        collapceMenu();
+    </script>
 
     {% if site.google_analytics %}
         <script>
