@@ -1,7 +1,3 @@
----
-toc: true
----
-
 # Важные ссылки
 - faq на [drive2](https://www.drive2.ru/c/574975/)
 - старая ветка на [tourerv.ru/...](http://tourerv.ru/forum/forumdisplay.php?f=80)

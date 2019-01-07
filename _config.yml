@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
-markdown: kramdown
-plugins:
-  - jekyll-toc
-toc: true
 lang: ru
 title: faq x81
 description: "жирный faq по маркообразным в 81 кузове"
