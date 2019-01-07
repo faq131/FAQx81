@@ -10,7 +10,7 @@
 .page-layout__sidebar {
     display: table-cell;
     vertical-align: top;
-    width: 250px;
+    width: 300px;
 }
 
 .page-layout__content {
