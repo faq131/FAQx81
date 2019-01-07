@@ -11,8 +11,8 @@
     <![endif]-->
 </head>
 <body>
-    <div class="wrapper">
-        <div class="header">
+    <sidebar class="wrapper">
+        <sidebar>
             <div class="h1">
                 {{ site.title | default: site.github.repository_name }}
             </div>
@@ -30,12 +30,13 @@
                     </a>
                 </p>
             {% endif %}
-        </div>
-        <main>
+        </sidebar>
+        <section>
+            # Оглавление
+            <div data-table-of-contents></div>
 
             {{ content }}
-
-        </main>
+        </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
