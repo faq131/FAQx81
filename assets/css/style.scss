@@ -126,8 +126,8 @@ ul {
     -webkit-overflow-scrolling: touch;
 }
 .page-layout__content-inner {
-    padding: 50px 40px;
-    max-width: 100px;
+    padding: 50px 40px;    
+    max-width: 1000px;
 }
 
 //mobile menu
@@ -167,7 +167,6 @@ ul {
     }
     .page-layout__content-inner {
         padding: 30px 15px;
-        max-width: 1000px;
     }
     .toc-menu ul ul{
         display: none;
