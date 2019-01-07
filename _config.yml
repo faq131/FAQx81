@@ -4,8 +4,8 @@ title: 'faq*x81'
 description: 'жирный faq по маркообразным в 81 кузове'
 opengraph_type: 'article'
 url: 'https://daks01.github.io/FAQx81/faq'
-logo: '/assets/images/logo.png'
-image : '/assets/images/logo.png'
+logo: /assets/img/logo.png
+image : /assets/img/logo.png
 toc: true
 search: true
 search_full_content: false
