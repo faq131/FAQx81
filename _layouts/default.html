@@ -18,18 +18,16 @@
         <div class="page-layout__row">
             <aside class="page-layout__sidebar" id="menu">
                 <nav class="toc-menu">
+                    <div class="mobile-show">
+                        {% include pagetitle.html %}
+                    </div>
                     {% include toc.html html=content %}
                 </nav>
             </aside>
             <main class="page-layout__content">
                 <div>
-                    <div class="h1" style="font-size: 65px !important;">
-                        {{ site.title | default: site.github.repository_name }}
-                        <a href="{{ site.github.repository_url }}">
-                            {% if site.github.is_project_page %}
-                                <img src="https://help.github.com/assets/images/site/invertocat.png" width="24px" alt="" title="GitHub">
-                            {% endif %}
-                        </a>
+                    <div class="mobile-hide">
+                        {% include pagetitle.html %}
                     </div>
                     {{ content }}
                 </div>
@@ -37,9 +35,7 @@
         </div>
     </div>
     
-    <a href="#menu" 
-        onclick="window.getComputedStyle(document.querySelector('#menu')).display === 'none' ? document.querySelector('#menu').style.display = 'block' : document.querySelector('#menu').style.display = 'none'"
-        class="mobile-menu-btn" >
+    <a href="#menu" class="mobile-menu-btn">
         &#9776;
     </a>
 

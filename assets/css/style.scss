@@ -47,7 +47,7 @@ h4,
 h5,
 h6 {
     color: #222;
-    margin: 0 0 20px;
+    margin: 0 0 0.2em;
     font-weight: normal;
     line-height: 1.3;
 }
@@ -56,13 +56,17 @@ h1 {
     font-size: 28px;
 }
 h2 {
-    margin-top: .5em;
+    margin-top: .8em;
+    font-size: 20px;
 }
 
 p,
 ul,
 ol, {
-    margin: 0 0 .5em;
+    margin-bottom: .5em;
+}
+ul {
+    padding-left: 1.2em;
 }
 
 
@@ -125,7 +129,7 @@ ol, {
     height: 100%;
     overflow-y: scroll; /* has to be scroll, not auto */
     -webkit-overflow-scrolling: touch;
-    padding: 50px 15px;
+    padding: 50px 40px;
 }
 
 .mobile-menu-btn {
@@ -159,12 +163,20 @@ ol, {
         height: auto;
         overflow: initial;
     }
-    .page-layout__sidebar {
-        display: none;
-    }
     .mobile-menu-btn {
         display: block;
     }
+    .page-layout__content {
+        padding: 30px 15px;
+    }
+    
+    .mobile-hide {
+        display: none;
+    }
+}
+
+.mobile-show {
+    display: none;
 }
 
 

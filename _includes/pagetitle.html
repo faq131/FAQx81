@@ -1,0 +1,8 @@
+<div class="h1" style="font-size: 65px !important;">
+    {{ site.title | default: site.github.repository_name }}
+    <a href="{{ site.github.repository_url }}">
+        {% if site.github.is_project_page %}
+            <img src="https://help.github.com/assets/images/site/invertocat.png" width="24px" alt="" title="GitHub">
+        {% endif %}
+    </a>
+</div>
