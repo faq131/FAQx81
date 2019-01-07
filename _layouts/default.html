@@ -28,7 +28,7 @@
         <div class="page-layout__row">
             <aside class="page-layout__sidebar" id="menu">
                 <nav class="toc-menu">
-                    <div class="mobile-show">
+                    <div class="mobile-show" style="text-align: center;">
                         {% include pagetitle.html %}
                     </div>
                     {% include toc.html html=content %}
@@ -41,7 +41,7 @@
             </aside>
             <main class="page-layout__content">
                 <div class="page-layout__content-inner">
-                    <div class="mobile-hide" style="text-align: center;">
+                    <div class="mobile-hide">
                         {% include pagetitle.html %}
                     </div>
                     {{ content }}
