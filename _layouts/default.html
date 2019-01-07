@@ -15,30 +15,23 @@
 </head>
 <body>
     <div class="container">
-        <div>
-            <div class="content">
-                <header>
-                    <div class="h1" style="font-size: 65px !important;">
-                        {{ site.title | default: site.github.repository_name }}
-                        <a href="{{ site.github.repository_url }}">
-                        {% if site.github.is_project_page %}
-                            <img src="https://help.github.com/assets/images/site/invertocat.png" width="24px" alt="" title="GitHub"></a>
-                        {% endif %}
-                    </div>
-                </header>
-                <main itemprop="articleBody">
-                    {{ content }}
-                </div>
+        <main class="content" itemprop="articleBody">
+            <div class="h1" style="font-size: 65px !important;">
+                {{ site.title | default: site.github.repository_name }}
+                <a href="{{ site.github.repository_url }}">
+                    {% if site.github.is_project_page %}
+                        <img src="https://help.github.com/assets/images/site/invertocat.png" width="24px" alt="" title="GitHub">
+                    {% endif %}
+                </a>
             </div>
-        </div>
-        <aside>
-            <div class="sidebar">
-                <nav aria-label="Table of Contents">
-                    <h1>Оглавление</h1>
-                    {% include toc.html html=content %}
-                </nav>
-            </div>
-        </asid>
+            {{ content }}
+        </main>
+        <aside class="sidebar">
+            <nav aria-label="Table of Contents">
+                <h1>Оглавление</h1>
+                {% include toc.html html=content %}
+            </nav>
+        </aside>
     </div>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
