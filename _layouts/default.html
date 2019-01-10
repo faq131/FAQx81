@@ -7,11 +7,13 @@
     <div class="page-layout">
         <div class="page-layout__row">
             <aside class="page-layout__sidebar" id="menu">
-                <nav class="toc-menu">
+                <nav>
                     <div class="mobile-show" style="text-align: center;">
                         {% include pagetitle.html %}
                     </div>
-                    {% include toc.html html=content %}
+                    <div class="toc-menu">
+                        {% include toc.html html=content %}
+                    </div>
                     <div class="social-block">
                         <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
                         <script src="//yastatic.net/share2/share.js"></script>
