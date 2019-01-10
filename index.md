@@ -525,7 +525,7 @@
 - дворники размер 46 и 53 (48 54) (ставят 50 и 53)
 - дворники. ремкомплект трапеции от 2110 - [drive2.ru/…](https://www.drive2.ru/l/486742803573899393/)
 - дворники - изготовлние зимней трапеции [drive2.ru/…](https://www.drive2.ru/l/470582456546755435/)
-- 'зимний режим' дворников. ЗНАТЬ ВСЕМ! - [vk.com/…](https://vk.com/wall-31295460_653887) &&  [youtube.com/…](https://youtu.be/eSZk8unD9n0)
+- 'зимний режим' дворников. ЗНАТЬ ВСЕМ! - [vk.com/…](https://vk.com/wall-31295460_653887) &&  [youtube.com/…](https://youtu.be/eSZk8unD9n0) && [vk.com/…](https://vk.com/x81squad?z=video29477976_456239039%2F750d02a6a1c861cf87%2Fpl_post_-31295460_446565)
 
 ## лобаш
 - лобовое на марк2 хардтоп 2500 кмб гласс [kmk.nnov.ru/…](http://kmk.nnov.ru/autostekla/?cat=TOYOTA&model=Mark+II) && [vk.com/…](https://vk.com/wall-31295460_535854)
