@@ -1,0 +1,37 @@
+<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+<script>
+    function collapceMenu() {
+        document.addEventListener('click', function (event) {
+            if (!event.target.matches('.toc-menu>ul>li>a')) {
+                return;
+            }
+            let submenu = event.target.nextElementSibling;
+            if (document.body.contains(submenu)) {
+                toggleElement(submenu);
+            }
+        }, false);
+
+        function toggleElement(el) {
+            window.getComputedStyle(el).display === 'none' ? el.style.display = 'block' : el.style.display = 'none';
+        }
+    }
+    collapceMenu();
+</script>
+
+<!-- Yandex.Metrika -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(51819752, "init", {
+        id:51819752,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51819752" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
