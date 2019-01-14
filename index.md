@@ -33,9 +33,9 @@
 - схемы с расходниками подвески (ориг, заменители, от других машин, полик) - [drive2.ru/…](https://www.drive2.ru/l/503523000281203440/)
 
 ## кастомные сайленты
-- rастомные сайлентблоки (японская резина/танковая резина) 500-600р. Или 10к за комплект Омск -[vk.com/…](https://vk.com/wall-106709966_49873) && [vk.com/…](https://vk.com/wall-106709966_52263) && [vk.com/…](https://vk.com/wall-106709966_53297)
-- rастомные сайленблоки (капролактан, втулка, прессмасленка) ЕПБ (по размерам) - [vk.com/…](https://vk.com/market-143577202?w=product-143577202_751473) && [drive2.ru/…](https://www.drive2.ru/l/488940452439916762/)
-- если хочется доступный полик во всю подвеску, то можно вытачить обоймы-переходники под тазополик из любого магаза (можно их вообже наглухо приварить)
+- кастомные сайлентблоки (японская резина/танковая резина) 500-600р. Или 10к за комплект Омск -[vk.com/…](https://vk.com/wall-106709966_49873) && [vk.com/…](https://vk.com/wall-106709966_52263) && [vk.com/…](https://vk.com/wall-106709966_53297)
+- кастомные сайленблоки (капролактан, втулка, прессмасленка) ЕПБ (по размерам) - [vk.com/…](https://vk.com/market-143577202?w=product-143577202_751473) && [drive2.ru/…](https://www.drive2.ru/l/488940452439916762/)
+- если хочется доступный полик во всю подвеску, то можно вытачить обоймы-переходники под тазополик из любого магазина (можно их вообще наглухо приварить)
 
 ## плавающий
 - плавающий сайлентблок (42210-14010) (2,3к) **от Супры A70 через втулки** - [drive2.ru/…](https://www.drive2.ru/l/460341605245648992/) Втулки сделает токарь, чертежи по ссылке (нужна только внешняя обойма). [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?p=516924#post516924) (похожая тема на 100 кузове [drive2.ru/…](https://www.drive2.ru/l/7955198)) && [drive2.ru/…](https://www.drive2.ru/l/471492302418739452/) && похожая тема для других тойот [drive2.ru/…](https://www.drive2.ru/l/5326144/) && нам надо только внешнюю(!) обойму && (применяемость: Toyota Camry Gracia, SXV25W, MCV25W, SXV25, MCV25, Toyota Camry, SV25, SV35, Toyota Mark II Wagon Qualis, SXV25W, MCV25W, SXV25, MCV25, Toyota Soarer, GZ20, MZ21, MZ20, Toyota Supra, GA70, GA70H, JZA70, MA70, Toyota Vista, SV25, SV35)
@@ -121,7 +121,7 @@
 
 
 # Тормоза
-- отличия тормозных дизков gx-jzx [vk.com/…](https://vk.com/wall-31295460_620088)
+- отличия тормозных дисков gx-jzx [vk.com/…](https://vk.com/wall-31295460_620088)
 - ремкомплект суппортов gx - перед 800, зад 2к [pp.vk.me/…](https://pp.vk.me/c626424/v626424077/2663c/KN1E2PLQjpo.jpg)
 
 ## гтц
@@ -180,7 +180,7 @@
 ## упоры капота
 - газовые упоры капота от 2108/9 [drive2.ru/…](https://www.drive2.ru/l/1446799/) && [drive2.ru/…](https://www.drive2.ru/l/471478833401299687/)
 - газовые упоры капота -> FENOX для задней двери Нивы ВАЗ2121, 2131, 2108 (290Н сила) - резьба [drive2.ru/…](https://www.drive2.ru/l/288230376152036717/) && гайка [drive2.ru/…](https://www.drive2.ru/l/288230376152059883) && гайки [drive2.ru/…](https://www.drive2.ru/l/6098/)
-- гаовые упоры от 2112 (альтернативный путь) [drive2.ru/…](https://www.drive2.ru/l/511520572983738828/)
+- газовые упоры от 2112 (альтернативный путь) [drive2.ru/…](https://www.drive2.ru/l/511520572983738828/)
 - газовые упоры от 2104 2121 2110 Fenox A901 001 [drive2.ru/…](https://www.drive2.ru/b/1091965)
 - газовые упоры капота (аналог) Checkstar 70033 (700р\шт) - [drive2.ru/…](https://www.drive2.ru/l/490164483759538455/)
 - газовые упоры от крузака 80 (53450-69015) без переделок (1к) [m.vk.com/…](https://m.vk.com/wall-31295460_425000#wall_reply-31295460_425023) (SAT 500р\шт ST5345069015)
@@ -212,30 +212,30 @@
 ## колы, plaza
 **колы**
 - колы от ниссана - [vk.com/…](https://vk.com/wall-139119461_55)
-- колы фуллтапы от s13 на сток и нисано-подвеску [www.youtube.com/…](https://www.youtube.com/watch?time_continue=2&v=eyHjAwZjBSk)
+- колы фуллтапы от s13 на сток и ниссано-подвеску [www.youtube.com/…](https://www.youtube.com/watch?time_continue=2&v=eyHjAwZjBSk)
 - колы от глории с незначительными - [drive2.ru/…](https://www.drive2.ru/l/467845222349407046/)
-- колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под нисано-кулаки)
+- колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под ниссано-кулаки)
 - колы от аристы, маджесты - переделка [drive2.ru/…](https://www.drive2.ru/l/498068323095806575/)
 - от чего колы подходят https://vk.com/wall-31295460_649014
 
 **plaza**
-- стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в ТЕМС сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
+- стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
 
 ## tems
-**что такое темс**
-- TEMS - режимы работы [drive2.ru/…](https://www.drive2.ru/l/456812447798395787)
+**что такое tems**
+- tems - режимы работы [drive2.ru/…](https://www.drive2.ru/l/456812447798395787)
 - почему не лезет обычный картридж 
 - что надо для перехода на овощные стойки
 
 **перед**
-- ТЕМС - картриджи 48511-29645, 48511-22360, 48511-22370, 48511-29515 [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?t=25635)
-- TEMS передние картриджи с крутилками 48511-29645 (5к) (а на самом картридже номер 48511-22360 (1.8к) - это КАЯБы с ТЕМСом) [drive2.ru/…](https://www.drive2.ru/l/1245049/) && [drive2.ru/…](https://www.drive2.ru/l/7895580/) && [drive2.ru/…](https://www.drive2.ru/l/9197944/) && [drive2.ru/…](https://www.drive2.ru/l/8779699/) 
-- TEMS - В передние стойки (только Tems) подходят картриджи (не Tems) с задних стоек MR2 , номер: 365-100 (2,5к) [drive2.ru/…](https://www.drive2.ru/l/2913839/)
-- Что засунуть в стаканы темс: 2110, мр2, плаза итд [vk.com/…](https://vk.com/wall-31295460_614431?reply=614450) (плаза от 2110 чуть не лезет [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125))
+- tems- картриджи 48511-29645, 48511-22360, 48511-22370, 48511-29515 [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?t=25635)
+- tems передние картриджи с крутилками 48511-29645 (5к) (а на самом картридже номер 48511-22360 (1.8к) - это КАЯБы с tems'ом) [drive2.ru/…](https://www.drive2.ru/l/1245049/) && [drive2.ru/…](https://www.drive2.ru/l/7895580/) && [drive2.ru/…](https://www.drive2.ru/l/9197944/) && [drive2.ru/…](https://www.drive2.ru/l/8779699/) 
+- tems - В передние стойки (только tems) подходят картриджи (не tems) с задних стоек MR2 , номер: 365-100 (2,5к) [drive2.ru/…](https://www.drive2.ru/l/2913839/)
+- Что засунуть в стаканы tems: 2110, мр2, плаза итд [vk.com/…](https://vk.com/wall-31295460_614431?reply=614450) (плаза от 2110 чуть не лезет [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125))
 
 **зад**
-- TEMS - зад 48530-29096, 48530-29097, 48530-29098, 48530-29185, 48530-29186 [toyota.epcdata.ru/…](https://toyota.epcdata.ru/mark_ii/GX81/80762/chassis/4804/48530/?fromOemSetSearch=1)
-- TEMS назад подходят от сотки (передние) - вверху дырки подкорректировать надо, внизу болт толще. В остальном как родные
+- tems - зад 48530-29096, 48530-29097, 48530-29098, 48530-29185, 48530-29186 [toyota.epcdata.ru/…](https://toyota.epcdata.ru/mark_ii/GX81/80762/chassis/4804/48530/?fromOemSetSearch=1)
+- tems назад подходят от сотки (передние) - вверху дырки подкорректировать надо, внизу болт толще. В остальном как родные
 
 ## сток стойки
 **перед**
@@ -248,19 +248,19 @@
 - Картридж в стойку (хз какую) размеры [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
 
 **зад**
-- задние стойки от тазов. (+ картридж в темс стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
+- задние стойки от тазов. (+ картридж в tems-стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
 - стойки задние подходят от 90 (передние) и вроде задние подходят [vk.com/…](https://vk.com/wall-31295460_595774)
 - стойки зад от ваза (дешевые ремкомплекты) - [drive2.ru/…](https://www.drive2.ru/l/2729349/)
 
 ## опоры
 **сток**
-- разница обычных и темс опор [a.d-cd.net/…](https://a.d-cd.net/RcAAAgDI1OA-480.jpg)
+- разница обычных и temsопор [a.d-cd.net/…](https://a.d-cd.net/RcAAAgDI1OA-480.jpg)
 - опоры передние для овощных стоек 48609-22100, 48609-22070 [drive2.ru/…](https://www.drive2.ru/l/288230376152572423/#post)
-- опоры передние на TEMS от короны бочки [vk.com/…](https://vk.com/wall-31295460_558051)
+- опоры передние на tems от короны бочки [vk.com/…](https://vk.com/wall-31295460_558051)
 - опоры задних стоек от 100 [drive2.ru/…](https://www.drive2.ru/l/473678956168479211/#comments)
 - кастом опоры шс (Yuran) (2к) - [drive2.ru/…](https://www.drive2.ru/l/3610124/)
 
-**резулируемые опоры**
+**регулируемые опоры**
 - регулируемые опоры стоек WWshop (5к) (говорят, что фиговые) - [vk.com/…](https://vk.com/wall-96463523_601)
 - кастом опоры 4к [vk.com/…](https://vk.com/wall-96463523_163) && [vk.com/…](https://vk.com/wall-96463523_311)
 - регулируемые опоры стоек (чертеж) - [vk.com/…](https://vk.com/wall-31295460_543490)
@@ -322,7 +322,7 @@
 - распорка рычагов smt174 [drive2.ru/…](https://www.drive2.ru/l/475128387371794569/#comments)
 - распорка задних чашек smt174 [drive2.ru/…](https://www.drive2.ru/l/470294109622370852/)
 - разные распорки от smt174 [vk.com/…](https://vk.com/smt174?z=album-96001230_229444187)
-- распорта японская трехточечная + между стоек [a.d-cd.net/…](https://a.d-cd.net/55d44d4s-960.jpg) && [a.d-cd.net/…](https://a.d-cd.net/7f244d4s-960.jpg)
+- распорка японская трехточечная + между стоек [a.d-cd.net/…](https://a.d-cd.net/55d44d4s-960.jpg) && [a.d-cd.net/…](https://a.d-cd.net/7f244d4s-960.jpg)
 - Распорка перед smt под 1jz - [vk.com/…](https://vk.com/wall-96001230_1216)
 - Распорка трехточечная smt под гте [vk.com/…](https://vk.com/wall-96001230_1416)
 - Распорка заводская новая - 6.5к [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53607A/) && 500р [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53692/)
@@ -337,8 +337,8 @@
 
 ## привода
 - привода подходят оба левых от 90\100 (короче) [vk.com/…](https://vk.com/wall-31295460_410637)
-- пыльник шруса на жирных приводах 8' редуктора от LandCruser R80442760080D - [drive2.ru/…](https://www.drive2.ru/l/503322064531226999/?m=503360822316107074&page=0#a503360822316107074)
-- пыльник шруса  [vk.com/…](https://vk.com/wall-31295460_439916) - внутриний 04437-22050, наружние 04437-22060 && а наружний я от кадета, от 100, лайтэйса… [vk.com/…](https://vk.com/wall-31295460_579840) && от vag 75725S[drive2.ru/…](https://www.drive2.ru/l/500048818415337743/) &&, дубли от Miyaco KB1198 внутренний и наружный подобран по размеру от люсиды / высота 80мм, диаметры 90мм и 25мм [drive2.ru/…](https://www.drive2.ru/l/49975/)
+- пыльник ШРУСа на жирных приводах 8' редуктора от LandCruser R80442760080D - [drive2.ru/…](https://www.drive2.ru/l/503322064531226999/?m=503360822316107074&page=0#a503360822316107074)
+- пыльник ШРУСа [vk.com/…](https://vk.com/wall-31295460_439916) - внутренний04437-22050, наружные04437-22060 && а наружний я от кадета, от 100, лайтэйса… [vk.com/…](https://vk.com/wall-31295460_579840) && от vag 75725S[drive2.ru/…](https://www.drive2.ru/l/500048818415337743/) &&, дубли от Miyaco KB1198 внутренний и наружный подобран по размеру от люсиды / высота 80мм, диаметры 90мм и 25мм [drive2.ru/…](https://www.drive2.ru/l/49975/)
 
 ## блокировка
 - блокировка русская червячная на тойоту … (подойдет-нет?) [vk.com/…](https://vk.com/wall-31295460_474634) производитель самоглок (не для дрифту) [samoblok.ru/…](http://samoblok.ru/catalog/toyota/) && установка 7.5 [drive2.ru/…](https://www.drive2.ru/l/452671961886097446/#a452704672357024016)
@@ -377,7 +377,7 @@
 - ориг 88926-24010 (6к) 250х300х3.5 
 - от audi TT A3 (5Q0819644A) размер (254х235х32), угольный CN1070K 160р - [drive2.ru/…](https://www.drive2.ru/l/518117092994581677/#comments)  && [drive2.ru/…](https://www.drive2.ru/l/520064053209464844/)
 - пара от калины \ четыре от ‘новой’ газели) [drive2.ru/…](https://www.drive2.ru/l/1249857/) 
-- другой тип фильтра - замена фильтруещего элемента [drive2.ru/…](https://www.drive2.ru/l/6835373/) &&  [drive2.ru/…](https://www.drive2.ru/l/515317736390263707/)
+- другой тип фильтра - замена фильтрующего элемента [drive2.ru/…](https://www.drive2.ru/l/6835373/) &&  [drive2.ru/…](https://www.drive2.ru/l/515317736390263707/)
 
 ## салонный фильтр
 **если шел с завода**
@@ -390,10 +390,10 @@
 - хз подойдет нет. в размер 220х200х20 попадает 8850812010 + LA269 + CU2015 + CU2015 + LAC112 + JDACX018 + FAATY0 + JDACX018 + 21TYTY0 + TC1007 + J1342002 + ADT32501 + AG569CF + ADT32501 + J1342002 + AG569CF + CF9659 + K1177 + AH295 + CF9659 + LA269 + 715565 + 1987432155
 
 **колхоз - врезаем фильтр в печку**
-- как снять бардачек [drive2.ru/…](https://www.drive2.ru/l/1988627/)
+- как снять бардачок [drive2.ru/…](https://www.drive2.ru/l/1988627/)
 - горячий нож из паяльника fix-price (50р) - [www.youtube.com/…](https://www.youtube.com/watch?v=USaPeNVa77o)
 - установка из faq со снятием - [drive2.ru/…](https://www.drive2.ru/c/1104780/) + друге ракурсы [vk.com/…](https://vk.com/photo-31295460_456278435)
-- вместо испарителя кондера со снятием - [drive2.ru/…](https://www.drive2.ru/l/465620085692695158/)
+- вместо испарителя кондиционера со снятием - [drive2.ru/…](https://www.drive2.ru/l/465620085692695158/)
 - без снятия с быстрым доступом для замены - [drive2.ru/…](https://www.drive2.ru/l/496084804119298616/)
 - без снятия печки, но в труднодоступном месте   - [vk.com/…](https://vk.com/wall-31295460_524637)([drive2.ru/…](https://www.drive2.ru/l/474313924133519473/)) && [drive2.ru/…](https://www.drive2.ru/l/487708449660993930/) && [drive2.ru/](https://www.drive2.ru/l/490837659753644162/…)
 
@@ -410,7 +410,7 @@
 - скрепкой [docs.google.com/…](https://docs.google.com/document/d/1EmnOwKccweaKGPL7pzkxuUhu5CpYUzxhWhLBU00VKV0/edit)
 - скрепкой [drive2.ru/…](https://www.drive2.ru/l/5597688/) 
 - сканером (который видит 90’ки) через салонный разъем (под капотом [отсутствует контакт](https://4.bp.blogspot.com/-mqYFPaLhxk4/V2cCppPQnKI/AAAAAAAAAcw/logVVu6b3N8T-GVF7rDvzjz2GguqjOUEgCLcB/s640/MISSINGTE2.png) Te2 )
-- cartester8000 + ноут + переходник usb→com [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://www.drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip)
+- cartester8000 + ноут + переходник USB→COM [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://www.drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip)
 - arduino + android [drive2.ru/…](https://www.drive2.ru/l/7650414)
 - приложение для андроида + zf адаптер для obd1 за $50 (разъем DLC2)  [play.google.com/…](https://play.google.com/store/apps/details?id=zfapps.toyobd1) &&  [zf-scantools.com/…](https://zf-scantools.com/) && [jfbreton.blogspot.ru](http://jfbreton.blogspot.ru/search/label/TOYOBD1)
 
@@ -457,13 +457,13 @@
 
 
 # Освещение
-## светящийся значек на решетке
+## светящийся значок на решетке
 - родной светящийся значек. запуск от блока led-ленты - [vk.com/…](https://vk.com/wall-31295460_632699?reply=632709)
-- светящийся значек. характеристики повышающего блока [drive2.ru/…](https://www.drive2.ru/l/488028682422583481/)
-- светящийся начек SMD LED [vk.com/…](https://vk.com/wall-31295460_622423)
-- светящийся значек. Что внутри [drive2.ru/…](https://www.drive2.ru/l/4174883/)
-- светящийся значек. светобумага. EL Panel. [s.aliexpress.com/…](http://s.aliexpress.com/AnEJFRvQ)
-- светящийся значек диоды проские 8шт - [drive2.ru/…](https://www.drive2.ru/l/480091582859575670/) && [drive2.ru/…](https://www.drive2.ru/l/480092132615389486/)
+- характеристики повышающего блока [drive2.ru/…](https://www.drive2.ru/l/488028682422583481/)
+- SMD LED [vk.com/…](https://vk.com/wall-31295460_622423)
+- что внутри [drive2.ru/…](https://www.drive2.ru/l/4174883/)
+- светобумага. EL Panel. [s.aliexpress.com/…](http://s.aliexpress.com/AnEJFRvQ)
+- диоды плоские 8шт - [drive2.ru/…](https://www.drive2.ru/l/480091582859575670/) && [drive2.ru/…](https://www.drive2.ru/l/480092132615389486/)
 - изготовление значка светящегося - [drive2.ru/…](https://www.drive2.ru/l/480091582859575670/#comments)
 - ремонт - [drive2.ru/…](https://www.drive2.ru/l/515321034925146636/)
 
@@ -502,8 +502,8 @@
 - родные лампы климата 81938-22110. родные мини-лампочки типа TSD, с патронами, самой лампочкой и г*ндончиками от климата jzx100, которые идеально подходят везде где есть цоколь TSD в 81кузов - 90010-03003 (в приборке камри **90072-02006**) (климат, акпп, приборка) 90072-02020 (зеленый презик), 90010-01122 (желтый презик) и **Koito 1563**(x10)
 - подсветка аварийки [vk.com/…](https://vk.com/wall-31295460_446511)
 - подсветка климата - [drive2.ru/…](https://www.drive2.ru/l/513571711925354588/)
-- подстветка климата, стеклоподъемников, акпп итд - переделка на обычные светодиоды 3мм (5р/шт * 22) [vk.com/…](https://vk.com/wall-31295460_550056)
-- ремонт плафона (ппопал контакт) - [drive2.ru/…](https://www.drive2.ru/l/489274703974761101/)
+- подсветка климата, стеклоподъемников, акпп итд - переделка на обычные светодиоды 3мм (5р/шт * 22) [vk.com/…](https://vk.com/wall-31295460_550056)
+- ремонт плафона (пропал контакт) - [drive2.ru/…](https://www.drive2.ru/l/489274703974761101/)
 
 ## евросвет
 - полноценный евросвет не получится [drive2.ru/…](https://www.drive2.ru/l/7776236#comments)
@@ -513,7 +513,7 @@
 
 
 # Стекла
-- регклировка безарочных стекол - [vk.com/…](https://vk.com/wall-31295460_528044)
+- регулировка безрамочных стекол - [vk.com/…](https://vk.com/wall-31295460_528044)
 - снятие молдингов заднего стекла на кресте [vk.com/…](https://vk.com/wall-31295460_512411)
 
 ## не закрывается
@@ -524,13 +524,13 @@
 ## дворники
 - дворники размер 46 и 53 (48 54) (ставят 50 и 53)
 - дворники. ремкомплект трапеции от 2110 - [drive2.ru/…](https://www.drive2.ru/l/486742803573899393/)
-- дворники - изготовлние зимней трапеции [drive2.ru/…](https://www.drive2.ru/l/470582456546755435/)
+- дворники - изготовление зимней трапеции [drive2.ru/…](https://www.drive2.ru/l/470582456546755435/)
 - 'зимний режим' дворников. ЗНАТЬ ВСЕМ! - [vk.com/…](https://vk.com/wall-31295460_653887) &&  [youtube.com/…](https://youtu.be/eSZk8unD9n0) && [vk.com/…](https://vk.com/x81squad?z=video29477976_456239039%2F750d02a6a1c861cf87%2Fpl_post_-31295460_446565)
 
 ## лобаш
 - лобовое на марк2 хардтоп 2500 кмб гласс [kmk.nnov.ru/…](http://kmk.nnov.ru/autostekla/?cat=TOYOTA&model=Mark+II) && [vk.com/…](https://vk.com/wall-31295460_535854)
 - бонавто. стекла на наш кузов - [bona-parts.ru/…](http://bona-parts.ru/o-nas)
-- какую фирму выбать - [vk.com/…](https://vk.com/x81squad?w=wall-31295460_326299)
+- какую фирму выбрать - [vk.com/…](https://vk.com/x81squad?w=wall-31295460_326299)
 - где заказать стекла - [vk.com/…](https://vk.com/wall-31295460_540510)
 
 
@@ -546,9 +546,9 @@
 - пороги оцинковка 1мм 2.5к - [vk.com/…](https://vk.com/wall-31295460_527703)
 - пороги от волги (3), усилители от нивы - [vk.com/…](https://vk.com/wall-31295460_542168#wpt-31295460_542261)
 - Передние ветровики от альтезы gx10 - [drive2.ru/…](https://www.drive2.ru/l/477850503284261070/)
-- Фрион 12. Аналог 406а - [vk.com/…](https://vk.com/wall-31295460_544574)
-- патрубок воздушного фильтра перед дросселем от мазды6 - [drive2.ru/…](https://www.drive2.ru/l/9505299/)
-- Задние арки, ремкомплект от гольф2. VAN WEZEL 5812500 KLOKKERHOLM 9521595, арки от нивы, газели, пороги от волги [vk.com/…](https://vk.com/wall-31295460_554336)&& [vk.com/…](https://vk.com/wall-31295460_598351)
+- Фреон 12. Аналог 406а - [vk.com/…](https://vk.com/wall-31295460_544574)
+- патрубок воздушного фильтра перед дросселем от мазды 6 - [drive2.ru/…](https://www.drive2.ru/l/9505299/)
+- Задние арки, ремкомплект от гольф 2. VAN WEZEL 5812500 KLOKKERHOLM 9521595, арки от нивы, газели, пороги от волги [vk.com/…](https://vk.com/wall-31295460_554336)&& [vk.com/…](https://vk.com/wall-31295460_598351)
 - Пороги от хонда торнео [vk.com/…](https://vk.com/wall-31295460_554839)
 - Пороги от волги
 - Промывка форсунок без снятия (вимс, лавр) [vk.com/…](https://vk.com/wall-31295460_561721)
@@ -561,10 +561,10 @@
 - Чтоб кулиса не болталась. Чертеж - [vk.com/…](https://vk.com/wall-31295460_547724) && [drive2.ru/…](https://www.drive2.ru/l/489983614096769658/)
 - Кулиса [vk.com/…](https://vk.com/wall-31295460_592934)
 - Ручка двери. Ремонт [vk.com/…](https://vk.com/wall-31295460_595458)
-- Клапан кондиционера - частая причина ухода фриона из системы - [vk.com/…](https://vk.com/wall-31295460_638976)
+- Клапан кондиционера - частая причина ухода фреона из системы - [vk.com/…](https://vk.com/wall-31295460_638976)
 - как выбрать аккум (кальуевый, 500-600А, производство до 6мес, гарантия 2-4года) - [www.youtube.com/…](https://www.youtube.com/watch?v=ViuqEJ3nC3I)
 - крышка пассажирского динамика своими кривыми руками - [a.d-cd.net/…](https://a.d-cd.net/x0AAAgDXMOA-960.jpg) &&[drive2.ru/…](https://www.drive2.ru/l/498695594479452280/)
-- Крышкк пассажирского динамика из говна и палок - [vk.com/…](https://vk.com/wall-31295460_614538)
+- Крышка пассажирского динамика из говна и палок - [vk.com/…](https://vk.com/wall-31295460_614538)
 - Пластиковая тяга ручек дверей с любой тойоты [www.farpost.ru/…](https://www.farpost.ru/vladivostok/auto/sell_spare_parts/tjaga-ruchek-bokovyh-dverej-69293-12060-g2009855930.html) && [vk.com/…](https://vk.com/wall-31295460_615612)
 - Подшипники на 8' редуктор [vk.com/…](https://vk.com/wall-31295460_620472?reply=620569)
 - Проставка под топливную рейку (чертеж) [vk.com/…](https://vk.com/wall-31295460_621531)
@@ -578,11 +578,11 @@
 - адаптеры под универсальную лямбду - [ajs.su/…](https://ajs.su/search/?query=%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B5%D1%80+%D0%B4%D0%BB%D1%8F+%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8+%D0%BB%D1%8F)
 - клипсы под задние фонари [vk.com/…](https://vk.com/wall-31295460_642126)
 - упор гтц 1,2к в SMT174 - [vk.com/…](https://vk.com/market-96001230?w=product-96001230_814748%2Fquery) && чертеж [drive2.ru/…](https://www.drive2.ru/l/5615347)
-- переделка гетраг для jя и uz (колокол, что комплект) (8-45) [vk.com/…](https://vk.com/jz_uz_bmw)
+- переделка гетраг для jz и uz (колокол, что комплект) (8-45) [vk.com/…](https://vk.com/jz_uz_bmw)
 - сварит все что надо для свапа (лапы, рычаги… что хошь) [vk.com/…](https://vk.com/id5300733)
 - Harvest - [vk.com/…](https://vk.com/harvesttrans)
 - писалки веерные (белые) от 30 виндома 85381-33060-A0 WHITE PEARL + обратный клапан к ним 85321-26020 или от камри 85381-aa042
-- держатель крышки бензорбака 77399-28010 && 77399-12010 && &&
+- держатель крышки бензобака 77399-28010 && 77399-12010 && &&
 - Крепление для крышки бензобака на люючке 17255-jk000
 - Заглушки на болты сидений 96236550
 - дворники откидывающиеся [pp.vk.me/…](https://pp.vk.me/c636729/v636729055/338a2/Bp2cLTFy8M4.jpg)
@@ -590,7 +590,7 @@
 - кастом пепельница для некурящих (напыление флока) - [drive2.ru/…](https://www.drive2.ru/l/5085463/)
 - уплотнитель резиновый между дверей (от грязи) ( лексус 570ршт 67896-60030 Правый 67895-60030 Левый) - [drive2.ru/…](https://www.drive2.ru/l/469804552070103233/) && [drive2.ru/…](https://www.drive2.ru/l/4641641/) && от 570 лексуса [drive2.ru/…](https://www.drive2.ru/l/471703408651273834/) && установка [drive2.ru/…](https://www.drive2.ru/l/472027489703559275/)
 - Уплотнитель резиновый между дверей РКИ-19 000017504293020, 00001750429302 - [drive2.ru/…](https://www.drive2.ru/l/4641641/) && [magazinrti66.ru/…](http://magazinrti66.ru/catalog/uplotniteli/)(Титова,19)
-- фильтр стеклоомывателя (3538564) (просто в магазе от 20 до 100р) [drive2.ru/…](https://www.drive2.ru/l/8606175/)
+- фильтр стеклоомывателя (3538564) (просто в магазине от 20 до 100р) [drive2.ru/…](https://www.drive2.ru/l/8606175/)
 - Крючок для крепления водительского коврика PZ410-99350-01 && 08211-00720 && 08210-00820 (50р 2шт) [drive2.ru/…](https://www.drive2.ru/l/461263270867633980/) + люверсы к нему VAG 3C0 864 521 9B9 (2 шт) VAG 3C0 864 523 9B9 (2 шт) (для резиновых ковриков) [drive2.ru/…](https://www.drive2.ru/l/463621448431305808/)
 - Изготовление значка yamaha concept 3к - [vk.com/…](https://vk.com/wall-130662053_3428) (стояли на задних стойках и у некоторых на багажнике)
 - бабушкины кружева от 90 марка [drive2.ru/…](https://www.drive2.ru/l/500021330624643091/#comments)
@@ -598,6 +598,6 @@
 - Бар с ручником. Как разметить где устанавливать - [vk.com/…](https://vk.com/wall-31295460_625945?reply=625983)
 - замена патрубка на кран печки -https://www.drive2.ru/l/514689640372896807/
 - молдинги от 14 рест  либо от  100 https://vk.com/wall-31295460_659373
-- Подборка святого китойского хлама  https://vk.com/wall-31295460_661952
+- Подборка святого китайского хлама  https://vk.com/wall-31295460_661952
 
 
