@@ -534,8 +534,6 @@
 - какую фирму выбрать - [vk.com/…](https://vk.com/x81squad?w=wall-31295460_326299)
 - где заказать стекла - [vk.com/…](https://vk.com/wall-31295460_540510)
 
-
-
 # Разное
 - конвертер Pilot VAF/MAF [shop.pilotpowersupply.com/…](http://shop.pilotpowersupply.com/konverteryi-pilot-vaf-maf/konverter-pilot-vaf-maf-prostaya-versiya-0-5v/)
 - петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://www.drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
@@ -602,3 +600,124 @@
 - Подборка святого китайского хлама  https://vk.com/wall-31295460_661952
 
 
+##Стеклопластик итп
+NB проверяйте отзывы! 
+есть мутные типы с непостоянным качеством и пролюбленной отправкой
+
+- куча всего (видимо с японии) [tuningatar.ru/…](http://tuningatar.ru/katalog/mark2-89-92)
+- дефлектор люка [tuningatar.ru/…](http://tuningatar.ru/products/deflektor-na-lyuk-dymchatyj-mark2-88-92g)
+- оригинальное крепление козырька - https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg
+- кастом крепление козырька - [drive2.ru/…](https://www.drive2.ru/l/453332218618578531/) && [drive2.ru/…](https://www.drive2.ru/experience/toyota/g2693/)
+
+##разное
+- крышка левого динамика [drive2.ru/…](https://www.drive2.ru/l/9558775/)
+- Yuran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://www.drive2.ru/l/9438393/#comments) && https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg
+- Yuran - крылья на кресту, спойлер ducktail, площадка акб, бардачек в багажник, губа, губа gtr, пороги [vk.com/…](https://vk.com/gtcomposite) && [vk.com/…](https://vk.com/market-106467375) && [drive2.ru/…](https://www.drive2.ru/l/5802653)
+- Yuran - поддон под акб 600 [vk.com/…](https://vk.com/gtcomposite?z=photo-106467375_388323624%2Falbum-106467375_223381356%2Frev)
+- губа ГТР, дактейл, козырек на чайзера, марк - [vk.com/…](https://vk.com/wall-31295460_408530)
+- дактейл, губа [vk.com/…](https://vk.com/wall-31295460_415033)
+- Ober - BN-Sport бампер перед 8500, крылья BigWin 8, пороги 6, спойлер, козырек на заднее стекло(!) 3к, бампер by Ober [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://www.drive2.ru/l/5007108/)
+- D-apex решетка Hippo Sleak (рестайлинг) [vk.com/…](https://vk.com/d_apex_works) (видимо онже [drive2.ru/…](https://www.drive2.ru/l/509421055530500138/))
+- Agf Козырек на стекло 2500 Марк [vk.com/…](https://vk.com/wall-31295460_376849)
+- Пластикоовые накладки на пороги от хонда аккорд торнео (98-2001) (1.5-2.5к) прямые и с изгибом. Почти болтон - [drive2.ru/…](https://www.drive2.ru/l/482545967690678391/) ( Honda Accord, CL1, CL3, CF3, CF5, E-CF4, CF4, E-CF5Honda Torneo, E-CF4, CF4, CF3, E-CF5, CF5, CL1, CL3. )
+- Козырек. Креста. 1.5к - [vk.com/…](https://vk.com/wall-106709966_48465)
+- Бабичев. дактейл 4к [drive2.ru/…](https://www.drive2.ru/l/489524567992172689/#comments)
+- Бабичев. Молдинги jzx 6.5к [vk.com/…](https://vk.com/wall-31295460_591609) && [vk.com/…](https://vk.com/wall-31295460_593040)
+- FixBrix (Надобко) дактейл - [vk.com/…](https://vk.com/wall-31295460_594346)
+- Пороги автописта, клыки, губа ямаха - [vk.com/…](https://vk.com/wall-106709966_58206)
+- Yuran расширение на задние крылья [vk.com/…](https://vk.com/wall-31295460_631156) && [drive2.ru/…](https://www.drive2.ru/l/507784982228369686/)
+- Губа, губа гтр, спойлер ямаха - [vk.com/…](https://vk.com/wall-31295460_637563)
+
+
+крылья##
+- Yuran 6к - [drive2.ru/…](https://www.drive2.ru/b/2102016/)
+- D-apex задние крылья(7к) + накладки на задние двери(6к) [drive2.ru/…](https://www.drive2.ru/l/457168139809980920/)
+- Накладки задних крыльев марк,чейзер 7к https://m.vk.com/wall-31295460_424621?post_add#post_add
+- крылья без расширения. креста (4.5к) - [drive2.ru/…](https://www.drive2.ru/c/3023131/) && [vk.com/…](https://vk.com/feed?w=wall-31295460_507045_r507241)
+- крылья колхозного производства [drive2.ru/…](https://www.drive2.ru/l/471139634064130884/)
+- Ober - крылья BigWin [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://www.drive2.ru/l/5007108/)
+- D-apex крылья Big Win [vk.com/…](https://vk.com/d_apex_works)
+- Agf Крылья марк 7000 пара Задние крылья сток 7000 [vk.com/…](https://vk.com/wall-31295460_376849) && [vk.com/…](https://vk.com/wall-16140508_77)
+- Расширение rocketbunny [vk.com/…](https://vk.com/wall-106709966_37853)
+- Шевченко. Задние крылья 6к [vk.com/…](https://vk.com/wall-31295460_582264) && [vk.com/…](https://vk.com/wall-31295460_620953)
+- Шевченко. Задние крылья. Установка.[vk.com/…](https://vk.com/wall-31295460_620779) && [vk.com/…](https://vk.com/wall-31295460_620843) && [vk.com/…](https://vk.com/wall-31295460_620861)
+- крылья на чемодан [vk.com/…](https://vk.com/wall-31121113_1142)
+- доработка стеклопластиковых крыльев (с расширением) чтоб подкрылки прикрепить [vk.com/…](https://vk.com/wall-31295460_652017)
+
+
+##губы
+- Yuran - губа (реплика) из стеклопластика - [drive2.ru/…](https://www.drive2.ru/b/288230376152219250/) && [drive2.ru/…](https://www.drive2.ru/b/2102016/)
+- Yuran - губа под jzx81 (3к) - [vk.com/…](https://vk.com/wall5796235_2872)
+- реплика стоковой губы - [vk.com/…](https://vk.com/foma128)
+- губа yamaha concept 4к - [vk.com/…](https://vk.com/wall-31295460_525175)
+- губа gx jzx [vk.com/…](https://vk.com/wall-31295460_393811)
+- губа Position one на jzx (как на ямахе ток без дырок). ее делают Александр Шевченко https://pp.vk.me/c633519/v633519480/2c939/LD5aKy2q664.jpg
+- губа Yamaha Concept 5к http://www.farpost.ru/vladivostok/auto/gt/guba-yamaha-concept-na-jzx81-43692071.html && 4к [vk.com/…](https://vk.com/wall-31295460_532773)
+- губы 4-7к http://www.farpost.ru/user/mercury356/
+- губа YAMAHA на TOYOTA MARK II JZX81 (5к) [vk.com/…](https://vk.com/market-91499828?w=product-91499828_333028)
+- сток губа в выемкой от ерофеева [vk.com/…](https://vk.com/wall-31295460_420679) && и слизанная с юрана гтр32 (3к) [vk.com/…](https://vk.com/wall-31295460_433060)
+- губа trial 4к - [vk.com/…](https://vk.com/market-91499828?w=product-91499828_333052)
+- Куча губ на х81 https://m.vk.com/wall-31295460_442305?from=feed&post_add#post_add
+- губы Tria Yamaha AeroMagic - 4-6к - [vk.com/…](https://vk.com/wall-31295460_394595)
+- губа ГТР, дактейл, козырек на чайзера, марк - [vk.com/…](https://vk.com/wall-31295460_408530)
+- дактейл, губа [vk.com/…](https://vk.com/wall-31295460_415033)
+- AutoPista по частям: передняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/peredniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && задняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/zadniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && пороги 5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/porogi-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov &&
+- D-apex заводская губа [vk.com/…](https://vk.com/d_apex_works) [vk.com/…](https://vk.com/d_apex_works)
+- Agf губы gtr и trial [vk.com/…](https://vk.com/Agf81)
+- UR-project губы триал и ямаха 4к [vk.com/…](https://vk.com/ur_project)
+- Шевченко губа ямаха 3к [vk.com/…](https://vk.com/wall-31295460_582264)
+- Kdf - губа гтр [vk.com/…](https://vk.com/market-55766193?w=product-55766193_286690)
+
+
+##молдинги
+никто больше не делает 
+- молдинг 5к [vk.com/…](https://vk.com/wall-31295460_518150)
+- молдинги 4к - [vk.com/…](https://vk.com/wall-31295460_388648)
+- молдинги - (проект) [vk.com/…](https://vk.com/wall-31295460_382998)
+- готовый комплект 5к - [vk.com/…](https://vk.com/wall-31295460_527088)
+- или от нексии универсальный [drive2.ru/…](https://www.drive2.ru/l/479071785824813507/)
+- молдинги от 14 рест либо от 100 [vk.com/…](https://vk.com/wall-31295460_659373)
+
+
+##обвесы
+GT-Composite
+- Yuran - обвес GT-Composite [vk.com/…](https://vk.com/market-106467375?w=product-106467375_1918250)
+BigWin
+- Obvesoff обвес BigWin https://m.vk.com/tuningbarnaul (реплика огонь) обзор [drive2.ru/…](https://www.drive2.ru/l/9792807/#comments)
+- D-apex обвес BigWin [vk.com/…](https://vk.com/d_apex_works)
+- BigWin 19к без окрашивания https://antikrylo.ru/products/komplekt-obvesov-big-win-dlya-mark-2-80
+- BigWin 18к ЛС http://greenproject.pro/Shop/Set/89b36ea3-57fa-e211-be5e-00155d770c15 && [vk.com/…](https://vk.com/green_project) &&
+- BigWin 16к http://tuning-company.ru/catalog/161.html
+- BigWin 16к http://www.in-style.pro/shop/product/133
+- Agf BigWin 15к [vk.com/…](https://vk.com/Agf81) && [vk.com/…](https://vk.com/wall-31295460_376849)
+- Body Kit Workshop BigWin 15к без окрашивания [vk.com/…](https://vk.com/market-99754707?w=product-99754707_44707%2Fquery)
+- BigWin [vk.com/…](https://vk.com/wall-31295460_377174)
+- Kdf - BigWin 27 [vk.com/…](https://vk.com/market-55766193?w=product-55766193_746) 
+AutoPista
+- AutoPista 7.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/cresta-81-kyzov-komplekt-standartnyh-klassicheskih-obvesov
+- AutoPista по частям: задняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/zadniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && пороги 5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/porogi-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && передняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/peredniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && &&
+BN-Sport
+- Ober - BN-Sport бампер перед 8500, крылья BigWin 8, пороги 6, бампер by Ober [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://www.drive2.ru/l/5007108/)
+- бампер BN sport от 100 чайзера [drive2.ru/…](https://www.drive2.ru/l/1178120/)
+- кастомный бампер на подобии BW [drive2.ru/…](https://www.drive2.ru/l/4899916394579151048/#post!)
+
+##пороги
+- пороги пингвин (5к) и бампера (?) - [drive2.ru/…](https://www.drive2.ru/l/10477537/)
+- расширители передних крыльев, пороги [vk.com/…](https://vk.com/wall-31295460_408562) && [vk.com/…](https://vk.com/club54937175)
+- Сенек Ерофеев. Пороги AutoPista. 5.5к [vk.com/…](https://vk.com/wall-31295460_549624)
+- kfd (Илья Ковалев) - Autopista 5.5к [vk.com/…](https://vk.com/wall-31295460_555890)
+
+##капот\двери\багажник
+- боди-кит стеклопластика 70к (можно отдельно) [vk.com/…](https://vk.com/wall-31295460_521684)
+- капот && двери [drive2.ru/…](https://www.drive2.ru/l/9498710/)
+- D-apex капот SelfMade (до рестайлинг), багажник [vk.com/…](https://vk.com/d_apex_works)
+- Agf - Капот дорест марк сток 9000 Багажник 7000 руб Двери 28000 комплект хардтоп [vk.com/…](https://vk.com/wall-31295460_376849)
+- Kdf - двери 45к [vk.com/…](https://vk.com/market-55766193?w=product-55766193_1397803)
+
+##дорогобогато
+- Комплкт обвесов АБС OLUTE Type 2 для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-obvesov-perednij-bamper-porogi-zad-bamper-mark2-88-92g)
+- Комплект обвесов OKUTO для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-obvesov-okuto-perednij-bamper-porogi-zad-bamper-mark2-88-92g)
+- Комплкт обвесов FINAL KONEXXION (передний бампер, пороги, зад. бампер) для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/obvesov-final-perednij-bamper-porogi-zad-bamper-mark2-92g)
+- Комплкт обвесов BIG*WIN (передний бампер, пороги, зад. бампер) для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-bigwin-perednij-bamper-porogi-zad-bamper-mark2-92g)
+- Комплкт обвесов Диана Брилиант, брэнд, (передний бампер, пороги, зад. бампер) для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-obvesov-porogi-zad-bamper-mark2-92g)
+- Комплкт обвесов АБС OLUTE для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-bamper-porogi-zad-bamper-mark2-88-92g)
