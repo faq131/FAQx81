@@ -431,7 +431,8 @@
 
 ## допы
 - переход со стрелочного табло на калькулятор (датчик скорости + распиновка [vk.com/…](https://vk.com/wall-31295460_446574))
-- датчик скорости электро - [ru.aliexpress.com/…](https://ru.aliexpress.com/item/Zuk-Toyota-Crown-Previa-Land-Cruiser-Rush-Celica-cressdia-Hilux/32841438399.html)
+- датчик скорости электро 83181-20040 - [ru.aliexpress.com/…](https://ru.aliexpress.com/item/Zuk-Toyota-Crown-Previa-Land-Cruiser-Rush-Celica-cressdia-Hilux/32841438399.html)
+- датчик заднего хода МКПП 84210-30060 [ru.aliexpress.com/…](https://ru.aliexpress.com/item/84210-30060-Reverse-Light-Switch-For-Suzuki-Grand-Vitara-Toyota-Supra-Lexus/32806622475.html)
 - кит метлы - [drive2.ru/…](https://www.drive2.ru/l/510976589605896906/)
 - кит заднего дворника [vk.com/…](https://vk.com/wall-31295460_539798)
 - задний дворник. установка - [vk.com/…](https://vk.com/wall-31295460_539798) && [drive2.ru/…](https://www.drive2.ru/l/488730170841104497/)
