@@ -600,7 +600,7 @@
 - Подборка святого китайского хлама  https://vk.com/wall-31295460_661952
 
 
-##Стеклопластик итп
+## Стеклопластик итп
 NB проверяйте отзывы! 
 есть мутные типы с непостоянным качеством и пролюбленной отправкой
 
@@ -609,7 +609,7 @@ NB проверяйте отзывы!
 - оригинальное крепление козырька - https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg
 - кастом крепление козырька - [drive2.ru/…](https://www.drive2.ru/l/453332218618578531/) && [drive2.ru/…](https://www.drive2.ru/experience/toyota/g2693/)
 
-##разное
+## разное
 - крышка левого динамика [drive2.ru/…](https://www.drive2.ru/l/9558775/)
 - Yuran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://www.drive2.ru/l/9438393/#comments) && https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg
 - Yuran - крылья на кресту, спойлер ducktail, площадка акб, бардачек в багажник, губа, губа gtr, пороги [vk.com/…](https://vk.com/gtcomposite) && [vk.com/…](https://vk.com/market-106467375) && [drive2.ru/…](https://www.drive2.ru/l/5802653)
@@ -629,7 +629,7 @@ NB проверяйте отзывы!
 - Губа, губа гтр, спойлер ямаха - [vk.com/…](https://vk.com/wall-31295460_637563)
 
 
-крылья##
+## крылья
 - Yuran 6к - [drive2.ru/…](https://www.drive2.ru/b/2102016/)
 - D-apex задние крылья(7к) + накладки на задние двери(6к) [drive2.ru/…](https://www.drive2.ru/l/457168139809980920/)
 - Накладки задних крыльев марк,чейзер 7к https://m.vk.com/wall-31295460_424621?post_add#post_add
@@ -645,7 +645,7 @@ NB проверяйте отзывы!
 - доработка стеклопластиковых крыльев (с расширением) чтоб подкрылки прикрепить [vk.com/…](https://vk.com/wall-31295460_652017)
 
 
-##губы
+## губы
 - Yuran - губа (реплика) из стеклопластика - [drive2.ru/…](https://www.drive2.ru/b/288230376152219250/) && [drive2.ru/…](https://www.drive2.ru/b/2102016/)
 - Yuran - губа под jzx81 (3к) - [vk.com/…](https://vk.com/wall5796235_2872)
 - реплика стоковой губы - [vk.com/…](https://vk.com/foma128)
@@ -669,8 +669,8 @@ NB проверяйте отзывы!
 - Kdf - губа гтр [vk.com/…](https://vk.com/market-55766193?w=product-55766193_286690)
 
 
-##молдинги
-никто больше не делает 
+## молдинги
+NB никто больше не делает 
 - молдинг 5к [vk.com/…](https://vk.com/wall-31295460_518150)
 - молдинги 4к - [vk.com/…](https://vk.com/wall-31295460_388648)
 - молдинги - (проект) [vk.com/…](https://vk.com/wall-31295460_382998)
@@ -679,7 +679,7 @@ NB проверяйте отзывы!
 - молдинги от 14 рест либо от 100 [vk.com/…](https://vk.com/wall-31295460_659373)
 
 
-##обвесы
+## обвесы
 GT-Composite
 - Yuran - обвес GT-Composite [vk.com/…](https://vk.com/market-106467375?w=product-106467375_1918250)
 BigWin
@@ -701,20 +701,20 @@ BN-Sport
 - бампер BN sport от 100 чайзера [drive2.ru/…](https://www.drive2.ru/l/1178120/)
 - кастомный бампер на подобии BW [drive2.ru/…](https://www.drive2.ru/l/4899916394579151048/#post!)
 
-##пороги
+## пороги
 - пороги пингвин (5к) и бампера (?) - [drive2.ru/…](https://www.drive2.ru/l/10477537/)
 - расширители передних крыльев, пороги [vk.com/…](https://vk.com/wall-31295460_408562) && [vk.com/…](https://vk.com/club54937175)
 - Сенек Ерофеев. Пороги AutoPista. 5.5к [vk.com/…](https://vk.com/wall-31295460_549624)
 - kfd (Илья Ковалев) - Autopista 5.5к [vk.com/…](https://vk.com/wall-31295460_555890)
 
-##капот\двери\багажник
+## капот\двери\багажник
 - боди-кит стеклопластика 70к (можно отдельно) [vk.com/…](https://vk.com/wall-31295460_521684)
 - капот && двери [drive2.ru/…](https://www.drive2.ru/l/9498710/)
 - D-apex капот SelfMade (до рестайлинг), багажник [vk.com/…](https://vk.com/d_apex_works)
 - Agf - Капот дорест марк сток 9000 Багажник 7000 руб Двери 28000 комплект хардтоп [vk.com/…](https://vk.com/wall-31295460_376849)
 - Kdf - двери 45к [vk.com/…](https://vk.com/market-55766193?w=product-55766193_1397803)
 
-##дорогобогато
+## дорогобогато
 - Комплкт обвесов АБС OLUTE Type 2 для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-obvesov-perednij-bamper-porogi-zad-bamper-mark2-88-92g)
 - Комплект обвесов OKUTO для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-obvesov-okuto-perednij-bamper-porogi-zad-bamper-mark2-88-92g)
 - Комплкт обвесов FINAL KONEXXION (передний бампер, пороги, зад. бампер) для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/obvesov-final-perednij-bamper-porogi-zad-bamper-mark2-92g)
