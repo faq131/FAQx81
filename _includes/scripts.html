@@ -1,22 +1,35 @@
 <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
 <script>
-    function collapceMenu() {
-        document.addEventListener('click', function (event) {
-            if (!event.target.matches('.toc-menu>ul>li>a')) {
-                return;
-            }
-            let submenu = event.target.nextElementSibling;
-            if (document.body.contains(submenu)) {
-                toggleElement(submenu);
-            }
-        }, false);
+    (function(){
+        collapceMenu();
+        changeLinkTarget();
+        
+        function collapceMenu() {
+            document.addEventListener('click', event => {
+                let submenu = event.target.nextElementSibling;
+                
+                if (!event.target.matches('.toc-menu>ul>li>a')) {
+                    return;
+                }
+                if (document.body.contains(submenu)) {
+                    toggleElement(submenu);
+                }
+            }, false);
 
-        function toggleElement(el) {
-            window.getComputedStyle(el).display === 'none' ? el.style.display = 'block' : el.style.display = 'none';
+            function toggleElement(el) {
+                window.getComputedStyle(el).display === 'none' ? el.style.display = 'block' : el.style.display = 'none';
+            }
         }
-    }
-    collapceMenu();
+        
+        function changeLinkTarget() {
+            let linksArr = document.querySelectorAll('a[href^="http"]');
+            
+            linksArr.forEach(item => {
+                item.target = '_blank';
+            });
+        }
+    }());
 </script>
 
 <!-- Yandex.Metrika -->
