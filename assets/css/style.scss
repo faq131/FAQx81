@@ -40,12 +40,14 @@ a:active {
     text-decoration: underline;
     font-weight: inherit;
 }
-main a:visited {
-    color: #b900e5;
-}
-a[href^="#"]:before {
-    content: '#';
-    color: #797979;
+main {
+    a:visited {
+        color: #b900e5;
+    }
+    a[href^="#"]:before {
+        content: '#';
+        color: #797979;
+    }
 }
 h1,
 h2,
