@@ -43,6 +43,10 @@ a:active {
 main a:visited {
     color: #b900e5;
 }
+a[href^="#"]:before {
+    content: '#';
+    color: #797979;
+}
 h1,
 h2,
 h3,
