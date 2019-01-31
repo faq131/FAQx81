@@ -13,7 +13,6 @@
 
         fetch(url, { headers: { 'Content-Type': 'text/csv' }})
             .then(function(response) {
-                alert(1)
                 if (response.status !== 200) {
                     console.log('There was a problem. Status Code: ' +  response.status);  
                     return;
