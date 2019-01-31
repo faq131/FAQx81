@@ -9,34 +9,33 @@
 </head>
 <body>
     <script>
-        const url = 'https://daks01.github.io/FAQx81/assets/data/clicks.csv';
+        (function(){
+            const url = 'https://daks01.github.io/FAQx81/assets/data/clicks.csv';
 
-        fetch(url, { headers: { 'Content-Type': 'text/csv' }})
-            .then(function(response) {
-                if (response.status !== 200) {
-                    console.log('There was a problem. Status Code: ' +  response.status);  
-                    return;
-                }
-                response.text().then(function(data) {
-                    console.log(data);
-                    successFunction(data);
+            fetch(url, { headers: { 'Content-Type': 'text/csv' }})
+                .then(function(response) {
+                    if (response.status !== 200) {
+                        console.log('There was a problem. Status Code: ' +  response.status);  
+                        return;
+                    }
+                    response.text().then(function(data) {
+                        console.log(data);
+                        successFunction(data);
+                    });
+                })
+                .catch(function(err) {
+                    console.log('Fetch Error :-S', err);
                 });
-            })
-            .catch(function(err) {
-                console.log('Fetch Error :-S', err);
-            });
 
-        function successFunction(data) {
-            console.log("Before JSON Conversion");
-            console.log(data);
-            csv()
-                .fromString(data)
-                .then(function(result){
-                    console.log("After JSON Conversion");
-                    console.log(result);
-                    return console.dir(result);
-                });
-        }
+            function successFunction(data) {
+                document.body.append(`<div style="color: red;">${data}</div>`);
+                csv()
+                    .fromString(data)
+                    .then(function(result){
+                        document.body.append(`<div>${result}</div>`);
+                    });
+            }
+        }());
     </script>
 </body>
 </html>
