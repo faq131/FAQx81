@@ -10,40 +10,35 @@
 <body style="text-align:center">
     CSV to JSON test
     <script>
-        const fetchJSONP = (unique => url =>
-            new Promise(rs => {
-                const script = document.createElement('script');
-                const name = `_jsonp_${unique++}`;
-
-                if (url.match(/\?/)) {
-                    url += `&callback=${name}`;
-                } else {
-                    url += `?callback=${name}`;
-                }
-
-                script.src = url;
-                window[name] = json => {
-                    rs(new Response(JSON.stringify(json)));
-                    script.remove();
-                    delete window[name];
-                };
-                document.body.appendChild(script);
-            })
-        )(0);
-
-        fetchJSONP(
+        loadJSONP(
             'https://daks01.github.io/FAQx81/assets/data/clicks.csv',
-            function(data) {
-                const csvStr = data;
-
-                csv({flatKeys:true})
-                    .fromString(csvStr)
-                    .then(function(result){
-                        console.log(1, "After JSON Conversion");
-                        return console.dir(result);
-                    })
-            }
+            'LoadCsvSuccess'
         );
+
+        function loadJSONP(url, callbackName) {
+            var script = document.createElement('script');
+            if (url.match(/\?/)) {
+                url += "&callback="+name;
+            } else {
+                url += "?callback="+name;
+            }
+
+            script.src = url;
+            document.getElementsByTagName('head')[0].appendChild(script);
+        }
+
+        window['LoadCsvSuccess'] = function(data) {
+            delete window['LoadCsvSuccess'];
+            console.log("Before JSON Conversion");
+            console.log(data);
+            csv()
+                .fromString(data)
+                .then(function(result){
+                    console.log("After JSON Conversion");
+                    console.log(result);
+                    return console.dir(result);
+                });
+        }
     </script>
 </body>
 </html>
