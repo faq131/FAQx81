@@ -9,13 +9,23 @@
 </head>
 <body>
     <script>
-        var r = new XMLHttpRequest();
-        r.open('GET', 'https://daks01.github.io/FAQx81/assets/data/clicks.js',);
-        r.onreadystatechange = function () {
-            if (r.readyState != 4 || r.status != 200) return;
-            successFunction(r.responseText);
-        };
-        r.send();
+        const url = 'https://daks01.github.io/FAQx81/assets/data/clicks.csv';
+
+        fetch(url, { headers: { 'Content-Type': 'text/csv' }})
+            .then(function(response) {
+                alert(1)
+                if (response.status !== 200) {
+                    console.log('There was a problem. Status Code: ' +  response.status);  
+                    return;
+                }
+                response.text().then(function(data) {
+                    console.log(data);
+                    successFunction(data);
+                });
+            })
+            .catch(function(err) {
+                console.log('Fetch Error :-S', err);
+            });
 
         function successFunction(data) {
             console.log("Before JSON Conversion");
