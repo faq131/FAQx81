@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CSV to JSON</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.rawgit.com/Keyang/node-csvtojson/d41f44aa/browser/csvtojson.min.js"></script>
+</head>
+<body style="text-align:center">
+    CSV to JSON test
+    <script>
+        const fetchJSONP = (unique => url =>
+            new Promise(rs => {
+                const script = document.createElement('script');
+                const name = `_jsonp_${unique++}`;
+
+                if (url.match(/\?/)) {
+                    url += `&callback=${name}`;
+                } else {
+                    url += `?callback=${name}`;
+                }
+
+                script.src = url;
+                window[name] = json => {
+                    rs(new Response(JSON.stringify(json)));
+                    script.remove();
+                    delete window[name];
+                };
+                document.body.appendChild(script);
+            })
+        )(0);
+
+        fetchJSONP(
+            'https://daks01.github.io/FAQx81/assets/data/clicks.csv',
+            function(data) {
+                const csvStr = data;
+
+                csv({flatKeys:true})
+                    .fromString(csvStr)
+                    .then(function(result){
+                        console.log(1, "After JSON Conversion");
+                        return console.dir(result);
+                    })
+            }
+        );
+    </script>
+</body>
+</html>
