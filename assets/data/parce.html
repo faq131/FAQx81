@@ -7,28 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://cdn.rawgit.com/Keyang/node-csvtojson/d41f44aa/browser/csvtojson.min.js"></script>
 </head>
-<body style="text-align:center">
-    CSV to JSON test
+<body>
     <script>
-        loadJSONP(
-            'https://daks01.github.io/FAQx81/assets/data/clicks.js',
-            'LoadCsvSuccess'
-        );
+        var r = new XMLHttpRequest();
+        r.open('GET', 'https://daks01.github.io/FAQx81/assets/data/clicks.js',);
+        r.onreadystatechange = function () {
+            if (r.readyState != 4 || r.status != 200) return;
+            successFunction(r.responseText);
+        };
+        r.send();
 
-        function loadJSONP(url, callbackName) {
-            var script = document.createElement('script');
-            if (url.match(/\?/)) {
-                url += "&callback="+name;
-            } else {
-                url += "?callback="+name;
-            }
-
-            script.src = url;
-            document.getElementsByTagName('head')[0].appendChild(script);
-        }
-
-        window['LoadCsvSuccess'] = function(data) {
-            delete window['LoadCsvSuccess'];
+        function successFunction(data) {
             console.log("Before JSON Conversion");
             console.log(data);
             csv()
