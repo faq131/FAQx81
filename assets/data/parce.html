@@ -27,17 +27,16 @@
                         alert('Status Code: ' +  response.status);
                         return;
                     }
-                        response.json().then(function(data) {
-                            document.querySelector('.data').innerHTML = data;
-                        });  
-                    return response.json();
+                    response.json().then(function(data) {
+                        document.querySelector('.data').innerHTML = JSON.stringify(data[3]);
+                    });
                 })
                 .catch(function(err) {
-                    alert('Error :-S', err);
+                    //alert('Error :-S', err);
                 });
 
                 const data = {
-                    max: 450,
+                    max: 45,
                     min: 1,
                     data: [
                         {
@@ -55,7 +54,7 @@
                         }, {
                             x: 410,
                             y: 460,
-                            value: 350
+                            value: 35
                         }
                     ]
                 };
