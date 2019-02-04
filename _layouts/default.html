@@ -13,7 +13,10 @@
                     </div>
                     <div class="toc-menu">
                         {% include toc.html html=content %}
-                    </div>
+                    </div>                    
+                    <span style="display: inline-block;">
+                        <a href="#" class="mobile-btn mobile-btn_map" data-show-heatmap title="Показать карту кликов">🖱️</a>
+                    </span>
                     <div class="social-block">
                         <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
                         <script src="//yastatic.net/share2/share.js"></script>
@@ -23,17 +26,20 @@
             </aside>
             <main class="page-layout__content">
                 <div class="page-layout__content-inner">
-                    <div class="mobile-hide">
-                        {% include pagetitle.html %}
+                    <div style="position: relative;">
+                        <div class="heatmap__wrap">
+                            <div class="heatmap" data-heatmap></div>
+                        </div>
+                        <div class="mobile-hide">
+                            {% include pagetitle.html %}
+                        </div>
+                        {{ content }}
+                        <a href="#menu" class="mobile-btn mobile-btn_menu">&#9776;</a>
                     </div>
-                    {{ content }}
-                    <a href="#menu" class="mobile-menu-btn">
-                        &#9776;
-                    </a>
                 </div>
             </main>
         </div>
-    </div>    
+    </div>
     {% include scripts.html %}
 </body>
 </html>
