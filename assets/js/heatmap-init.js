@@ -13,6 +13,7 @@
     document.querySelector('[data-show-heatmap]').addEventListener("click", handler);
 
     function handler(e) {
+        e.preventDefault();
         e.target.removeEventListener(e.type, arguments.callee);
         getYandexData();
     }
