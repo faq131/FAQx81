@@ -54,6 +54,7 @@
     
     //paint click map
     function paintMap(){
+        console.log(heatMapData)
         heatmapInstance.setData(heatMapData);
     }
     
