@@ -71,7 +71,9 @@
     //set heatMapData['data'] coords
     function getPoints(data){
         let points = {};
-        let link = document.querySelector(`a[href="${data.url}"]`);
+        let anchors = data.url.includes('github.io');
+        let url = anchors ? '#'+data.url.split('#')[1] : data.url;
+        let link = document.querySelector(`a[href="${url}"]`);
 
         if (link) {
             let coords = link.getBoundingClientRect();
