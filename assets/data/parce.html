@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="height: 100%">
+<html>
 
 <head>
     <meta charset="utf-8" />
@@ -10,7 +10,7 @@
     <script src="heatmap.min.js"></script>
 </head>
 
-<body style="height: 100%">
+<body style="position: relative;">
     <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-важные-ссылки" class="anchor" aria-hidden="true" href="#важные-ссылки"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Важные ссылки</h1>
         <ul>
         <li>faq на <a href="https://www.drive2.ru/c/574975/" rel="nofollow">drive2</a></li>
@@ -792,21 +792,31 @@
         <li>Комплкт обвесов АБС OLUTE для Toyota Mark2 (88-92г.) <a href="http://tuningatar.ru/products/komplkt-bamper-porogi-zad-bamper-mark2-88-92g" rel="nofollow">tuningatar.ru/…</a></li>
         </ul>
     </article>
-    <div class="heatmap" style="height: 100%"></div>
+    <div class="heatmap__wrap" style="
+        position: absolute !important;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;">
+        <div data-heatmap></div>
+    </div>
     <script>
         (function(){
             const url = 'https://daks01.github.io/FAQx81/assets/data/clicks.json';
             const minClicksToShow = 10;
             const heatmapInstance = h337.create({
-                    container: document.querySelector('.heatmap'),
+                    container: document.querySelector('[data-heatmap]'),
                     radius: 20
                 });
             const linksCoords = {};
             const metricsData = {};
             const heatMapData = {
-                max: 50,
+                max: 5,
                 min: minClicksToShow,
-                data: []
+                data: [
+                    { x: 10, y: 15, value: 5 }
+                ]
             };
 
             //get metricsData obj
@@ -830,23 +840,30 @@
                 let arr = [];
 
                 for(let data of metricsData) {
-                    let link = document.querySelector(`a[href="${data.url}"]`);
-
-                    arr.push(data.value);
-
-                    if (link) {
-                        let coords = link.getBoundingClientRect();
-                        heatMapData.data.push({
-                            x: coords.left,
-                            y: coords.top,
-                            value: data.value,
-                            url: data.url,
-                        });
-                    }
+                    //setMaxValue(arr, data)
+                    //setMapData(data)
                 }
 
-                //set heatMapData['max'] by finding biggest value
+            }
+            
+            //set heatMapData['max'] by finding biggest value
+            function setMaxValue(arr, data){
+                arr.push(data.value);
                 heatMapData.max = Math.max(...arr);
+            }
+
+            //set heatMapData['data'] coords
+            function setMapData(data){
+                let link = document.querySelector(`a[href="${data.url}"]`);
+                if (link) {
+                    let coords = link.getBoundingClientRect();
+                    heatMapData.data.push({
+                        x: coords.left,
+                        y: coords.top,
+                        value: data.value,
+                        url: data.url,
+                    });
+                }
             }
 
             //paint click map
