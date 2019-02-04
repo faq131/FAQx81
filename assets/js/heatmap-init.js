@@ -46,7 +46,7 @@
 
         for(let data of metricsData) {
             arr.push(data.value);
-            heatMapData.data.push(getPoints(data));
+            setMapPoints(data);
         }
         
         heatMapData.max = getMaxValue(arr);
@@ -69,21 +69,20 @@
     }
 
     //set heatMapData['data'] coords
-    function getPoints(data){
-        let points = {};
+    function setMapPoints(data){
         let anchors = data.url.includes('github.io');
         let url = anchors ? '#'+data.url.split('#')[1] : data.url;
         let link = document.querySelector(`a[href="${url}"]`);
 
         if (link) {
             let coords = link.getBoundingClientRect();
-            points = {
+            let points = {
                 x: coords.left + (coords.right - coords.left) / 2,
                 y: coords.top + (coords.top - coords.bottom) / 2,
                 value: data.value
             };
-        }
 
-        return points;
+            heatMapData.data.push(points);
+        }
     }
 }());
