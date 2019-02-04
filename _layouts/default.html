@@ -31,11 +31,13 @@
                         <div class="heatmap__wrap">
                             <div class="heatmap" data-heatmap></div>
                         </div>
-                        <div class="mobile-hide">
-                            {% include pagetitle.html %}
+                        <div style="position: relative; z-index: 5;">
+                            <div class="mobile-hide">
+                                {% include pagetitle.html %}
+                            </div>
+                            {{ content }}
+                            <a href="#menu" class="mobile-btn mobile-btn_menu">&#9776;</a>
                         </div>
-                        {{ content }}
-                        <a href="#menu" class="mobile-btn mobile-btn_menu">&#9776;</a>
                     </div>
                 </div>
             </main>
