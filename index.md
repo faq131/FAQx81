@@ -253,6 +253,29 @@
 - стойки задние подходят от 90 (передние) и вроде задние подходят [vk.com/…](https://vk.com/wall-31295460_595774)
 - стойки зад от ваза (дешевые ремкомплекты) - [drive2.ru/…](https://www.drive2.ru/l/2729349/)
 
+## пневма
+**Yurran**
+- faq - [drive2.ru/…](https://www.drive2.ru/l/1036105/)
+- 1 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579238370/)
+- 2 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579258198/)
+- 3 - [drive2.ru/…](https://www.drive2.ru/l/288230376152946105/)
+- 4 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579375336/)
+- доработки - [drive2.ru/…](https://www.drive2.ru/l/777311/)
+- доработки - [drive2.ru/…](https://www.drive2.ru/l/1945445/)
+- управление с брелка - [drive2.ru/…](https://www.drive2.ru/l/288230376153017549/)
+**Юлий**
+- 1 - [drive2.ru/…](https://www.drive2.ru/l/9263378/)
+- 2 - [drive2.ru/…](https://www.drive2.ru/l/9270224/)
+- 3 - [drive2.ru/…](https://www.drive2.ru/l/9353622/)
+**производство**
+- пульт [drive2.ru/…](https://www.drive2.ru/experience/toyota/g2385/)
+- кит пневмы 74к, стойки 36к [drive2.ru/…](https://vk.com/wall-31295460_669597)
+**разное**
+- задние пневмастойки от uc30 - [drive2.ru/…](https://vk.com/wall-31295460_606711)
+- задние пневмостойки от 2108
+
+
+
 ## опоры
 **сток**
 - разница обычных и temsопор [a.d-cd.net/…](https://a.d-cd.net/RcAAAgDI1OA-480.jpg)
@@ -613,9 +636,9 @@ NB проверяйте отзывы!
 
 ## разное
 - крышка левого динамика [drive2.ru/…](https://www.drive2.ru/l/9558775/)
-- Yuran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://www.drive2.ru/l/9438393/#comments) && https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg
-- Yuran - крылья на кресту, спойлер ducktail, площадка акб, бардачек в багажник, губа, губа gtr, пороги [vk.com/…](https://vk.com/gtcomposite) && [vk.com/…](https://vk.com/market-106467375) && [drive2.ru/…](https://www.drive2.ru/l/5802653)
-- Yuran - поддон под акб 600 [vk.com/…](https://vk.com/gtcomposite?z=photo-106467375_388323624%2Falbum-106467375_223381356%2Frev)
+- Yurran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://www.drive2.ru/l/9438393/#comments) && https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg
+- Yurran - крылья на кресту, спойлер ducktail, площадка акб, бардачек в багажник, губа, губа gtr, пороги [vk.com/…](https://vk.com/gtcomposite) && [vk.com/…](https://vk.com/market-106467375) && [drive2.ru/…](https://www.drive2.ru/l/5802653)
+- Yurran - поддон под акб 600 [vk.com/…](https://vk.com/gtcomposite?z=photo-106467375_388323624%2Falbum-106467375_223381356%2Frev)
 - губа ГТР, дактейл, козырек на чайзера, марк - [vk.com/…](https://vk.com/wall-31295460_408530)
 - дактейл, губа [vk.com/…](https://vk.com/wall-31295460_415033)
 - Ober - BN-Sport бампер перед 8500, крылья BigWin 8, пороги 6, спойлер, козырек на заднее стекло(!) 3к, бампер by Ober [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://www.drive2.ru/l/5007108/)
@@ -629,10 +652,11 @@ NB проверяйте отзывы!
 - Пороги автописта, клыки, губа ямаха - [vk.com/…](https://vk.com/wall-106709966_58206)
 - Yuran расширение на задние крылья [vk.com/…](https://vk.com/wall-31295460_631156) && [drive2.ru/…](https://www.drive2.ru/l/507784982228369686/)
 - Губа, губа гтр, спойлер ямаха - [vk.com/…](https://vk.com/wall-31295460_637563)
+- подиум под датчик - [drive2.ru/…](https://www.drive2.ru/l/4899916394579312791/)
 
 
 ## крылья
-- Yuran 6к - [drive2.ru/…](https://www.drive2.ru/b/2102016/)
+- Yurran 6к - [drive2.ru/…](https://www.drive2.ru/b/2102016/)
 - D-apex задние крылья(7к) + накладки на задние двери(6к) [drive2.ru/…](https://www.drive2.ru/l/457168139809980920/)
 - Накладки задних крыльев марк,чейзер 7к https://m.vk.com/wall-31295460_424621?post_add#post_add
 - крылья без расширения. креста (4.5к) - [drive2.ru/…](https://www.drive2.ru/c/3023131/) && [vk.com/…](https://vk.com/feed?w=wall-31295460_507045_r507241)
@@ -683,7 +707,7 @@ NB никто больше не делает
 
 ## обвесы
 GT-Composite
-- Yuran - обвес GT-Composite [vk.com/…](https://vk.com/market-106467375?w=product-106467375_1918250)
+- Yurran - обвес GT-Composite [vk.com/…](https://vk.com/market-106467375?w=product-106467375_1918250)
 BigWin
 - Obvesoff обвес BigWin https://m.vk.com/tuningbarnaul (реплика огонь) обзор [drive2.ru/…](https://www.drive2.ru/l/9792807/#comments)
 - D-apex обвес BigWin [vk.com/…](https://vk.com/d_apex_works)
