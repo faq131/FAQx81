@@ -3,6 +3,7 @@
 - старая ветка на [tourerv.ru/…](http://tourerv.ru/forum/forumdisplay.php?f=80)
 - группа вконтакте [vk.com/x81squad](https://vk.com/x81squad)
 - каталог запчастей [toyota.epcdata.ru/…](http://toyota.epcdata.ru)
+- мануалы [vk.com/…](https://vk.com/wall-31295460_601282)
 
 # Топ 20 вопросов
 - щелкает и не заводится → ставь реле на стартер (Электрика→[реле на стартер](#реле-на-стартер))
@@ -694,6 +695,7 @@ BigWin
 - Body Kit Workshop BigWin 15к без окрашивания [vk.com/…](https://vk.com/market-99754707?w=product-99754707_44707%2Fquery)
 - BigWin [vk.com/…](https://vk.com/wall-31295460_377174)
 - Kdf - BigWin 27 [vk.com/…](https://vk.com/market-55766193?w=product-55766193_746) 
+- BigWin 15к [vk.com/…](https://vk.com/wall-31295460_670157)
 AutoPista
 - AutoPista 7.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/cresta-81-kyzov-komplekt-standartnyh-klassicheskih-obvesov
 - AutoPista по частям: задняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/zadniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && пороги 5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/porogi-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && передняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/peredniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && &&
