@@ -180,7 +180,7 @@
 
 ## упоры капота
 - газовые упоры капота от 2108/9 [drive2.ru/…](https://www.drive2.ru/l/1446799/) && [drive2.ru/…](https://www.drive2.ru/l/471478833401299687/)
-- газовые упоры капота -> FENOX для задней двери Нивы ВАЗ2121, 2131, 2108 (290Н сила) - резьба [drive2.ru/…](https://www.drive2.ru/l/288230376152036717/) && гайка [drive2.ru/…](https://www.drive2.ru/l/288230376152059883) && гайки [drive2.ru/…](https://www.drive2.ru/l/6098/)
+- газовые упоры капота -> FENOX для задней двери Нивы ВАЗ2121, 2131, 2108 (290Н сила) - резьба [drive2.ru/…](https://www.drive2.ru/l/288230376152036717/) && гайка [drive2.ru/…](https://www.drive2.ru/l/288230376152059883) && гайки [drive2.ru/…](https://www.drive2.ru/l/6098/) ?? [drive2.ru/…](https://www.drive2.ru/experience/toyota/g2385/)
 - газовые упоры от 2112 (альтернативный путь) [drive2.ru/…](https://www.drive2.ru/l/511520572983738828/)
 - газовые упоры от 2104 2121 2110 Fenox A901 001 [drive2.ru/…](https://www.drive2.ru/b/1091965)
 - газовые упоры капота (аналог) Checkstar 70033 (700р\шт) - [drive2.ru/…](https://www.drive2.ru/l/490164483759538455/)
@@ -434,11 +434,12 @@
 - кит реле на стартер (fdmetalwork) [m.vk.com/…](https://m.vk.com/wall-139119461_37)
 
 ## самодиагностика
+- коды ошибок тойоты (двс, акпп, abs, srs) - [forum.drom.ru/…](https://forums.drom.ru/toyota-corolla-sprinter-carib/t1151520579.html)
 - скрепкой [vk.vom/…](https://vk.com/wall-31295460_615931)
 - скрепкой [docs.google.com/…](https://docs.google.com/document/d/1EmnOwKccweaKGPL7pzkxuUhu5CpYUzxhWhLBU00VKV0/edit)
 - скрепкой [drive2.ru/…](https://www.drive2.ru/l/5597688/) 
-- сканером (который видит 90’ки) через салонный разъем (под капотом [отсутствует контакт](https://4.bp.blogspot.com/-mqYFPaLhxk4/V2cCppPQnKI/AAAAAAAAAcw/logVVu6b3N8T-GVF7rDvzjz2GguqjOUEgCLcB/s640/MISSINGTE2.png) Te2 )
-- cartester8000 + ноут + переходник USB→COM [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://www.drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip)
+- сканером (который видит 90’ки) через салонный диагностическийй разъем (под капотом [отсутствует контакт](https://4.bp.blogspot.com/-mqYFPaLhxk4/V2cCppPQnKI/AAAAAAAAAcw/logVVu6b3N8T-GVF7rDvzjz2GguqjOUEgCLcB/s640/MISSINGTE2.png) Te2 )
+- cartester8000 + ноут + переходник USB→COM [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://www.drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip) && [narod.ru/…](http://toyotaobd.narod.ru/files/Chem407/CT741.zip)
 - arduino + android [drive2.ru/…](https://www.drive2.ru/l/7650414)
 - приложение для андроида + zf адаптер для obd1 за $50 (разъем DLC2)  [play.google.com/…](https://play.google.com/store/apps/details?id=zfapps.toyobd1) &&  [zf-scantools.com/…](https://zf-scantools.com/) && [jfbreton.blogspot.ru](http://jfbreton.blogspot.ru/search/label/TOYOBD1)
 
