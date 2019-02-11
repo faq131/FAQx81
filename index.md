@@ -486,11 +486,10 @@
 [drive2.ru/…](https://www.drive2.ru/l/9182208/) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455)
 
 ## usb, mp3
-- https://www.drive2.ru/l/467024986675085950/
+- [drive2.ru/…](https://www.drive2.ru/l/467024986675085950/)
 
 ## касетный адаптер
 - с алиэкспресса [aliexpress.com/…](https://ru.aliexpress.com/category/202003359/car-cassette-player.html)
-https://vk.com/away.php?to=http%3A%2F%2Fwww.ebay.com%2Fitm%2F161765612395
 - c ebay [ebay.com/…](https://ru.ebay.com/b/Audio-Player-Cassette-Adapters/73835/bn_880227)
 
 
