@@ -6,6 +6,8 @@
 - `assets/css/style.scss` -  стили
 - `assets/js/heatmap-init.js` -  визуализация карты кликов
 - `index.md` - контент FAQ'а в [маркдауне](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- `heatmapdata-internal-clicks.json` - статистика внутренних переходов
+- `heatmapdata-external-clicks.json` - статистика внешних переходов
 - `README.md` - сие ридми
 - `_config.yml` - конфиг GithubPages
 
@@ -18,7 +20,7 @@
 - переименовать клонку 'Просмотры' в 'value'
 - конвертонуть в json https://www.csvjson.com/csv2json
 - удалить первый объект
-- обновить json `heatmapdata.json`
+- обновить json `heatmapdata-external-clicks.json`
 
 **внутрение:**
 - [Яндекс.Метрика](https://metrica.yandex.com/stat/popular?period=year&id=51819752&stateHash=5c52cbe5c21f174034394045)
@@ -27,4 +29,4 @@
 - переименовать клонку 'Просмотры' в 'value'
 - конвертонуть в json https://www.csvjson.com/csv2json
 - удалить первый объект
-- добавить в json-файл `heatmapdata.json`
+- добавить в json-файл `heatmapdata-internal-clicks.json`

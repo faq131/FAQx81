@@ -1,5 +1,5 @@
 (function(){
-    const url = 'https://daks01.github.io/FAQx81/heatmapdata.json';
+    const externalMetricUrl = 'https://daks01.github.io/FAQx81/heatmapdata-externsl-click.json';
     const heatmapInstance = h337.create({
         container: document.querySelector('[data-heatmap]'),
         radius: 20
@@ -15,7 +15,7 @@
     function handler(e) {
         e.preventDefault();
         e.target.removeEventListener(e.type, arguments.callee);
-        getYandexData();
+        getYandexData(externalMetricUrl);
     }
     
     //ToDO пересчитывать координаты точек
@@ -24,7 +24,7 @@
     // };
 
     //get heatmapdata.json (YandexMetrics stat)
-    function getYandexData(){
+    function getYandexData(url){
         fetch(url)
         .then(function(response) {
             if (response.status !== 200) {
