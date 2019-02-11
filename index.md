@@ -472,6 +472,26 @@
 - датчик дождя - [drive2.ru/…](https://www.drive2.ru/l/510976589605896906/)
 - омыватель фар - [vk.com/…](https://vk.com/wall-31295460_611084) && [www.instagram.com/…](https://www.instagram.com/p/BhvyCcNl25v/)
 
+# Mагнитола
+- размеры динамиков - [vk.com/…](https://pp.vk.me/c633618/v633618527/147bb/mY8i4StBkJ8.jpg)
+
+## распиновка
+- распиновка - [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/56022e0698142f9e3caa97fc/5604c19bd81144afd7b060c3/a61b501b2f03452ead22c005e9555919/G8oMkRxVOmQ.jpg) && [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/5604c19bd81144afd7b060c3/934x704/0628bbc8319829bf41487a9b97d5e596/gbO-lmsE7Co.jpg)
+- распиновка магнитол тойоты - [teletehnika.info/…](http://teletehnika.info/collection-of-sockets-autoradio/136-razyomy-amagnitol-toyota.html)
+- обознаения на схемах - [teletehnika.info/…](http://teletehnika.info/collection-of-sockets-autoradio/15-razyomy-avtomagnitol-i-ix-oboznacheniya.html)
+
+## aux
+- впайка JACK 3.5 - [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455) && [drive2.ru/…](https://www.drive2.ru/l/459180246088874151/) && [vk.com/…](https://vk.com/wall-31295460_475446) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_483627) && [drive2.ru/…](https://www.drive2.ru/l/472659434011623784/)
+- пример впайки в чайник и касетник от 90
+[drive2.ru/…](https://www.drive2.ru/l/9182208/) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455)
+
+## usb, mp3
+- https://www.drive2.ru/l/467024986675085950/
+
+## касетный адаптер
+- с алиэкспресса [aliexpress.com/…](https://ru.aliexpress.com/category/202003359/car-cassette-player.html)
+https://vk.com/away.php?to=http%3A%2F%2Fwww.ebay.com%2Fitm%2F161765612395
+- c ebay [ebay.com/…](https://ru.ebay.com/b/Audio-Player-Cassette-Adapters/73835/bn_880227)
 
 
 # Салон
