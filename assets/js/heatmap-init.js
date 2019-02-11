@@ -1,5 +1,5 @@
 (function(){
-    const externalMetricUrl = 'https://daks01.github.io/FAQx81/heatmapdata-externsl-click.json';
+    const externalMetricUrl = 'https://daks01.github.io/FAQx81/heatmapdata-external-clicks.json';
     const heatmapInstance = h337.create({
         container: document.querySelector('[data-externsl-heatmap]'),
         radius: 20
