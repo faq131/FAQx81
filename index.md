@@ -222,6 +222,7 @@
 
 **plaza**
 - стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
+- обсуждение - [vk.com/…](https://vk.com/wall-31295460_671729)
 
 ## tems
 **что такое tems**
@@ -494,7 +495,7 @@
 
 
 # Салон
-## стирка (прибрать)
+## стирка 
 - стирка сидений [drive2.ru/…](https://www.drive2.ru/l/5778131) && 1 [drive2.ru/…](https://www.drive2.ru/l/3127865/) && 2 [drive2.ru/…](https://www.drive2.ru/l/3127917/) && 3 - [drive2.ru/…](https://www.drive2.ru/l/3493436/)   & 4 - [drive2.ru/…](https://www.drive2.ru/l/3493488/)  мое [drive2.ru/…](https://www.drive2.ru/l/472948880447635527/)
 - стирка ремней - [drive2.ru/…](https://www.drive2.ru/l/5105451/) && [drive2.ru/…](https://www.drive2.ru/l/481174601812934667/)
 - чистка потолка - profoam 2000(3000)
