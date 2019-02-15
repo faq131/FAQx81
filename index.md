@@ -211,18 +211,22 @@
 
 
 # Стойки
-## колы, plaza
-**колы**
-- колы от ниссана - [vk.com/…](https://vk.com/wall-139119461_55)
-- колы фуллтапы от s13 на сток и ниссано-подвеску [www.youtube.com/…](https://www.youtube.com/watch?time_continue=2&v=eyHjAwZjBSk)
-- колы от глории с незначительными - [drive2.ru/…](https://www.drive2.ru/l/467845222349407046/)
-- колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под ниссано-кулаки)
-- колы от аристы, маджесты - переделка [drive2.ru/…](https://www.drive2.ru/l/498068323095806575/)
-- от чего колы подходят https://vk.com/wall-31295460_649014
+- схемы c номерами стоек\картриджей - [drive2.ru/…](https://www.drive2.ru/l/503523000281203440/)
 
-**plaza**
-- стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
-- обсуждение - [vk.com/…](https://vk.com/wall-31295460_671729)
+## сток стойки
+**перед**
+- каталог аммортов каябы - [kyb.ru/…](http://kyb.ru/support/online-catalog?year=1991&firm=Toyota&model=Chaser)
+- самые идеальные задние стойки KYB Gas-A-Just 551079 [vk.com/…](https://vk.com/wall-31295460_544607)
+- Картриджи в стойку kyb 365066 -[vk.com/…](https://vk.com/wall-31295460_559109)
+- Каяба new sr (nsf9128 с сотого кузова хз какие). Хотя говорят, что эти на наш кузов: перед NSC4046 Зад NSG9008. Это каяба нью
+- Картридж от 2110 перед [m.vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && зад [vk.com/…](https://vk.com/wall-31295460_619009)
+- передние картриджи от 2110 ultra sr [vk.com/…](https://vk.com/wall-31295460_618938)
+- Картридж в стойку (хз какую) размеры [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
+
+**зад**
+- задние стойки от тазов. (+ картридж в tems-стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
+- стойки задние подходят от 90 (передние) и вроде задние подходят [vk.com/…](https://vk.com/wall-31295460_595774)
+- стойки зад от ваза (дешевые ремкомплекты) - [drive2.ru/…](https://www.drive2.ru/l/2729349/)
 
 ## tems
 **что такое tems**
@@ -240,20 +244,18 @@
 - tems - зад 48530-29096, 48530-29097, 48530-29098, 48530-29185, 48530-29186 [toyota.epcdata.ru/…](https://toyota.epcdata.ru/mark_ii/GX81/80762/chassis/4804/48530/?fromOemSetSearch=1)
 - tems назад подходят от сотки (передние) - вверху дырки подкорректировать надо, внизу болт толще. В остальном как родные
 
-## сток стойки
-**перед**
-- каталог аммортов каябы - [kyb.ru/…](http://kyb.ru/support/online-catalog?year=1991&firm=Toyota&model=Chaser)
-- самые идеальные задние стойки KYB Gas-A-Just 551079 [vk.com/…](https://vk.com/wall-31295460_544607)
-- Картриджи в стойку kyb 365066 -[vk.com/…](https://vk.com/wall-31295460_559109)
-- Каяба new sr (nsf9128 с сотого кузова хз какие). Хотя говорят, что эти на наш кузов: перед NSC4046 Зад NSG9008. Это каяба нью
-- Картридж от 2110 перед [m.vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && зад [vk.com/…](https://vk.com/wall-31295460_619009)
-- передние картриджи от 2110 ultra sr [vk.com/…](https://vk.com/wall-31295460_618938)
-- Картридж в стойку (хз какую) размеры [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
+## колы, plaza
+**колы**
+- колы от ниссана - [vk.com/…](https://vk.com/wall-139119461_55)
+- колы фуллтапы от s13 на сток и ниссано-подвеску [www.youtube.com/…](https://www.youtube.com/watch?time_continue=2&v=eyHjAwZjBSk)
+- колы от глории с незначительными - [drive2.ru/…](https://www.drive2.ru/l/467845222349407046/)
+- колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под ниссано-кулаки)
+- колы от аристы, маджесты - переделка [drive2.ru/…](https://www.drive2.ru/l/498068323095806575/)
+- от чего колы подходят https://vk.com/wall-31295460_649014
 
-**зад**
-- задние стойки от тазов. (+ картридж в tems-стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
-- стойки задние подходят от 90 (передние) и вроде задние подходят [vk.com/…](https://vk.com/wall-31295460_595774)
-- стойки зад от ваза (дешевые ремкомплекты) - [drive2.ru/…](https://www.drive2.ru/l/2729349/)
+**plaza**
+- стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
+- обсуждение - [vk.com/…](https://vk.com/wall-31295460_671729)
 
 ## пневма
 **Yurran**
@@ -273,7 +275,7 @@
 
 **производство**
 - пульт [drive2.ru/…](https://www.drive2.ru/experience/toyota/g2385/)
-- кит пневмы 74к, стойки 36к [drive2.ru/…](https://vk.com/wall-31295460_669597)
+- кит пневмы 74к, стойки 36к, подушки перед 12к [vk.com/…](https://vk.com/airmagicgt) && [drive2.ru/…](https://vk.com/wall-31295460_669597)
 
 **разное**
 - задние пневмастойки от uc30 - [drive2.ru/…](https://vk.com/wall-31295460_606711)
@@ -440,9 +442,10 @@
 - скрепкой [vk.vom/…](https://vk.com/wall-31295460_615931)
 - скрепкой [docs.google.com/…](https://docs.google.com/document/d/1EmnOwKccweaKGPL7pzkxuUhu5CpYUzxhWhLBU00VKV0/edit)
 - скрепкой [drive2.ru/…](https://www.drive2.ru/l/5597688/) 
+- все способы диагностики - [drive2.ru/…](https://www.drive2.ru/l/492673569294123208/?page=0#a498278879572525251)
 - сканером (который видит 90’ки) через салонный диагностическийй разъем (под капотом [отсутствует контакт](https://4.bp.blogspot.com/-mqYFPaLhxk4/V2cCppPQnKI/AAAAAAAAAcw/logVVu6b3N8T-GVF7rDvzjz2GguqjOUEgCLcB/s640/MISSINGTE2.png) Te2 )
 - cartester8000 + ноут + переходник USB→COM [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://www.drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip) && [narod.ru/…](http://toyotaobd.narod.ru/files/Chem407/CT741.zip)
-- arduino + android [drive2.ru/…](https://www.drive2.ru/l/7650414)
+- arduino + bluetooth + android + Torque [drive2.ru/…](https://www.drive2.ru/l/7650414) && [drive2.ru/…](https://www.drive2.ru/l/476829606737871196/) -> [github.com/…](https://github.com/hyperion11/toyota-obd-1)
 - приложение для андроида + zf адаптер для obd1 за $50 (разъем DLC2)  [play.google.com/…](https://play.google.com/store/apps/details?id=zfapps.toyobd1) &&  [zf-scantools.com/…](https://zf-scantools.com/) && [jfbreton.blogspot.ru](http://jfbreton.blogspot.ru/search/label/TOYOBD1)
 
 ## концевики
