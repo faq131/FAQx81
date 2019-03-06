@@ -590,7 +590,7 @@
 # Разное
 - конвертер Pilot VAF/MAF [shop.pilotpowersupply.com/…](http://shop.pilotpowersupply.com/konverteryi-pilot-vaf-maf/konverter-pilot-vaf-maf-prostaya-versiya-0-5v/)
 - петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://www.drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
-- петли дверные - ремкомплект от хонды https://ajs.su/interer/petli-dvernye-napravlyayushchie-honda-88-02/  && https://vk.com/wall-31295460_659230
+- петли дверные - ремкомплект от хонды https://ajs.su/interer/petli-dvernye-napravlyayushchie-honda-88-02/  && https://vk.com/wall-31295460_659230 && [drive2.ru/…](https://www.drive2.ru/l/525533573801837393/)
 - замена трамблера на Дпрв от 1g-gze [oldschool.co.nz/…](http://oldschool.co.nz/index.php?/topic/29322-my-fancy-new-car-with-power-windows-and-a-stereo/page-6#entry1624639) && [vk.com/…](https://vk.com/wall-31295460_416762)
 - подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
 - Подкрылки задние от нивы [vk.com/…](https://vk.com/wall-31295460_538837)
