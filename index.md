@@ -122,6 +122,117 @@
 - Задние верхние рычаги. Как запихнуть от террано сайленты - [drive2.ru/…](https://www.drive2.ru/l/501099951531491655/?m=501540305938416662&page=0#a501540305938416662)
 
 
+
+
+# Стойки
+- схемы c номерами стоек\картриджей - [drive2.ru/…](https://www.drive2.ru/l/503523000281203440/)
+
+## сток стойки
+**перед**
+- каталог аммортов каябы - [kyb.ru/…](http://kyb.ru/support/online-catalog?year=1991&firm=Toyota&model=Chaser)
+- самые идеальные задние стойки KYB Gas-A-Just 551079 [vk.com/…](https://vk.com/wall-31295460_544607)
+- Картриджи в стойку kyb 365066 -[vk.com/…](https://vk.com/wall-31295460_559109)
+- Каяба new sr (nsf9128 с сотого кузова хз какие). Хотя говорят, что эти на наш кузов: перед NSC4046 Зад NSG9008. Это каяба нью
+- Картридж от 2110 перед [m.vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && зад [vk.com/…](https://vk.com/wall-31295460_619009)
+- передние картриджи от 2110 ultra sr [vk.com/…](https://vk.com/wall-31295460_618938)
+- Картридж в стойку (хз какую) размеры [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
+
+**зад**
+- задние стойки от тазов. (+ картридж в tems-стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
+- стойки задние подходят от 90 (передние) и вроде задние подходят [vk.com/…](https://vk.com/wall-31295460_595774)
+- стойки зад от ваза (дешевые ремкомплекты) - [drive2.ru/…](https://www.drive2.ru/l/2729349/)
+
+## tems
+**что такое tems**
+- tems - режимы работы [drive2.ru/…](https://www.drive2.ru/l/456812447798395787)
+- почему не лезет обычный картридж 
+- что надо для перехода на овощные стойки
+
+**перед**
+- tems- картриджи 48511-29645, 48511-22360, 48511-22370, 48511-29515 [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?t=25635)
+- tems передние картриджи с крутилками 48511-29645 (5к) (а на самом картридже номер 48511-22360 (1.8к) - это КАЯБы с tems'ом) [drive2.ru/…](https://www.drive2.ru/l/1245049/) && [drive2.ru/…](https://www.drive2.ru/l/7895580/) && [drive2.ru/…](https://www.drive2.ru/l/9197944/) && [drive2.ru/…](https://www.drive2.ru/l/8779699/) 
+- tems - В передние стойки (только tems) подходят картриджи (не tems) с задних стоек MR2 , номер: 365-100 (2,5к) [drive2.ru/…](https://www.drive2.ru/l/2913839/)
+- Что засунуть в стаканы tems: 2110, мр2, плаза итд [vk.com/…](https://vk.com/wall-31295460_614431?reply=614450) (плаза от 2110 чуть не лезет [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125))
+
+**зад**
+- tems - зад 48530-29096, 48530-29097, 48530-29098, 48530-29185, 48530-29186 [toyota.epcdata.ru/…](https://toyota.epcdata.ru/mark_ii/GX81/80762/chassis/4804/48530/?fromOemSetSearch=1)
+- tems назад подходят от сотки (передние) - вверху дырки подкорректировать надо, внизу болт толще. В остальном как родные
+
+## колы, plaza
+**колы**
+- колы от ниссана - [vk.com/…](https://vk.com/wall-139119461_55)
+- колы фуллтапы от s13 на сток и ниссано-подвеску [www.youtube.com/…](https://www.youtube.com/watch?time_continue=2&v=eyHjAwZjBSk)
+- колы от глории с незначительными - [drive2.ru/…](https://www.drive2.ru/l/467845222349407046/)
+- колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под ниссано-кулаки)
+- колы от аристы, маджесты - переделка [drive2.ru/…](https://www.drive2.ru/l/498068323095806575/)
+- от чего колы подходят https://vk.com/wall-31295460_649014
+
+**plaza**
+- стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
+- обсуждение - [vk.com/…](https://vk.com/wall-31295460_671729)
+
+## пневма
+**Yurran**
+- faq - [drive2.ru/…](https://www.drive2.ru/l/1036105/)
+- 1 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579238370/)
+- 2 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579258198/)
+- 3 - [drive2.ru/…](https://www.drive2.ru/l/288230376152946105/)
+- 4 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579375336/)
+- доработки - [drive2.ru/…](https://www.drive2.ru/l/777311/)
+- доработки - [drive2.ru/…](https://www.drive2.ru/l/1945445/)
+- управление с брелка - [drive2.ru/…](https://www.drive2.ru/l/288230376153017549/)
+
+**Юлий**
+- 1 - [drive2.ru/…](https://www.drive2.ru/l/9263378/)
+- 2 - [drive2.ru/…](https://www.drive2.ru/l/9270224/)
+- 3 - [drive2.ru/…](https://www.drive2.ru/l/9353622/)
+
+**производство AIR MAGIC GT**
+- кит пневмы, стойки, подушки, пульт итд [vk.com/…](https://vk.com/airmagicgt) && [drive2.ru/…](https://vk.com/wall-31295460_669597)
+
+**разное**
+- задние пневмастойки от uc30 - [drive2.ru/…](https://vk.com/wall-31295460_606711)
+- задние пневмостойки от 2108
+
+
+
+## опоры
+**сток**
+- разница обычных и temsопор [a.d-cd.net/…](https://a.d-cd.net/RcAAAgDI1OA-480.jpg)
+- опоры передние для овощных стоек 48609-22100, 48609-22070 [drive2.ru/…](https://www.drive2.ru/l/288230376152572423/#post)
+- опоры передние на tems от короны бочки [vk.com/…](https://vk.com/wall-31295460_558051)
+- опоры задних стоек от 100 [drive2.ru/…](https://www.drive2.ru/l/473678956168479211/#comments)
+- кастом опоры шс (Yuran) (2к) - [drive2.ru/…](https://www.drive2.ru/l/3610124/)
+
+**регулируемые опоры**
+- регулируемые опоры стоек WWshop (5к) (говорят, что фиговые) - [vk.com/…](https://vk.com/wall-96463523_601)
+- кастом опоры 4к [vk.com/…](https://vk.com/wall-96463523_163) && [vk.com/…](https://vk.com/wall-96463523_311)
+- регулируемые опоры стоек (чертеж) - [vk.com/…](https://vk.com/wall-31295460_543490)
+- ЧЕРТЕЖ: регулируемые опоры стоек [vk.com/…](https://vk.com/wall-96463523_311) && [vk.com/…](https://vk.com/wall-31295460_543490?reply=543512)
+- все варианты для колов [vk.com/…](https://vk.com/wall-31295460_618985?reply=619033)
+
+## пружины
+- каталог амортов и пружин [nomura-parts.ru/…](http://nomura-parts.ru/products2/amort.html)
+- пружины, пыльники, отбойники, чашки и проч oem [drive2.ru/…](https://www.drive2.ru/l/288230376152572423/#post)
+- пружины AJS (6.5к) [ajs.su/…](http://ajs.su/search/?query=jzx81)
+- Пружины TEIN S. TECH SOFT F3.4k R3.8k F-35mm R-37mm. ОЕМ от Tein S1T00-01034 FRONT и S1T01-01038 REAR это Мягкие. Бывают еще средние TEIN S. TECH MEDIUM F4.5k R5.1k ОЕМ от Tein S2T00-01045 и S2T01-01051
+- пружины на зад от Шеви-нивы (колхоз) - [drive2.ru/…](https://www.drive2.ru/l/469492015889908477/)
+- Пружины усиленные OBK (япония) (каталог [www.infodozer.com/…](http://www.infodozer.com/catalogs/obk/search.php?model=MARK%20II)) front C4T-21861 (48131-2A630) back C4T-21912 (48231-2A183)
+
+**от автоваза**
+- на зад пружины от жиги (-2витка)
+
+## пыльники\отбойники
+**перед**
+- пыльник-отбойник 48331-14020
+- подходит пыльник и отбойник от 2110
+
+**зад**
+- подходит задний пыльник и отбойник от 2108 [vk.com/…](https://vk.com/wall-31295460_446557) && [drive2.ru/…](https://www.drive2.ru/l/9929968/)
+- пыльники стоек задних (универсальные) [vk.com/…](https://vk.com/wall-31295460_497916)
+
+
+
 # Тормоза
 - отличия тормозных дисков gx-jzx [vk.com/…](https://vk.com/wall-31295460_620088)
 - ремкомплект суппортов gx - перед 800, зад 2к [pp.vk.me/…](https://pp.vk.me/c626424/v626424077/2663c/KN1E2PLQjpo.jpg)
@@ -207,116 +318,6 @@
 - Подушки рулевой рейки полик отАльтезы (бортик срезать) [drive2.ru/…](https://www.drive2.ru/l/482320842684891297/)
 - Подушки рулевой рейки полик (2к) из питера [www.facebook.com/…](https://www.facebook.com/dominosaintp/posts/1806589532724201?__tn__=-R) && 
 - Подушки рейки из полика 81 [vk.com/…](https://vk.com/wall-31295460_620100)
-
-
-
-# Стойки
-- схемы c номерами стоек\картриджей - [drive2.ru/…](https://www.drive2.ru/l/503523000281203440/)
-
-## сток стойки
-**перед**
-- каталог аммортов каябы - [kyb.ru/…](http://kyb.ru/support/online-catalog?year=1991&firm=Toyota&model=Chaser)
-- самые идеальные задние стойки KYB Gas-A-Just 551079 [vk.com/…](https://vk.com/wall-31295460_544607)
-- Картриджи в стойку kyb 365066 -[vk.com/…](https://vk.com/wall-31295460_559109)
-- Каяба new sr (nsf9128 с сотого кузова хз какие). Хотя говорят, что эти на наш кузов: перед NSC4046 Зад NSG9008. Это каяба нью
-- Картридж от 2110 перед [m.vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && зад [vk.com/…](https://vk.com/wall-31295460_619009)
-- передние картриджи от 2110 ultra sr [vk.com/…](https://vk.com/wall-31295460_618938)
-- Картридж в стойку (хз какую) размеры [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
-
-**зад**
-- задние стойки от тазов. (+ картридж в tems-стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
-- стойки задние подходят от 90 (передние) и вроде задние подходят [vk.com/…](https://vk.com/wall-31295460_595774)
-- стойки зад от ваза (дешевые ремкомплекты) - [drive2.ru/…](https://www.drive2.ru/l/2729349/)
-
-## tems
-**что такое tems**
-- tems - режимы работы [drive2.ru/…](https://www.drive2.ru/l/456812447798395787)
-- почему не лезет обычный картридж 
-- что надо для перехода на овощные стойки
-
-**перед**
-- tems- картриджи 48511-29645, 48511-22360, 48511-22370, 48511-29515 [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?t=25635)
-- tems передние картриджи с крутилками 48511-29645 (5к) (а на самом картридже номер 48511-22360 (1.8к) - это КАЯБы с tems'ом) [drive2.ru/…](https://www.drive2.ru/l/1245049/) && [drive2.ru/…](https://www.drive2.ru/l/7895580/) && [drive2.ru/…](https://www.drive2.ru/l/9197944/) && [drive2.ru/…](https://www.drive2.ru/l/8779699/) 
-- tems - В передние стойки (только tems) подходят картриджи (не tems) с задних стоек MR2 , номер: 365-100 (2,5к) [drive2.ru/…](https://www.drive2.ru/l/2913839/)
-- Что засунуть в стаканы tems: 2110, мр2, плаза итд [vk.com/…](https://vk.com/wall-31295460_614431?reply=614450) (плаза от 2110 чуть не лезет [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125))
-
-**зад**
-- tems - зад 48530-29096, 48530-29097, 48530-29098, 48530-29185, 48530-29186 [toyota.epcdata.ru/…](https://toyota.epcdata.ru/mark_ii/GX81/80762/chassis/4804/48530/?fromOemSetSearch=1)
-- tems назад подходят от сотки (передние) - вверху дырки подкорректировать надо, внизу болт толще. В остальном как родные
-
-## колы, plaza
-**колы**
-- колы от ниссана - [vk.com/…](https://vk.com/wall-139119461_55)
-- колы фуллтапы от s13 на сток и ниссано-подвеску [www.youtube.com/…](https://www.youtube.com/watch?time_continue=2&v=eyHjAwZjBSk)
-- колы от глории с незначительными - [drive2.ru/…](https://www.drive2.ru/l/467845222349407046/)
-- колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под ниссано-кулаки)
-- колы от аристы, маджесты - переделка [drive2.ru/…](https://www.drive2.ru/l/498068323095806575/)
-- от чего колы подходят https://vk.com/wall-31295460_649014
-
-**plaza**
-- стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
-- обсуждение - [vk.com/…](https://vk.com/wall-31295460_671729)
-
-## пневма
-**Yurran**
-- faq - [drive2.ru/…](https://www.drive2.ru/l/1036105/)
-- 1 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579238370/)
-- 2 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579258198/)
-- 3 - [drive2.ru/…](https://www.drive2.ru/l/288230376152946105/)
-- 4 - [drive2.ru/…](https://www.drive2.ru/l/4899916394579375336/)
-- доработки - [drive2.ru/…](https://www.drive2.ru/l/777311/)
-- доработки - [drive2.ru/…](https://www.drive2.ru/l/1945445/)
-- управление с брелка - [drive2.ru/…](https://www.drive2.ru/l/288230376153017549/)
-
-**Юлий**
-- 1 - [drive2.ru/…](https://www.drive2.ru/l/9263378/)
-- 2 - [drive2.ru/…](https://www.drive2.ru/l/9270224/)
-- 3 - [drive2.ru/…](https://www.drive2.ru/l/9353622/)
-
-**производство**
-- пульт [drive2.ru/…](https://www.drive2.ru/experience/toyota/g2385/)
-- кит пневмы 74к, стойки 36к, подушки перед 12к [vk.com/…](https://vk.com/airmagicgt) && [drive2.ru/…](https://vk.com/wall-31295460_669597)
-
-**разное**
-- задние пневмастойки от uc30 - [drive2.ru/…](https://vk.com/wall-31295460_606711)
-- задние пневмостойки от 2108
-
-
-
-## опоры
-**сток**
-- разница обычных и temsопор [a.d-cd.net/…](https://a.d-cd.net/RcAAAgDI1OA-480.jpg)
-- опоры передние для овощных стоек 48609-22100, 48609-22070 [drive2.ru/…](https://www.drive2.ru/l/288230376152572423/#post)
-- опоры передние на tems от короны бочки [vk.com/…](https://vk.com/wall-31295460_558051)
-- опоры задних стоек от 100 [drive2.ru/…](https://www.drive2.ru/l/473678956168479211/#comments)
-- кастом опоры шс (Yuran) (2к) - [drive2.ru/…](https://www.drive2.ru/l/3610124/)
-
-**регулируемые опоры**
-- регулируемые опоры стоек WWshop (5к) (говорят, что фиговые) - [vk.com/…](https://vk.com/wall-96463523_601)
-- кастом опоры 4к [vk.com/…](https://vk.com/wall-96463523_163) && [vk.com/…](https://vk.com/wall-96463523_311)
-- регулируемые опоры стоек (чертеж) - [vk.com/…](https://vk.com/wall-31295460_543490)
-- ЧЕРТЕЖ: регулируемые опоры стоек [vk.com/…](https://vk.com/wall-96463523_311) && [vk.com/…](https://vk.com/wall-31295460_543490?reply=543512)
-- все варианты для колов [vk.com/…](https://vk.com/wall-31295460_618985?reply=619033)
-
-## пружины
-- каталог амортов и пружин [nomura-parts.ru/…](http://nomura-parts.ru/products2/amort.html)
-- пружины, пыльники, отбойники, чашки и проч oem [drive2.ru/…](https://www.drive2.ru/l/288230376152572423/#post)
-- пружины AJS (6.5к) [ajs.su/…](http://ajs.su/search/?query=jzx81)
-- Пружины TEIN S. TECH SOFT F3.4k R3.8k F-35mm R-37mm. ОЕМ от Tein S1T00-01034 FRONT и S1T01-01038 REAR это Мягкие. Бывают еще средние TEIN S. TECH MEDIUM F4.5k R5.1k ОЕМ от Tein S2T00-01045 и S2T01-01051
-- пружины на зад от Шеви-нивы (колхоз) - [drive2.ru/…](https://www.drive2.ru/l/469492015889908477/)
-- Пружины усиленные OBK (япония) (каталог [www.infodozer.com/…](http://www.infodozer.com/catalogs/obk/search.php?model=MARK%20II)) front C4T-21861 (48131-2A630) back C4T-21912 (48231-2A183)
-
-**от автоваза**
-- на зад пружины от жиги (-2витка)
-
-## пыльники\отбойники
-**перед**
-- пыльник-отбойник 48331-14020
-- подходит пыльник и отбойник от 2110
-
-**зад**
-- подходит задний пыльник и отбойник от 2108 [vk.com/…](https://vk.com/wall-31295460_446557) && [drive2.ru/…](https://www.drive2.ru/l/9929968/)
-- пыльники стоек задних (универсальные) [vk.com/…](https://vk.com/wall-31295460_497916)
 
 
 
@@ -601,6 +602,7 @@
 - Фреон 12. Аналог 406а - [vk.com/…](https://vk.com/wall-31295460_544574)
 - патрубок воздушного фильтра перед дросселем от мазды 6 - [drive2.ru/…](https://www.drive2.ru/l/9505299/)
 - Задние арки, ремкомплект от гольф 2. VAN WEZEL 5812500 KLOKKERHOLM 9521595, арки от нивы, газели, пороги от волги [vk.com/…](https://vk.com/wall-31295460_554336)&& [vk.com/…](https://vk.com/wall-31295460_598351)
+- ремкомплект арок - [vk.com/…](https://vk.com/wall-31295460_674209)
 - Пороги от хонда торнео [vk.com/…](https://vk.com/wall-31295460_554839)
 - Пороги от волги
 - Промывка форсунок без снятия (вимс, лавр) [vk.com/…](https://vk.com/wall-31295460_561721)
