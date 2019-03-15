@@ -465,8 +465,8 @@
 
 ## концевики
 - концевики - передний 84231-12060 2шт., задний 84231-22070 2шт., винт с шайбой 90119-08683 4шт. - [d-a.d-cd.net/…](https://d-a.d-cd.net/573d84u/480.jpg)
-- концевики - ревизия [drive2.ru/…](https://www.drive2.ru/l/9880557/)
-- концевики китай (пара) - [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html?spm=2114.13010608.0.136.WNuUDs) && [ru.aliexpress.com/…](https://ru.aliexpress.com/item/1PCS-Universal-Auto-Car-Vehicle-Interior-Door-Light-Lamp-Switch-Push-Button-Interior-Parts-Black/32662769499.html?shortkey=aAjYneea&addresstype=600)
+- концевики - ревизия [drive2.ru/…](https://www.drive2.ru/l/9880557/) && [drive2.ru/…](https://www.drive2.ru/l/2230980/)
+- концевики китай (пара) - обзор [drive2.ru/…](https://www.drive2.ru/l/4849518/) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html?spm=2114.13010608.0.136.WNuUDs) && [ru.aliexpress.com/…](https://ru.aliexpress.com/item/1PCS-Universal-Auto-Car-Vehicle-Interior-Door-Light-Lamp-Switch-Push-Button-Interior-Parts-Black/32662769499.html?shortkey=aAjYneea&addresstype=600)
 
 ## разное
 - стекла не поднимаются - [vk.com/…](https://vk.com/wall-31295460_532597)
@@ -523,6 +523,10 @@
 ## перетяжка руля
 - перетяжка руля кожей - [drive2.ru/…](https://www.drive2.ru/l/10593858/) && [drive2.ru/…](https://www.drive2.ru/l/10593960/)
 - отличный блог про перетяжку  - [drive2.ru/…](https://www.drive2.ru/users/vir17o9/#blog) && видео про руль от А до Я [youtube.com/…](https://www.youtube.com/watch?v=ODcGWn9yhpE) && у этого кадра канал с кучей примеров для чайников [youtube.com/…](https://www.youtube.com/watch?v=aijGg1AOJ54)
+
+## обогрев сидений
+- установка комплекта с aliexpress [drive2.ru/…](https://www.drive2.ru/l/7384641/) && 2 [drive2.ru/…](https://www.drive2.ru/l/7424506/)
+- также можно емелю внедрить [teplodomshop.ru/…](http://teplodomshop.ru/cat/Ustanovochnye-komplekty-podogrevov-sideniy-serii-Emelya.htm)
 
 
 
