@@ -354,7 +354,7 @@
 
 # Распорки
 - распорка зад [auctions.c.yimg.jp/…](http://auctions.c.yimg.jp/f18batchimg.auctions.yahoo.co.jp/users/0/2/7/4/uj_factory-imgbatch_1165937768/600x450-2006120900098.jpg) -> [auctions.c.yimg.jp/…](http://auctions.c.yimg.jp/f18batchimg.auctions.yahoo.co.jp/users/0/2/7/4/uj_factory-imgbatch_1165937768/600x396-2006120900094-3.jpg)
-- распорка для 81 перед + полный свап комплект [drive2.ru/…](https://www.drive2.ru/l/9696258/) (болты, вакуумная трубка) (говорят к крепления tems не подходит ) - [f-a.d-cd.net/…](https://f-a.d-cd.net/790b626s-960.jpg) && а вот на японском сайте со всеми oem и этапами установки под tems-крышки [www5d.biglobe.ne.jp/…](http://www5d.biglobe.ne.jp/~tefutefu/car/towerbar.html)
+- распорка для 81 перед + полный свап комплект [drive2.ru/…](https://www.drive2.ru/l/9696258/) (болты, вакуумная трубка) && [drive2.ru/…](https://www.drive2.ru/l/526883224324933528/) && (говорят к крепления tems не подходит ) - [f-a.d-cd.net/…](https://f-a.d-cd.net/790b626s-960.jpg) && а вот на японском сайте со всеми oem и этапами установки под tems-крышки [www5d.biglobe.ne.jp/…](http://www5d.biglobe.ne.jp/~tefutefu/car/towerbar.html)
 - распорка от ваза 2114 инжекторная. Только отверстия на стойках не совпадают
 - распорка с автоваза вот так встает [vk.com/…](https://vk.com/x81squad?w=wall-31295460_417825)
 - распорка от 08 - есть с регулировками [vk.com/…](https://vk.com/wall-31295460_407290)
