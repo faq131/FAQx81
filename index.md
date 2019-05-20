@@ -241,8 +241,9 @@
 - ремкомплект суппортов gx - перед 800, зад 2к [pp.vk.me/…](https://pp.vk.me/c626424/v626424077/2663c/KN1E2PLQjpo.jpg)
 
 ## гтц
-- ГТЦ от 100'ки (2,5к) [drive2.ru/…](https://www.drive2.ru/l/9761282/) && [drive2.ru/…](https://www.drive2.ru/l/9752969/) && [drive2.ru/…](https://www.drive2.ru/c/2167643/) && [drive2.ru/…](https://www.drive2.ru/c/2723627/) && [drive2.ru/…](https://www.drive2.ru/l/5615347/) (упор) && [drive2.ru/…](https://www.drive2.ru/l/3420488/?page=0#a149127070) (про контуры)
-- Упор гтц 1044р [ajs.su/…](https://ajs.su/rasporki/toyota-upor-gtc-gx81-siniy/) && [vk.com/…](https://vk.com/wall-31295460_560297)
+- ГТЦ от 100'ки (2,5к) [drive2.ru/…](https://www.drive2.ru/l/9761282/) && [drive2.ru/…](https://www.drive2.ru/l/9752969/) && [drive2.ru/…](https://www.drive2.ru/c/2167643/) && [drive2.ru/…](https://www.drive2.ru/c/2723627/) 
+- про контуры гтц от 100 [drive2.ru/…](https://www.drive2.ru/l/3420488/?page=0#a149127070) && [drive2.ru/…](https://www.drive2.ru/l/531412112719742457/)
+- Упор гтц (1044р) [ajs.su/…](https://ajs.su/rasporki/toyota-upor-gtc-gx81-siniy/) && [vk.com/…](https://vk.com/wall-31295460_560297) && [drive2.ru/…](https://www.drive2.ru/l/531412112719742457/) && [drive2.ru/…](https://www.drive2.ru/l/5615347/) (упор) 
 
 ## колодки
 - колодки. какие выбрать [vk.com/…](https://vk.com/wall-31295460_561722)
