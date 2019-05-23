@@ -308,7 +308,7 @@
 видов подушек была хренова куча (от коробки зависит)
 инфа для рядовых 1гыр-быр-фыр: 
 - 12371-70030. аналоги: RBI T11040, RBI T11860, JIKIU Me21155, Tenacity to02rt100
-- для a340 (a3040) они не подходят
+- для a340 (a3040) они не подходят и есть проблемы с установкой на 1g-коробки [vk.com/…](https://vk.com/wall-31295460_689994?reply=690003&from=notifications#reply690003)
 - на акпп к 1g-ge с доработками встет Jikiu Me21155 - [vk.com/…](https://vk.com/wall-31295460_688477)
 - подушка от крауна gx13* 1237170030  [vk.com/…](https://vk.com/wall-31295460_590647?reply=590664) 
 - кастом подушки на сайлентах -  [www.youtube.com/…](https://www.youtube.com/watch?v=042_IxlRE_Y) && [vk.com/…](https://vk.com/wall-31295460_364743) && [m.vk.com/…](https://m.vk.com/wall-31295460_456692?post_add#post_add) && [vk.com/…](https://vk.com/wall-31295460_482171) && [m.vk.com/…](https://m.vk.com/wall-139119461_97?post_add#post_add) && [vk.com/…](https://vk.com/fdmetalwork) && [vk.com/…](https://vk.com/album-139119461_241547580) &&  [vk.com/…](https://vk.com/x81squad?w=wall-31295460_405370) && [vk.com/…](https://vk.com/wall-31295460_469988)
