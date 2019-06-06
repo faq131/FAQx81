@@ -136,7 +136,7 @@
 - Каяба new sr (nsf9128 с сотого кузова хз какие). Хотя говорят, что эти на наш кузов: перед NSC4046 Зад NSG9008. Это каяба нью
 - Картридж от 2110 перед [m.vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && зад [vk.com/…](https://vk.com/wall-31295460_619009)
 - передние картриджи от 2110 ultra sr [vk.com/…](https://vk.com/wall-31295460_618938)
-- Картридж в стойку (хз какую) размеры [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
+- Картридж в стойку - размеры - [vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
 
 **зад**
 - задние стойки от тазов. (+ картридж в tems-стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
