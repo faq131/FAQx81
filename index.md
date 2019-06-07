@@ -374,22 +374,33 @@
 
 
 # Распорки
-- распорка зад [auctions.c.yimg.jp/…](http://auctions.c.yimg.jp/f18batchimg.auctions.yahoo.co.jp/users/0/2/7/4/uj_factory-imgbatch_1165937768/600x450-2006120900098.jpg) -> [auctions.c.yimg.jp/…](http://auctions.c.yimg.jp/f18batchimg.auctions.yahoo.co.jp/users/0/2/7/4/uj_factory-imgbatch_1165937768/600x396-2006120900094-3.jpg)
-- распорка для 81 перед + полный свап комплект [drive2.ru/…](https://www.drive2.ru/l/9696258/) (болты, вакуумная трубка) && [drive2.ru/…](https://www.drive2.ru/l/526883224324933528/) && (говорят к крепления tems не подходит ) - [f-a.d-cd.net/…](https://f-a.d-cd.net/790b626s-960.jpg) && а вот на японском сайте со всеми oem и этапами установки под tems-крышки [www5d.biglobe.ne.jp/…](http://www5d.biglobe.ne.jp/~tefutefu/car/towerbar.html)
+## передняя трехточечная
+- Распорка заводская, новая - 6.5к [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53607A/) && 500р [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53692/)
+- весь кит передней распорки - [drive2.ru/…](https://www.drive2.ru/l/9696258/) (болты, вакуумная трубка) && [drive2.ru/…](https://www.drive2.ru/l/526883224324933528/)
+- размеры оригинальной распорки и чертеж крепления к кузову [vk.com/…](https://vk.com/x81squad?w=wall-31295460_468988) && [drive2.ru/…](https://www.drive2.ru/l/490587520858325032/)
+- распорка японская трехточечная + между стоек [a.d-cd.net/…](https://a.d-cd.net/55d44d4s-960.jpg) && [a.d-cd.net/…](https://a.d-cd.net/7f244d4s-960.jpg)
+- распорка и tems-чашки [drive2.ru/…](https://www.drive2.ru/l/5080333/) &&  говорят к крепления tems не подходит - [f-a.d-cd.net/…](https://f-a.d-cd.net/790b626s-960.jpg) && а вот на японском сайте со всеми oem и этапами установки под tems-крышки [www5d.biglobe.ne.jp/…](http://www5d.biglobe.ne.jp/~tefutefu/car/towerbar.html)
+
+## от автоваза
 - распорка от ваза 2114 инжекторная. Только отверстия на стойках не совпадают
 - распорка с автоваза вот так встает [vk.com/…](https://vk.com/x81squad?w=wall-31295460_417825)
 - распорка от 08 - есть с регулировками [vk.com/…](https://vk.com/wall-31295460_407290)
-- распорка зад [drive2.ru/…](https://www.drive2.ru/l/4884911/)
-- изготовление распорок на заказ [vk.com/…](https://vk.com/smt174) (возможно, что сделают защиту на 81) [vk.com/…](https://vk.com/wall-96001230_798?reply=815)
-- размеры оригинальной распорки и чертеж крепления к кузову [vk.com/…](https://vk.com/x81squad?w=wall-31295460_468988) && [drive2.ru/…](https://www.drive2.ru/l/490587520858325032/)
-- распорка на tems-чашки [drive2.ru/…](https://www.drive2.ru/l/5080333/)
+
+## smt174
+- магаз [vk.com/…](https://vk.com/smt174)
 - распорка рычагов smt174 [drive2.ru/…](https://www.drive2.ru/l/475128387371794569/#comments)
 - распорка задних чашек smt174 [drive2.ru/…](https://www.drive2.ru/l/470294109622370852/)
 - разные распорки от smt174 [vk.com/…](https://vk.com/smt174?z=album-96001230_229444187)
-- распорка японская трехточечная + между стоек [a.d-cd.net/…](https://a.d-cd.net/55d44d4s-960.jpg) && [a.d-cd.net/…](https://a.d-cd.net/7f244d4s-960.jpg)
-- Распорка перед smt под 1jz - [vk.com/…](https://vk.com/wall-96001230_1216)
-- Распорка трехточечная smt под гте [vk.com/…](https://vk.com/wall-96001230_1416)
-- Распорка заводская новая - 6.5к [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53607A/) && 500р [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53692/)
+- распорка перед smt под 1jz - [vk.com/…](https://vk.com/wall-96001230_1216)
+- распорка трехточечная smt под гте - [vk.com/…](https://vk.com/wall-96001230_1416)
+- возможно, что сделают защиту на 81 - [vk.com/…](https://vk.com/wall-96001230_798?reply=815)
+
+## airmagicgt
+- магаз [vk.com/…][https://vk.com/market-177998050]
+- распорка перед [vk.com/…][https://vk.com/wall-31295460_688364]
+- распорка под передние крылья  [drive2.ru/…][https://www.drive2.ru/l/532824435405619987/]
+- усиление подрамника [vk.com/…][https://vk.com/market-177998050?w=product-177998050_2421851]
+- распорка задних лонжеронов [vk.com/…][https://vk.com/market-177998050?w=product-177998050_2401505%2Fquery]
 
 
 
