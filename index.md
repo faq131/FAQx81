@@ -137,9 +137,10 @@
 - Картридж от 2110 перед [m.vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && зад [vk.com/…](https://vk.com/wall-31295460_619009)
 - передние картриджи от 2110 ultra sr [vk.com/…](https://vk.com/wall-31295460_618938)
 - Картридж в стойку - размеры - [vk.com/…](https://m.vk.com/wall-31295460_442150?post_add#post_add) && [pp.vk.me/…](https://pp.vk.me/c626919/v626919251/29541/oa9_x2X8sPA.jpg)
+- картридж от тазов (2110) в tems-стойки - [vk.com/…](https://vk.com/wall-31295460_590247)
 
 **зад**
-- задние стойки от тазов. (+ картридж в tems-стойки от 2110) [vk.com/…](https://vk.com/wall-31295460_590247) && [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
+- задние стойки от тазов [vk.com/…](https://vk.com/x81squad?w=wall-31295460_538582%2Fall) && и пружины [vk.com/…](https://vk.com/x81squad?w=wall-31295460_542764%2Fall) && [vk.com/…](https://vk.com/wall-31295460_551342)\
 - стойки задние подходят от 90 (передние) и вроде задние подходят [vk.com/…](https://vk.com/wall-31295460_595774)
 - стойки зад от ваза (дешевые ремкомплекты) - [drive2.ru/…](https://www.drive2.ru/l/2729349/)
 
