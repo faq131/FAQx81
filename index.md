@@ -751,6 +751,7 @@ NB проверяйте отзывы!
 - D-apex крылья Big Win [vk.com/…](https://vk.com/d_apex_works)
 - Agf Крылья марк 7000 пара Задние крылья сток 7000 [vk.com/…](https://vk.com/wall-31295460_376849) && [vk.com/…](https://vk.com/wall-16140508_77)
 - Расширение rocketbunny [vk.com/…](https://vk.com/wall-106709966_37853)
+- Шевченкою Передние креста-крылья без расширения [vk.com/…](https://vk.com/wall-31295460_701151)
 - Шевченко. Задние крылья 6к [vk.com/…](https://vk.com/wall-31295460_582264) && [vk.com/…](https://vk.com/wall-31295460_620953)
 - Шевченко. Задние крылья. Установка.[vk.com/…](https://vk.com/wall-31295460_620779) && [vk.com/…](https://vk.com/wall-31295460_620843) && [vk.com/…](https://vk.com/wall-31295460_620861)
 - крылья на чемодан [vk.com/…](https://vk.com/wall-31121113_1142)
