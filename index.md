@@ -537,7 +537,7 @@
 - обознаения на схемах - [teletehnika.info/…](http://teletehnika.info/collection-of-sockets-autoradio/15-razyomy-avtomagnitol-i-ix-oboznacheniya.html)
 
 ## aux
-- впайка JACK 3.5 - [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455) && [drive2.ru/…](https://www.drive2.ru/l/459180246088874151/) && [vk.com/…](https://vk.com/wall-31295460_475446) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_483627) && [drive2.ru/…](https://www.drive2.ru/l/472659434011623784/)
+- впайка JACK 3.5 - [vk.com/…](https://vk.com/wall-31295460_475446) && [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455) && [drive2.ru/…](https://www.drive2.ru/l/459180246088874151/) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_483627) && [drive2.ru/…](https://www.drive2.ru/l/472659434011623784/)
 - пример впайки в чайник и касетник от 90
 [drive2.ru/…](https://www.drive2.ru/l/9182208/) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455)
 
