@@ -34,10 +34,9 @@
 ## номера расходников
 - схемы с расходниками подвески (ориг, заменители, от других машин, полик) - [drive2.ru/…](https://www.drive2.ru/l/503523000281203440/)
 - и еще номера [forums.drom.ru/…](https://forums.drom.ru/toyota-mark-ii-chaser-cresta/t1151251615-p938.html)
-- ![alt](jzx-suspension-front.png "подвеска перед")
-- ![alt](jzx-suspension-front.png | width="100")
-- [[jzx-suspension-front.png|width=100px]]
-- ![alt](jzx-suspension-front.png){width="100px"}
+- ![alt](jzx-suspension-front.png?s=100 "подвеска перед")
+- ![alt](jzx-suspension-front.png | width=100)
+- ![alt](jzx-suspension-front.png =100x100)
 
 ## кастомные сайленты
 - кастомные сайлентблоки (японская резина/танковая резина) 500-600р. Или 10к за комплект Омск -[vk.com/…](https://vk.com/wall-106709966_49873) && [vk.com/…](https://vk.com/wall-106709966_52263) && [vk.com/…](https://vk.com/wall-106709966_53297)
