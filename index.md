@@ -375,7 +375,7 @@
 - рейка с демпфером. заменитель от mercedes w140 (AS1003H) 1.5к [drive2.ru/…](https://www.drive2.ru/l/481027267254812850/) &&  [drive2.ru/…](https://www.drive2.ru/c/2229821/)
 
 ## переход на свежие рейки
-- рейка от 90, 100, альтезы, аристы - [vk.com/…](https://vk.com/photo-31295460_456288715) && [drive2.ru/…](https://www.drive2.ru/l/464122550855663769/) && [drive2.ru/…](https://www.drive2.ru/l/464120901588222090/) && [drive2.ru/…](https://www.drive2.ru/l/531189186737209396/) && [vk.com/…](https://vk.com/wall-31295460_512251) && [drive2.ru/…](https://www.drive2.ru/l/522175115534794979/)
+- рейка от 90, 100, альтезы, аристы - [vk.com/…](https://vk.com/photo-31295460_456288715) && [drive2.ru/…](https://www.drive2.ru/l/464122550855663769/) && [drive2.ru/…](https://www.drive2.ru/l/464120901588222090/) && [drive2.ru/…](https://www.drive2.ru/l/531189186737209396/) && [vk.com/…](https://vk.com/wall-31295460_512251) && [drive2.ru/…](https://www.drive2.ru/l/522175115534794979/) && [vk.com/…](https://www.drive2.ru/l/542632079125382016/)
 
 ## подушки рейки
 -  см.ПОДУШКИ → [подушки рейки](/#подушки рейки)
