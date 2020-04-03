@@ -568,6 +568,7 @@
 - стирка ремней - [drive2.ru/…](https://www.drive2.ru/l/5105451/) && [drive2.ru/…](https://www.drive2.ru/l/481174601812934667/)
 - чистка потолка - profoam 2000(3000)
 - чистка дверных карт - [drive2.ru/…](https://www.drive2.ru/l/476490957156515911/)
+- чистка обшивки багажника - [drive2.ru/…](https://www.drive2.ru/l/554917747176244881)
 
 ## перетяжка руля
 - перетяжка руля кожей - [drive2.ru/…](https://www.drive2.ru/l/10593858/) && [drive2.ru/…](https://www.drive2.ru/l/10593960/)
