@@ -187,13 +187,13 @@ ul {
 
 @media screen and (max-width: $screen-md) {
     .page-layout,
-    .page-layout__row,
     .page-layout__sidebar,
     .page-layout__content {
         display: block;
         flex: none;
         height: auto;
         overflow: initial;
+        position: static;
     }
     .mobile-btn {
         display: block;
