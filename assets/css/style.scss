@@ -22,8 +22,9 @@ html, body {
 }
 
 body {
-    font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 16px;
     line-height: 1.5;
+    font-family: 'Segoe UI', 'Helvetica Neue', Roboto, Aria, sans-serif;
     color: #222222;
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
