@@ -361,7 +361,7 @@
 - Шайбы полик [xcessivemanufacturing.com/…](https://xcessivemanufacturing.com/toyota-mx83-t-mx83-rsb.html)
 
 ## подушки рулевой рейки
-- Подушки рулевой рейки полик отАльтезы (бортик срезать) [drive2.ru/…](https://www.drive2.ru/l/482320842684891297/)
+- Подушки рулевой рейки полик отАльтезы (бортик срезать) [drive2.ru/…](https://www.drive2.ru/l/482320842684891297/) && [drive2.ru/…](https://www.drive2.ru/l/561417785041748315/)
 - Подушки рулевой рейки полик (2к) из питера [www.facebook.com/…](https://www.facebook.com/dominosaintp/posts/1806589532724201?__tn__=-R) && 
 - Подушки рейки из полика 81 [vk.com/…](https://vk.com/wall-31295460_620100)
 
