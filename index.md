@@ -565,7 +565,7 @@
 # Салон
 ## стирка 
 - стирка сидений [drive2.ru/…](https://www.drive2.ru/l/5778131) && 1 [drive2.ru/…](https://www.drive2.ru/l/3127865/) && 2 [drive2.ru/…](https://www.drive2.ru/l/3127917/) && 3 - [drive2.ru/…](https://www.drive2.ru/l/3493436/)   & 4 - [drive2.ru/…](https://www.drive2.ru/l/3493488/)  мое [drive2.ru/…](https://www.drive2.ru/l/472948880447635527/)
-- стирка ремней - [drive2.ru/…](https://www.drive2.ru/l/5105451/) && [drive2.ru/…](https://www.drive2.ru/l/481174601812934667/)
+- стирка ремней - [drive2.ru/…](https://www.drive2.ru/l/5105451/) && [drive2.ru/…](https://www.drive2.ru/l/481174601812934667/) && [drive2.ru/…](https://www.drive2.ru/l/566390051500459618)
 - чистка потолка - profoam 2000(3000)
 - чистка дверных карт - [drive2.ru/…](https://www.drive2.ru/l/476490957156515911/)
 - чистка обшивки багажника - [drive2.ru/…](https://www.drive2.ru/l/554917747176244881)
