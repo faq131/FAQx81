@@ -289,7 +289,7 @@
 - проставки для тормозов, вторых суппортов, сошек итд [vk.com/…](https://vk.com/wall-31295460_623564)
 - планшайбы для установки второго суппорта x110 на ступицу x80 [vk.com/…](https://vk.com/market-143577202?w=product-143577202_1587200%2Fquery)
 - планшайба для установки второго тормозного суппорта на x80 [vk.com/…](https://vk.com/market-143577202?w=product-143577202_970463%2Fquery)
-- проставки под 21 цельсиор-суппорта [drive2.ru/…](https://www.drive2.ru/b/518149253709693556/) && [drive2.ru/…](https://www.drive2.ru/b/515695968390218222/)  && установка [drive2.ru/…](https://www.drive2.ru/l/519741896302527007/)
+- проставки под 21 цельсиор-суппорта [drive2.ru/…](https://www.drive2.ru/b/518149253709693556/) && [drive2.ru/…](https://www.drive2.ru/b/515695968390218222/)  && установка [drive2.ru/…](https://www.drive2.ru/l/519741896302527007/) && подгонка [drive2.ru/…](https://www.drive2.ru/l/569221843697796006/)
 - проставки под 30 цельсиор-суппорта [drive2.ru/…](https://www.drive2.ru/b/517440618465591499/) && проставки под суппорта и диски [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2506504%2Fquery) && [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2221827%2Fquery)
 - проставки для задних тормозов ucf30 - [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2506507%2Fquery)
 - проставки для установки тормозов Nissan BNR на x81 - [vk.com/…](https://vk.com/wall-31295460_669976) &&
