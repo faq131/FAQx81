@@ -968,10 +968,3 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 
 ## Скриншоты
 - длины карданов [vk.com/…](https://vk.com/wall-31295460_737736) && [vk.com/…](https://vk.com/wall-31295460_737731) && [vk.com/…](https://vk.com/wall-31295460_737730)
-
-
-
-# Тест
-
-## Тест1
-## Тест2
