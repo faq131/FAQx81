@@ -299,6 +299,7 @@
 - ГТЦ от 100'ки (2,5к) [drive2.ru/…](https://www.drive2.ru/l/9761282/) && [drive2.ru/…](https://www.drive2.ru/l/9752969/) && [drive2.ru/…](https://www.drive2.ru/c/2167643/) && [drive2.ru/…](https://www.drive2.ru/c/2723627/) 
 - про контуры гтц от 100 [drive2.ru/…](https://www.drive2.ru/l/3420488/?page=0#a149127070) && [drive2.ru/…](https://www.drive2.ru/l/531412112719742457/)
 - упор гтц (1044р) [ajs.su/…](https://ajs.su/rasporki/toyota-upor-gtc-gx81-siniy/) && [vk.com/…](https://vk.com/wall-31295460_560297) && [drive2.ru/…](https://www.drive2.ru/l/531412112719742457/) && [drive2.ru/…](https://www.drive2.ru/l/5615347/) (упор) 
+- упор гтц 1,2к в SMT174 - [vk.com/…](https://vk.com/market-96001230?w=product-96001230_814748%2Fquery) && чертеж [drive2.ru/…](https://www.drive2.ru/l/5615347)
 
 ## Колодки
 - колодки. какие выбрать [vk.com/…](https://vk.com/wall-31295460_561722)
@@ -774,7 +775,6 @@
 - катализатор. jzx. Выбиваем, ввариваем стронгер [vk.com/…](https://vk.com/wall-31295460_638241)
 - палка капотодержалка из двух от ваза [vk.com/…](https://vk.com/wall-31295460_638913)
 - клипсы под задние фонари [vk.com/…](https://vk.com/wall-31295460_642126)
-- упор гтц 1,2к в SMT174 - [vk.com/…](https://vk.com/market-96001230?w=product-96001230_814748%2Fquery) && чертеж [drive2.ru/…](https://www.drive2.ru/l/5615347)
 - переделка гетраг для jz и uz (колокол, что комплект) (8-45) [vk.com/…](https://vk.com/jz_uz_bmw)
 - сварит все что надо для свапа (лапы, рычаги… что хошь) [vk.com/…](https://vk.com/id5300733)
 - Harvest - [vk.com/…](https://vk.com/harvesttrans)
