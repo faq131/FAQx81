@@ -200,7 +200,7 @@
 - колы от глории с незначительными - [drive2.ru/…](https://www.drive2.ru/l/467845222349407046/)
 - колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под ниссано-кулаки)
 - колы от аристы, маджесты - переделка [drive2.ru/…](https://www.drive2.ru/l/498068323095806575/)
-- от чего колы подходят https://vk.com/wall-31295460_649014
+- от чего колы подходят  [vk.com/…](https://vk.com/wall-31295460_649014)
 
 **plaza**
 - стойки PLAZA sport - зад 2108 [drive2.ru/…](https://www.drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://www.drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
@@ -958,7 +958,7 @@ BN-Sport
 ## Англоязычные сайты. Японские сервисные мануалы
 - (ВАЖНО) англо/японоязычная инфа по всем моделям и кузовам [jzxproject.com...](https://jzxproject.com/bbs/index.php?/topic/10809-toyota-x-chassis-workshop-manual-and-wiring-guide-motherload/)
 - отдельным zip-файлом:
-VOL 7 ​​= X70-> X80 1985-1991 [s3.amazonaws.com](https://s3.amazonaws.com/jzxp/RepairManuals/VOL+7.zip) 
+VOL 7 = X70-> X80 1985-1991 [s3.amazonaws.com](https://s3.amazonaws.com/jzxp/RepairManuals/VOL+7.zip) 
 VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/RepairManuals/VOL+8.zip) 
 - японские сервисные мануалы [www.ciscokids.com.au...](http://www.ciscokids.com.au/technical/manual/Japanese%20manuals/)
 - оно же, но на Google-диске [drive.google.com...](https://drive.google.com/drive/folders/1IKDO1U5uq5R8Tci7o3EnI9t1crHmo-Id?usp=sharing)
