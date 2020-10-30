@@ -3,7 +3,7 @@
 - старая ветка на [tourerv.ru/…](http://tourerv.ru/forum/forumdisplay.php?f=80)
 - группа вконтакте [vk.com/x81squad](https://vk.com/x81squad)
 - каталог запчастей [toyota.epcdata.ru/…](http://toyota.epcdata.ru)
-- мануалы → см. раздел ([Литература](/#Литература))
+- мануалы → см. раздел ([Литература](#Литература))
 - устаревшие сслылки можно поднять из интернет-кэша через [web.archive.org/…](https://web.archive.org/)
 
 # Топ 20 вопросов
@@ -451,11 +451,11 @@
 - возможно, что сделают защиту на 81 - [vk.com/…](https://vk.com/wall-96001230_798?reply=815)
 
 ## airmagicgt
-- магаз [vk.com/…][https://vk.com/market-177998050]
-- распорка перед [vk.com/…][https://vk.com/wall-31295460_688364]
-- распорка под передние крылья  [drive2.ru/…][https://www.drive2.ru/l/532824435405619987/]
-- усиление подрамника [vk.com/…][https://vk.com/market-177998050?w=product-177998050_2421851]
-- распорка задних лонжеронов [vk.com/…][https://vk.com/market-177998050?w=product-177998050_2401505%2Fquery]
+- магаз [vk.com/…](https://vk.com/market-177998050)
+- распорка перед [vk.com/…](https://vk.com/wall-31295460_688364)
+- распорка под передние крылья [drive2.ru/…](https://www.drive2.ru/l/532824435405619987/)
+- усиление подрамника [vk.com/…](https://vk.com/market-177998050?w=product-177998050_2421851)
+- распорка задних лонжеронов [vk.com/…](https://vk.com/market-177998050?w=product-177998050_2401505%2Fquery)
 
 ## Атмо JZ
 - перед/зад [unlimdynamics.ru/…](http://unlimdynamics.ru/product-category/rasporki/toyota-rasporki/toyota-mark2-chaser-cresta-80/)
@@ -741,7 +741,7 @@
 # Разное
 - конвертер Pilot VAF/MAF [shop.pilotpowersupply.com/…](http://shop.pilotpowersupply.com/konverteryi-pilot-vaf-maf/konverter-pilot-vaf-maf-prostaya-versiya-0-5v/)
 - петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://www.drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
-- петли дверные - ремкомплект от хонды https://ajs.su/interer/petli-dvernye-napravlyayushchie-honda-88-02/  && https://vk.com/wall-31295460_659230 && [drive2.ru/…](https://www.drive2.ru/l/525533573801837393/)
+- петли дверные - ремкомплект от хонды [ajs.su/...](https://ajs.su/interer/petli-dvernye-napravlyayushchie-honda-88-02/)  &&  [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://www.drive2.ru/l/525533573801837393/)
 - подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
 - подкрылки задние от нивы [vk.com/…](https://vk.com/wall-31295460_538837)
 - пороги 3к [vk.com/…](https://vk.com/wall-31295460_390453) и еще пороги [vk.com/…](https://vk.com/wall-31295460_594530)
@@ -793,10 +793,10 @@
 - бабушкины кружева от 90 марка [drive2.ru/…](https://www.drive2.ru/l/500021330624643091/#comments)
 - дефлектор на люк возможно подойдет от прадика (вот хз) - [www.farpost.ru/…](https://www.farpost.ru/novouralsk/auto/sell_spare_parts/reshetka-gx81-fara-63548861.html)
 - бар с ручником. Как разметить где устанавливать - [vk.com/…](https://vk.com/wall-31295460_625945?reply=625983)
-- замена патрубка на кран печки -https://www.drive2.ru/l/514689640372896807/
-- молдинги от 14 рест  либо от  100 https://vk.com/wall-31295460_659373
-- подборка святого китайского хлама  https://vk.com/wall-31295460_661952
-- ремонт троса спидометра [drive2.ru/…] (https://www.drive2.ru/l/567470871430562298/)
+- замена патрубка на кран печки -  [drive2.ru/…](https://www.drive2.ru/l/514689640372896807/)
+- молдинги от 14 рест  либо от  100 [vk.com/…](https://vk.com/wall-31295460_659373)
+- подборка святого китайского хлама  [vk.com/…](https://vk.com/wall-31295460_661952)
+- ремонт троса спидометра [drive2.ru/…](https://www.drive2.ru/l/567470871430562298/)
 - изготавливает подрамник под jz и 100 рейкой [vk.com/…](https://vk.com/wall-31295460_737967)
 
 # Стеклопластик итп
@@ -805,12 +805,12 @@ NB проверяйте отзывы!
 
 - куча всего (видимо с японии) [tuningatar.ru/…](http://tuningatar.ru/katalog/mark2-89-92)
 - дефлектор люка [tuningatar.ru/…](http://tuningatar.ru/products/deflektor-na-lyuk-dymchatyj-mark2-88-92g)
-- оригинальное крепление козырька - https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg
+- оригинальное крепление козырька - [pp.userapi.com/...](https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg)
 - кастом крепление козырька - [drive2.ru/…](https://www.drive2.ru/l/453332218618578531/) && [drive2.ru/…](https://www.drive2.ru/experience/toyota/g2693/)
 
 ## Разное
 - крышка левого динамика [drive2.ru/…](https://www.drive2.ru/l/9558775/)
-- Yurran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://www.drive2.ru/l/9438393/#comments) && https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg
+- Yurran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://www.drive2.ru/l/9438393/#comments) && [pp.vk.me/...](https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg)
 - Yurran - крылья на кресту, спойлер ducktail, площадка акб, бардачек в багажник, губа, губа gtr, пороги [vk.com/…](https://vk.com/gtcomposite) && [vk.com/…](https://vk.com/market-106467375) && [drive2.ru/…](https://www.drive2.ru/l/5802653)
 - Yurran - поддон под акб 600 [vk.com/…](https://vk.com/gtcomposite?z=photo-106467375_388323624%2Falbum-106467375_223381356%2Frev)
 - губа ГТР, дактейл, козырек на чайзера, марк - [vk.com/…](https://vk.com/wall-31295460_408530)
@@ -831,7 +831,7 @@ NB проверяйте отзывы!
 ## Крылья
 - Yurran 6к - [drive2.ru/…](https://www.drive2.ru/b/2102016/)
 - D-apex задние крылья(7к) + накладки на задние двери(6к) [drive2.ru/…](https://www.drive2.ru/l/457168139809980920/)
-- накладки задних крыльев марк,чейзер 7к https://m.vk.com/wall-31295460_424621?post_add#post_add
+- накладки задних крыльев марк,чейзер 7к  [vk.com/…](https://m.vk.com/wall-31295460_424621?post_add#post_add)
 - крылья без расширения. креста (4.5к) - [drive2.ru/…](https://www.drive2.ru/c/3023131/) && [vk.com/…](https://vk.com/feed?w=wall-31295460_507045_r507241)
 - крылья колхозного производства [drive2.ru/…](https://www.drive2.ru/l/471139634064130884/)
 - Ober - крылья BigWin [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://www.drive2.ru/l/5007108/)
@@ -851,17 +851,17 @@ NB проверяйте отзывы!
 - реплика стоковой губы - [vk.com/…](https://vk.com/foma128)
 - губа yamaha concept 4к - [vk.com/…](https://vk.com/wall-31295460_525175)
 - губа gx jzx [vk.com/…](https://vk.com/wall-31295460_393811)
-- губа Position one на jzx (как на ямахе ток без дырок). ее делают Александр Шевченко https://pp.vk.me/c633519/v633519480/2c939/LD5aKy2q664.jpg
-- губа Yamaha Concept 5к http://www.farpost.ru/vladivostok/auto/gt/guba-yamaha-concept-na-jzx81-43692071.html && 4к [vk.com/…](https://vk.com/wall-31295460_532773)
-- губы 4-7к http://www.farpost.ru/user/mercury356/
+- губа Position one на jzx (как на ямахе ток без дырок). ее делают Александр Шевченко [pp.vk.me/...](https://pp.vk.me/c633519/v633519480/2c939/LD5aKy2q664.jpg)
+- губа Yamaha Concept 5к [farpost.ru/...](http://www.farpost.ru/vladivostok/auto/gt/guba-yamaha-concept-na-jzx81-43692071.html) && 4к [vk.com/…](https://vk.com/wall-31295460_532773)
+- губы 4-7к [farpost.ru/...](http://www.farpost.ru/user/mercury356/)
 - губа YAMAHA на TOYOTA MARK II JZX81 (5к) [vk.com/…](https://vk.com/market-91499828?w=product-91499828_333028)
 - сток губа в выемкой от ерофеева [vk.com/…](https://vk.com/wall-31295460_420679) && и слизанная с юрана гтр32 (3к) [vk.com/…](https://vk.com/wall-31295460_433060)
 - губа trial 4к - [vk.com/…](https://vk.com/market-91499828?w=product-91499828_333052)
-- куча губ на х81 https://m.vk.com/wall-31295460_442305?from=feed&post_add#post_add
+- куча губ на х81 [m.vk.com/...](https://m.vk.com/wall-31295460_442305?from=feed&post_add#post_add)
 - губы Tria Yamaha AeroMagic - 4-6к - [vk.com/…](https://vk.com/wall-31295460_394595)
 - губа ГТР, дактейл, козырек на чайзера, марк - [vk.com/…](https://vk.com/wall-31295460_408530)
 - дактейл, губа [vk.com/…](https://vk.com/wall-31295460_415033)
-- AutoPista по частям: передняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/peredniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && задняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/zadniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && пороги 5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/porogi-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov &&
+- AutoPista по частям: передняя губа 3.5к [gefestauto.ru/...](http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/peredniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov) && задняя губа 3.5к [gefestauto.ru/...](http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/zadniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov) && пороги 5к [gefestauto.ru/...](http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/porogi-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov)
 - D-apex заводская губа [vk.com/…](https://vk.com/d_apex_works) [vk.com/…](https://vk.com/d_apex_works)
 - Agf губы gtr и trial [vk.com/…](https://vk.com/Agf81)
 - UR-project губы триал и ямаха 4к [vk.com/…](https://vk.com/ur_project)
@@ -884,12 +884,12 @@ NB никто больше не делает
 GT-Composite
 - Yurran - обвес GT-Composite [vk.com/…](https://vk.com/market-106467375?w=product-106467375_1918250)
 BigWin
-- Obvesoff обвес BigWin https://m.vk.com/tuningbarnaul (реплика огонь) обзор [drive2.ru/…](https://www.drive2.ru/l/9792807/#comments)
+- Obvesoff обвес BigWin [m.vk.com/...](https://m.vk.com/tuningbarnaul) (реплика огонь) обзор [drive2.ru/…](https://www.drive2.ru/l/9792807/#comments)
 - D-apex обвес BigWin [vk.com/…](https://vk.com/d_apex_works)
-- BigWin 19к без окрашивания https://antikrylo.ru/products/komplekt-obvesov-big-win-dlya-mark-2-80
-- BigWin 18к ЛС http://greenproject.pro/Shop/Set/89b36ea3-57fa-e211-be5e-00155d770c15 && [vk.com/…](https://vk.com/green_project) &&
-- BigWin 16к http://tuning-company.ru/catalog/161.html
-- BigWin 16к http://www.in-style.pro/shop/product/133
+- BigWin 19к без окрашивания [antikrylo.ru/...](https://antikrylo.ru/products/komplekt-obvesov-big-win-dlya-mark-2-80)
+- BigWin 18к ЛС [greenproject.pro/...](http://greenproject.pro/Shop/Set/89b36ea3-57fa-e211-be5e-00155d770c15) && [vk.com/…](https://vk.com/green_project) &&
+- BigWin 16к [tuning-company.ru/...](http://tuning-company.ru/catalog/161.html)
+- BigWin 16к [in-style.pro/...](http://www.in-style.pro/shop/product/133)
 - Agf BigWin 15к [vk.com/…](https://vk.com/Agf81) && [vk.com/…](https://vk.com/wall-31295460_376849)
 - Body Kit Workshop BigWin 15к без окрашивания [vk.com/…](https://vk.com/market-99754707?w=product-99754707_44707%2Fquery)
 - BigWin [vk.com/…](https://vk.com/wall-31295460_377174)
@@ -897,8 +897,8 @@ BigWin
 - BigWin 15к [vk.com/…](https://vk.com/wall-31295460_670157)
 
 AutoPista
-- AutoPista 7.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/cresta-81-kyzov-komplekt-standartnyh-klassicheskih-obvesov
-- AutoPista по частям: задняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/zadniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && пороги 5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/porogi-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov && передняя губа 3.5к http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/peredniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov 
+- AutoPista 7.5к [gefestauto.ru/...](http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/cresta-81-kyzov-komplekt-standartnyh-klassicheskih-obvesov)
+- AutoPista по частям: задняя губа 3.5к  [gefestauto.ru/...](http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/zadniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov) && пороги 5к  [gefestauto.ru/...](http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/porogi-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov) && передняя губа 3.5к  [gefestauto.ru/...](http://www.gefestauto.ru/catalog/aerodinamicheskie-obvesy/peredniaia-gyba-na-cresta-k-81-iz-komplekta-standartnyh-klassicheskih-obvesov) 
 
 BN-Sport
 - Ober - BN-Sport бампер перед 8500, крылья BigWin 8, пороги 6, бампер by Ober [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://www.drive2.ru/l/5007108/)
@@ -913,7 +913,7 @@ BN-Sport
 
 ## Капот\двери\багажник
 - боди-кит стеклопластика 70к (можно отдельно) [vk.com/…](https://vk.com/wall-31295460_521684)
-- капот && двери [drive2.ru/…](https://www.drive2.ru/l/9498710/)
+- капот и двери [drive2.ru/…](https://www.drive2.ru/l/9498710/)
 - D-apex капот SelfMade (до рестайлинг), багажник [vk.com/…](https://vk.com/d_apex_works)
 - Agf - Капот дорест марк сток 9000 Багажник 7000 руб Двери 28000 комплект хардтоп [vk.com/…](https://vk.com/wall-31295460_376849)
 - Kdf - двери 45к [vk.com/…](https://vk.com/market-55766193?w=product-55766193_1397803)
@@ -958,7 +958,7 @@ BN-Sport
 ## Англоязычные сайты. Японские сервисные мануалы
 - (ВАЖНО) англо/японоязычная инфа по всем моделям и кузовам [jzxproject.com...](https://jzxproject.com/bbs/index.php?/topic/10809-toyota-x-chassis-workshop-manual-and-wiring-guide-motherload/)
 - отдельным zip-файлом:
-VOL 7 = X70-> X80 1985-1991 [s3.amazonaws.com](https://s3.amazonaws.com/jzxp/RepairManuals/VOL+7.zip) 
+VOL 7 = X70-> X80 1985-1991 [s3.amazonaws.com](https://s3.amazonaws.com/jzxp/RepairManuals/VOL+7.zip)
 VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/RepairManuals/VOL+8.zip) 
 - японские сервисные мануалы [www.ciscokids.com.au...](http://www.ciscokids.com.au/technical/manual/Japanese%20manuals/)
 - оно же, но на Google-диске [drive.google.com...](https://drive.google.com/drive/folders/1IKDO1U5uq5R8Tci7o3EnI9t1crHmo-Id?usp=sharing)
