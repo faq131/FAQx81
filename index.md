@@ -1,9 +1,9 @@
-# Важные ссылки (тест)
+# Важные ссылки
 - faq на [drive2](https://www.drive2.ru/c/574975/)
 - старая ветка на [tourerv.ru/…](http://tourerv.ru/forum/forumdisplay.php?f=80)
 - группа вконтакте [vk.com/x81squad](https://vk.com/x81squad)
 - каталог запчастей [toyota.epcdata.ru/…](http://toyota.epcdata.ru)
-- мануалы → см. раздел [Литература](## Русский язык)
+- мануалы → см. раздел ([Литература](## Русский язык))
 - устаревшие сслылки можно поднять из интернет-кэша через [web.archive.org/…](https://web.archive.org/)
 
 # Топ 20 вопросов
