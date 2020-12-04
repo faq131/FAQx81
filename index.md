@@ -745,60 +745,6 @@
 
 
 
-# Разное
-- конвертер Pilot VAF/MAF [shop.pilotpowersupply.com/…](http://shop.pilotpowersupply.com/konverteryi-pilot-vaf-maf/konverter-pilot-vaf-maf-prostaya-versiya-0-5v/)
-- петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://www.drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
-- петли дверные - ремкомплект от хонды [ajs.su/...](https://ajs.su/interer/petli-dvernye-napravlyayushchie-honda-88-02/)  &&  [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://www.drive2.ru/l/525533573801837393/)
-- подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
-- подкрылки задние от нивы [vk.com/…](https://vk.com/wall-31295460_538837)
-- передние ветровики от альтезы gx10 - [drive2.ru/…](https://www.drive2.ru/l/477850503284261070/)
-- фреон 12. Аналог 406а - [vk.com/…](https://vk.com/wall-31295460_544574)
-- молдинги от нексии - [drive2.ru/…](https://www.drive2.ru/l/479071785824813507/)
-- ручник от 100 - [drive2.ru/…](https://www.drive2.ru/l/466005464518230134/)
-- крепления заднего бампера - болты вместо клипс - [drive2.ru/…](https://www.drive2.ru/l/467022512773923331/)
-- крепление акб. Родное [a.d-cd.net/…](https://a.d-cd.net/20bd84u/960.jpg) && от ваз 2101 за 50р 2101-3703111/15
-- чтобы кулиса не болталась. Чертеж - [vk.com/…](https://vk.com/wall-31295460_547724) && [drive2.ru/…](https://www.drive2.ru/l/489983614096769658/)
-- кулиса [vk.com/…](https://vk.com/wall-31295460_592934)
-- ручка двери. Ремонт [vk.com/…](https://vk.com/wall-31295460_595458)
-- клапан кондиционера - частая причина ухода фреона из системы - [vk.com/…](https://vk.com/wall-31295460_638976)
-- как выбрать аккум (кальуевый, 500-600А, производство до 6мес, гарантия 2-4года) - [www.youtube.com/…](https://www.youtube.com/watch?v=ViuqEJ3nC3I)
-- крышка пассажирского динамика своими кривыми руками - [a.d-cd.net/…](https://a.d-cd.net/x0AAAgDXMOA-960.jpg) &&[drive2.ru/…](https://www.drive2.ru/l/498695594479452280/)
-- крышка пассажирского динамика из говна и палок - [vk.com/…](https://vk.com/wall-31295460_614538)
-- пластиковая тяга ручек дверей с любой тойоты [www.farpost.ru/…](https://www.farpost.ru/vladivostok/auto/sell_spare_parts/tjaga-ruchek-bokovyh-dverej-69293-12060-g2009855930.html) && [vk.com/…](https://vk.com/wall-31295460_615612)
-- подшипники на 8' редуктор [vk.com/…](https://vk.com/wall-31295460_620472?reply=620569)
-- восстановление болтов (лимонка, цинк) [drive2.ru/…](https://www.drive2.ru/l/7882169/)
-- масло в редуктор 75w-90 gl-5 или 75w90 gl-4 [vk.com/…](https://vk.com/wall-31295460_624635)
-- тросик открывания багажника от 100, висты… [vk.com/…](https://vk.com/wall-31295460_629759)
-- катализатор. jzx. Выбиваем, ввариваем стронгер [vk.com/…](https://vk.com/wall-31295460_638241)
-- палка капотодержалка из двух от ваза [vk.com/…](https://vk.com/wall-31295460_638913)
-- клипсы под задние фонари [vk.com/…](https://vk.com/wall-31295460_642126)
-- переделка гетраг для jz и uz (колокол, что комплект) (8-45) [vk.com/…](https://vk.com/jz_uz_bmw)
-- сварит все что надо для свапа (лапы, рычаги… что хошь) [vk.com/…](https://vk.com/id5300733)
-- Harvest - [vk.com/…](https://vk.com/harvesttrans)
-- писалки веерные (белые) от 30 виндома 85381-33060-A0 WHITE PEARL + обратный клапан к ним 85321-26020 или от камри 85381-aa042
-- держатель крышки бензобака 77399-28010 && 77399-12010 && &&
-- крепление для крышки бензобака на люючке 17255-jk000
-- заглушки на болты сидений 96236550
-- дворники откидывающиеся [pp.vk.me/…](https://pp.vk.me/c636729/v636729055/338a2/Bp2cLTFy8M4.jpg)
-- переходная плита от jz\uz к коробке w-серии (6-7к) [drive2.ru/…](https://www.drive2.ru/b/2526670/)
-- кастом пепельница для некурящих (напыление флока) - [drive2.ru/…](https://www.drive2.ru/l/5085463/)
-- уплотнитель резиновый между дверей (от грязи) ( лексус 570ршт 67896-60030 Правый 67895-60030 Левый) - [drive2.ru/…](https://www.drive2.ru/l/469804552070103233/) && [drive2.ru/…](https://www.drive2.ru/l/4641641/) && от 570 лексуса [drive2.ru/…](https://www.drive2.ru/l/471703408651273834/) && установка [drive2.ru/…](https://www.drive2.ru/l/472027489703559275/)
-- уплотнитель резиновый между дверей РКИ-19 000017504293020, 00001750429302 - [drive2.ru/…](https://www.drive2.ru/l/4641641/) && [magazinrti66.ru/…](http://magazinrti66.ru/catalog/uplotniteli/)(Титова,19)
-- фильтр стеклоомывателя (3538564) (просто в магазине от 20 до 100р) [drive2.ru/…](https://www.drive2.ru/l/8606175/)
-- крючок для крепления водительского коврика PZ410-99350-01 && 08211-00720 && 08210-00820 (50р 2шт) [drive2.ru/…](https://www.drive2.ru/l/461263270867633980/) + люверсы к нему VAG 3C0 864 521 9B9 (2 шт) VAG 3C0 864 523 9B9 (2 шт) (для резиновых ковриков) [drive2.ru/…](https://www.drive2.ru/l/463621448431305808/)
-- изготовление значка yamaha concept 3к - [vk.com/…](https://vk.com/wall-130662053_3428) (стояли на задних стойках и у некоторых на багажнике)
-- бабушкины кружева от 90 марка [drive2.ru/…](https://www.drive2.ru/l/500021330624643091/#comments)
-- дефлектор на люк возможно подойдет от прадика (вот хз) - [www.farpost.ru/…](https://www.farpost.ru/novouralsk/auto/sell_spare_parts/reshetka-gx81-fara-63548861.html)
-- бар с ручником. Как разметить где устанавливать - [vk.com/…](https://vk.com/wall-31295460_625945?reply=625983)
-- замена патрубка на кран печки -  [drive2.ru/…](https://www.drive2.ru/l/514689640372896807/)
-- молдинги от 14 рест  либо от  100 [vk.com/…](https://vk.com/wall-31295460_659373)
-- подборка святого китайского хлама  [vk.com/…](https://vk.com/wall-31295460_661952)
-- ремонт троса спидометра [drive2.ru/…](https://www.drive2.ru/l/567470871430562298/)
-- изготавливает подрамник под jz и 100 рейкой [vk.com/…](https://vk.com/wall-31295460_737967)
-- втулки мкпп W-серии, ЧПУ-обработка металла (Омск) [vk.com/…](https://vk.com/id516922637)
-
-
-
 # Кузовной ремонт
 ## Пороги
 - пороги 3к [vk.com/…](https://vk.com/wall-31295460_390453) и еще пороги [vk.com/…](https://vk.com/wall-31295460_594530)
@@ -969,6 +915,38 @@ BN-Sport
 
 
 
+# Свап
+
+# 1UZ-FE
+- Всё и сразу [drive2.ru/…](https://www.drive2.ru/l/549993034595436979/)
+
+# 5S-FE
+- Переход с 4S-FE [drive2.ru/…](https://www.drive2.ru/l/551605193519661685)
+
+# 1JZ-GE VVT-i
+- Что нужно [drive2.ru/…](https://www.drive2.ru/c/1073366/)
+- Узлы и агрегаты [drive2.ru/…](https://www.drive2.ru/c/1073434/)
+- Балка [drive2.ru/…](https://www.drive2.ru/c/1073452/)
+- Доработка балки [drive2.ru/…](https://www.drive2.ru/c/1073473/)
+- Рулевая рейка Ч.1 [drive2.ru/…](https://www.drive2.ru/c/1073494/)
+- Рулевая рейка Ч.2  [drive2.ru/…](https://www.drive2.ru/c/1073523/)
+- Рулевая рейка Ч.3  [drive2.ru/…](https://www.drive2.ru/c/1073538/)
+- Сборка, монтаж ДВС  [drive2.ru/…](https://www.drive2.ru/c/1073554/)
+- Запуск тахометра после свапа  [drive2.ru/…](https://www.drive2.ru/l/7318037/)
+
+# 2JZ-GE VVT-i
+- Запуск тахометра после свапа  [drive2.ru/…](https://www.drive2.ru/c/455549108938082000/)
+
+# 2JZ-GTE
+- Вступление  [drive2.ru/…](https://www.drive2.ru/c/1072177/)
+- Ч.1  [drive2.ru/…](https://www.drive2.ru/c/1072185/)
+- Ч.2  [drive2.ru/…](https://www.drive2.ru/c/1072193/)
+- Ч.3  [drive2.ru/…](https://www.drive2.ru/c/1072196/)
+- Ч.4  [drive2.ru/…](https://www.drive2.ru/c/1072199/)
+- Ч.5  [drive2.ru/…](https://www.drive2.ru/c/1072204/)
+
+
+
 # Литература
 
 ## Русский язык
@@ -987,3 +965,57 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 
 ## Скриншоты
 - длины карданов [vk.com/…](https://vk.com/wall-31295460_737736) && [vk.com/…](https://vk.com/wall-31295460_737731) && [vk.com/…](https://vk.com/wall-31295460_737730)
+
+
+
+# Разное
+- конвертер Pilot VAF/MAF [shop.pilotpowersupply.com/…](http://shop.pilotpowersupply.com/konverteryi-pilot-vaf-maf/konverter-pilot-vaf-maf-prostaya-versiya-0-5v/)
+- петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://www.drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
+- петли дверные - ремкомплект от хонды [ajs.su/...](https://ajs.su/interer/petli-dvernye-napravlyayushchie-honda-88-02/)  &&  [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://www.drive2.ru/l/525533573801837393/)
+- подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
+- подкрылки задние от нивы [vk.com/…](https://vk.com/wall-31295460_538837)
+- передние ветровики от альтезы gx10 - [drive2.ru/…](https://www.drive2.ru/l/477850503284261070/)
+- фреон 12. Аналог 406а - [vk.com/…](https://vk.com/wall-31295460_544574)
+- молдинги от нексии - [drive2.ru/…](https://www.drive2.ru/l/479071785824813507/)
+- ручник от 100 - [drive2.ru/…](https://www.drive2.ru/l/466005464518230134/)
+- крепления заднего бампера - болты вместо клипс - [drive2.ru/…](https://www.drive2.ru/l/467022512773923331/)
+- крепление акб. Родное [a.d-cd.net/…](https://a.d-cd.net/20bd84u/960.jpg) && от ваз 2101 за 50р 2101-3703111/15
+- чтобы кулиса не болталась. Чертеж - [vk.com/…](https://vk.com/wall-31295460_547724) && [drive2.ru/…](https://www.drive2.ru/l/489983614096769658/)
+- кулиса [vk.com/…](https://vk.com/wall-31295460_592934)
+- ручка двери. Ремонт [vk.com/…](https://vk.com/wall-31295460_595458)
+- клапан кондиционера - частая причина ухода фреона из системы - [vk.com/…](https://vk.com/wall-31295460_638976)
+- как выбрать аккум (кальуевый, 500-600А, производство до 6мес, гарантия 2-4года) - [www.youtube.com/…](https://www.youtube.com/watch?v=ViuqEJ3nC3I)
+- крышка пассажирского динамика своими кривыми руками - [a.d-cd.net/…](https://a.d-cd.net/x0AAAgDXMOA-960.jpg) &&[drive2.ru/…](https://www.drive2.ru/l/498695594479452280/)
+- крышка пассажирского динамика из говна и палок - [vk.com/…](https://vk.com/wall-31295460_614538)
+- пластиковая тяга ручек дверей с любой тойоты [www.farpost.ru/…](https://www.farpost.ru/vladivostok/auto/sell_spare_parts/tjaga-ruchek-bokovyh-dverej-69293-12060-g2009855930.html) && [vk.com/…](https://vk.com/wall-31295460_615612)
+- подшипники на 8' редуктор [vk.com/…](https://vk.com/wall-31295460_620472?reply=620569)
+- восстановление болтов (лимонка, цинк) [drive2.ru/…](https://www.drive2.ru/l/7882169/)
+- масло в редуктор 75w-90 gl-5 или 75w90 gl-4 [vk.com/…](https://vk.com/wall-31295460_624635)
+- тросик открывания багажника от 100, висты… [vk.com/…](https://vk.com/wall-31295460_629759)
+- катализатор. jzx. Выбиваем, ввариваем стронгер [vk.com/…](https://vk.com/wall-31295460_638241)
+- палка капотодержалка из двух от ваза [vk.com/…](https://vk.com/wall-31295460_638913)
+- клипсы под задние фонари [vk.com/…](https://vk.com/wall-31295460_642126)
+- переделка гетраг для jz и uz (колокол, что комплект) (8-45) [vk.com/…](https://vk.com/jz_uz_bmw)
+- сварит все что надо для свапа (лапы, рычаги… что хошь) [vk.com/…](https://vk.com/id5300733)
+- Harvest - [vk.com/…](https://vk.com/harvesttrans)
+- писалки веерные (белые) от 30 виндома 85381-33060-A0 WHITE PEARL + обратный клапан к ним 85321-26020 или от камри 85381-aa042
+- держатель крышки бензобака 77399-28010 && 77399-12010 && &&
+- крепление для крышки бензобака на люючке 17255-jk000
+- заглушки на болты сидений 96236550
+- дворники откидывающиеся [pp.vk.me/…](https://pp.vk.me/c636729/v636729055/338a2/Bp2cLTFy8M4.jpg)
+- переходная плита от jz\uz к коробке w-серии (6-7к) [drive2.ru/…](https://www.drive2.ru/b/2526670/)
+- кастом пепельница для некурящих (напыление флока) - [drive2.ru/…](https://www.drive2.ru/l/5085463/)
+- уплотнитель резиновый между дверей (от грязи) ( лексус 570ршт 67896-60030 Правый 67895-60030 Левый) - [drive2.ru/…](https://www.drive2.ru/l/469804552070103233/) && [drive2.ru/…](https://www.drive2.ru/l/4641641/) && от 570 лексуса [drive2.ru/…](https://www.drive2.ru/l/471703408651273834/) && установка [drive2.ru/…](https://www.drive2.ru/l/472027489703559275/)
+- уплотнитель резиновый между дверей РКИ-19 000017504293020, 00001750429302 - [drive2.ru/…](https://www.drive2.ru/l/4641641/) && [magazinrti66.ru/…](http://magazinrti66.ru/catalog/uplotniteli/)(Титова,19)
+- фильтр стеклоомывателя (3538564) (просто в магазине от 20 до 100р) [drive2.ru/…](https://www.drive2.ru/l/8606175/)
+- крючок для крепления водительского коврика PZ410-99350-01 && 08211-00720 && 08210-00820 (50р 2шт) [drive2.ru/…](https://www.drive2.ru/l/461263270867633980/) + люверсы к нему VAG 3C0 864 521 9B9 (2 шт) VAG 3C0 864 523 9B9 (2 шт) (для резиновых ковриков) [drive2.ru/…](https://www.drive2.ru/l/463621448431305808/)
+- изготовление значка yamaha concept 3к - [vk.com/…](https://vk.com/wall-130662053_3428) (стояли на задних стойках и у некоторых на багажнике)
+- бабушкины кружева от 90 марка [drive2.ru/…](https://www.drive2.ru/l/500021330624643091/#comments)
+- дефлектор на люк возможно подойдет от прадика (вот хз) - [www.farpost.ru/…](https://www.farpost.ru/novouralsk/auto/sell_spare_parts/reshetka-gx81-fara-63548861.html)
+- бар с ручником. Как разметить где устанавливать - [vk.com/…](https://vk.com/wall-31295460_625945?reply=625983)
+- замена патрубка на кран печки -  [drive2.ru/…](https://www.drive2.ru/l/514689640372896807/)
+- молдинги от 14 рест  либо от  100 [vk.com/…](https://vk.com/wall-31295460_659373)
+- подборка святого китайского хлама  [vk.com/…](https://vk.com/wall-31295460_661952)
+- ремонт троса спидометра [drive2.ru/…](https://www.drive2.ru/l/567470871430562298/)
+- изготавливает подрамник под jz и 100 рейкой [vk.com/…](https://vk.com/wall-31295460_737967)
+- втулки мкпп W-серии, ЧПУ-обработка металла (Омск) [vk.com/…](https://vk.com/id516922637)
