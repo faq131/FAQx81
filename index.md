@@ -246,16 +246,15 @@
 - кит пневмы, стойки, подушки, пульт итд [vk.com/…](https://vk.com/airmagicgt) && [drive2.ru/…](https://vk.com/wall-31295460_669597)
 
 **разное**
-- кастомный певмопульт - 4 [drive2.ru/…](https://www.drive2.ru/l/531539106312749161/)  && [drive2.ru/…](https://www.drive2.ru/l/531552025574377367/) && 3 [drive2.ru/…](https://www.drive2.ru/l/521487645889527925/) && 2 [drive2.ru/…](https://www.drive2.ru/l/489659533044482737/) && 1 [drive2.ru/…](https://www.drive2.ru/l/480805990539723078/) && [drive2.ru/…](https://www.drive2.ru/l/477018997615755411/)
+- кастомный певмопульт - 4 [drive2.ru/…](https://www.drive2.ru/l/531539106312749161/) && 3 [drive2.ru/…](https://www.drive2.ru/l/521487645889527925/) && 2 [drive2.ru/…](https://www.drive2.ru/l/489659533044482737/) && 1 [drive2.ru/…](https://www.drive2.ru/l/480805990539723078/) && [drive2.ru/…](https://www.drive2.ru/l/477018997615755411/)
 - задние пневмастойки от uc30 - [drive2.ru/…](https://vk.com/wall-31295460_606711)
 - задние пневмостойки от 2108
 
 ## Опоры
 **сток**
 - разница обычных и temsопор [a.d-cd.net/…](https://a.d-cd.net/RcAAAgDI1OA-480.jpg)
-- опоры передние для овощных стоек 48609-22070, есть кроссномер 48609-22100: оригинал норм, но заменитель [не тот приезжает](https://vk.com/x81squad?w=wall-31295460_338708) && [drive2.ru/…](https://www.drive2.ru/l/288230376152572423/#post)
+- опоры передние для овощных стоек 48609-22070, есть кроссномер 48609-22100: оригинал норм, но заменитель [не тот приезжает](https://vk.com/x81squad?w=wall-31295460_338708)
 - опоры передние на tems от короны бочки [vk.com/…](https://vk.com/wall-31295460_558051)
-- опоры задних стоек от 100 [drive2.ru/…](https://www.drive2.ru/l/473678956168479211/#comments)
 - кастом опоры шс (Yuran) (2к) - [drive2.ru/…](https://www.drive2.ru/l/3610124/)
 
 **регулируемые опоры**
@@ -266,8 +265,6 @@
 - все варианты для колов [vk.com/…](https://vk.com/wall-31295460_618985?reply=619033)
 
 ## Пружины
-- каталог амортов и пружин [nomura-parts.ru/…](http://nomura-parts.ru/products2/amort.html)
-- пружины, пыльники, отбойники, чашки и проч oem [drive2.ru/…](https://www.drive2.ru/l/288230376152572423/#post)
 - пружины AJS (6.5к) [ajs.su/…](http://ajs.su/search/?query=jzx81)
 - отзыв на пружины AJS - [drive2.ru/…](https://www.drive2.ru/l/517151172029579531/)
 - пружины TEIN S. TECH SOFT F3.4k R3.8k F-35mm R-37mm. ОЕМ от Tein S1T00-01034 FRONT и S1T01-01038 REAR это Мягкие. Бывают еще средние TEIN S. TECH MEDIUM F4.5k R5.1k ОЕМ от Tein S2T00-01045 и S2T01-01051
@@ -301,7 +298,7 @@
 ## ГТЦ
 - ГТЦ от 100'ки (2,5к) [drive2.ru/…](https://www.drive2.ru/l/9761282/) && [drive2.ru/…](https://www.drive2.ru/l/9752969/) && [drive2.ru/…](https://www.drive2.ru/c/2167643/) && [drive2.ru/…](https://www.drive2.ru/c/2723627/) 
 - про контуры гтц от 100 [drive2.ru/…](https://www.drive2.ru/l/3420488/?page=0#a149127070) && [drive2.ru/…](https://www.drive2.ru/l/531412112719742457/) и ещё [здесь](https://vk.com/wall-31295460_671544?reply=671725)
-- упор гтц (1044р) [ajs.su/…](https://ajs.su/rasporki/toyota-upor-gtc-gx81-siniy/) && [vk.com/…](https://vk.com/wall-31295460_560297) && [drive2.ru/…](https://www.drive2.ru/l/531412112719742457/) && [drive2.ru/…](https://www.drive2.ru/l/5615347/) (упор) 
+- упор гтц [vk.com/…](https://vk.com/wall-31295460_560297) && [drive2.ru/…](https://www.drive2.ru/l/531412112719742457/) && [drive2.ru/…](https://www.drive2.ru/l/5615347/) (упор) 
 - упор гтц 1,2к в SMT174 - [vk.com/…](https://vk.com/market-96001230?w=product-96001230_814748%2Fquery) && чертеж [drive2.ru/…](https://www.drive2.ru/l/5615347)
 
 ## Колодки
@@ -310,7 +307,7 @@
 - антискрипные вкладыши/фиксаторы в колодки [vk.com/…](https://www.drive2.ru/l/531081709475595579/)
 
 ## Тормоза от 100\110\аристы\цельсиора\ниссана
-- задние ступицы от 100 [drive2.ru/…](https://www.drive2.ru/l/9765896/) && передние ступицы от 100 [drive2.ru/…](https://www.drive2.ru/l/501457842566333746/) && задние [vk.com/…](https://vk.com/wall-31295460_627703)
+- задние ступицы от 100 [drive2.ru/…](https://www.drive2.ru/l/9765896/) && [vk.com/…](https://vk.com/wall-31295460_627703)
 - тормоза от 100 - [drive2.ru/…](https://www.drive2.ru/l/486343955730923854/)
 - задние тормозные диски от 100, суппорта от ucf31 [drive2.ru/…](https://www.drive2.ru/l/501645859054683278/)
 - ремкомплект на jzx81-тормоза oem 04479-22020 - rbi a20sp251 (600р) - [vk.com/…](https://vk.com/wall-31295460_622028)
@@ -325,8 +322,7 @@
 - проставки под 21 цельсиор-суппорта [drive2.ru/…](https://www.drive2.ru/b/518149253709693556/) && [drive2.ru/…](https://www.drive2.ru/b/515695968390218222/)  && установка [drive2.ru/…](https://www.drive2.ru/l/519741896302527007/) && подгонка [drive2.ru/…](https://www.drive2.ru/l/569221843697796006/)
 - проставки под 30 цельсиор-суппорта [drive2.ru/…](https://www.drive2.ru/b/517440618465591499/) && проставки под суппорта и диски [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2506504%2Fquery) && [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2221827%2Fquery)
 - проставки для задних тормозов ucf30 - [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2506507%2Fquery)
-- проставки для установки тормозов Nissan BNR на x81 - [vk.com/…](https://vk.com/wall-31295460_669976) && [ajs.su/…](https://irk.ajs.su/tormoza/prostavki-dlya-ustanovki-tormozov-nissan-bnr-na-x81-pered-/)
-- кронштейны под два суппорта (Nissan RWD Skyline, Silvia) на Toyota JZX90-100 - [irk.ajs.su/...](https://irk.ajs.su/tormoza/kronshteyny-pod-dva-supporta-nissan-r33-turbo-na-toyota-jzx90-100-k-t-/)
+- проставки для установки тормозов Nissan BNR на x81 - [vk.com/…](https://vk.com/wall-31295460_669976)
 - вакуумник+гтц от 110 [drive2.ru/…](https://www.drive2.ru/l/559120905251326067/)
 - тормоза от 20/21 цельсиора, +чертежи проставок [drive2.ru/…](https://www.drive2.ru/l/554087341019365585/)
 - проставки под ниссановские суппорты [drive2.ru/…](https://www.drive2.ru/l/536364038213337630/)
