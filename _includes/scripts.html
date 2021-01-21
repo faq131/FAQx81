@@ -55,7 +55,7 @@
                                 }
                                 var sup = document.createElement("sup");
                                 sup.textContent = `(🡕${e['Количество переходов']})`
-                                item.after(sup);
+                                item.innerHTML += sup;
                             });
                         });
                     });
@@ -76,6 +76,9 @@
         position: absolute;
         right: 0;
         top: 5%;
+    }
+    a:hover sup {
+        text-decoration: none;
     }
 </style>
 <!-- Yandex.Metrika -->
