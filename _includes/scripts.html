@@ -53,9 +53,8 @@
                                 if (!document.body.contains(item)) {
                                     return;
                                 }
-                                var sup = document.createElement("sup");
-                                sup.textContent = `(🡕${e['Количество переходов']})`
-                                item.innerHTML += sup;
+                                const counter = `<sup>(🡕${e['Количество переходов']})</sup>`
+                                item.innerHTML += counter;
                             });
                         });
                     });
