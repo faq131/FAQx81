@@ -47,7 +47,7 @@
                     }
                     response.json().then(function (data) {
                         data.forEach((e) => {
-                            let src = e.['Внешняя ссылка'].replace('https://daks01.github.io/FAQx81/','')
+                            let src = e['Внешняя ссылка'].replace('https://daks01.github.io/FAQx81/','');
                             let link = document.querySelector(`a[href="${src}"]`);
                             if (!document.body.contains(link)) {
                                 return;
