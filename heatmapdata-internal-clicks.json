@@ -1,434 +1,1154 @@
-﻿[
+[
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "Не определено",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/",
-    "value": 1694,
-    "user": 836
+    "Адрес, ур. 1": "Итого и средние",
+    "Адрес, ур. 2": "",
+    "Адрес, ур. 3": "",
+    "Адрес, ур. 4": "",
+    "Внешняя ссылка": "",
+    "Количество переходов": 39227,
+    "Посетители": 8681
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#разное-1",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#разное-1",
-    "value": 184,
-    "user": 43
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "Не определено",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/",
+    "Количество переходов": 20477,
+    "Посетители": 7138
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#электрика",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#электрика",
-    "value": 130,
-    "user": 39
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подвеска",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подвеска",
+    "Количество переходов": 2429,
+    "Посетители": 602
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#редуктор--привода--блокировка",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#редуктор--привода--блокировка",
-    "value": 99,
-    "user": 26
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#электрика",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#электрика",
+    "Количество переходов": 1003,
+    "Посетители": 284
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#подвеска",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#подвеска",
-    "value": 97,
-    "user": 36
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#разное-1",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#разное-1",
+    "Количество переходов": 978,
+    "Посетители": 309
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#стойки",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#стойки",
-    "value": 70,
-    "user": 22
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#стойки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#стойки",
+    "Количество переходов": 946,
+    "Посетители": 307
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#освещение",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#освещение",
-    "value": 69,
-    "user": 11
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#рулевое",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#рулевое",
+    "Количество переходов": 809,
+    "Посетители": 278
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#печка",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#печка",
-    "value": 68,
-    "user": 18
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#тормоза",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#тормоза",
+    "Количество переходов": 796,
+    "Посетители": 305
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#тормоза",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#тормоза",
-    "value": 68,
-    "user": 26
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#печка",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#печка",
+    "Количество переходов": 758,
+    "Посетители": 131
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#разное",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#разное",
-    "value": 60,
-    "user": 19
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#стеклопластик-итп",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#стеклопластик-итп",
+    "Количество переходов": 755,
+    "Посетители": 240
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#распорки",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#распорки",
-    "value": 58,
-    "user": 19
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#топ-20-вопросов",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#топ-20-вопросов",
+    "Количество переходов": 695,
+    "Посетители": 233
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#подушки-лапы-подвесной",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#подушки-лапы-подвесной",
-    "value": 57,
-    "user": 3
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#реле-на-стартер",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#реле-на-стартер",
+    "Количество переходов": 675,
+    "Посетители": 151
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#топ-20-вопросов",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#топ-20-вопросов",
-    "value": 55,
-    "user": 24
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#разное",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#разное",
+    "Количество переходов": 631,
+    "Посетители": 130
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#важные-ссылки",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#важные-ссылки",
-    "value": 53,
-    "user": 21
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#дворники",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#дворники",
+    "Количество переходов": 565,
+    "Посетители": 202
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#промывка--шомполение-радиатора",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#промывка--шомполение-радиатора",
-    "value": 52,
-    "user": 30
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#редуктор--привода--блокировка",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#редуктор--привода--блокировка",
+    "Количество переходов": 548,
+    "Посетители": 158
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#реле-на-стартер",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#реле-на-стартер",
-    "value": 52,
-    "user": 11
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#menu",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#menu",
+    "Количество переходов": 532,
+    "Посетители": 162
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#Электрика",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#Электрика",
-    "value": 45,
-    "user": 5
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#важные-ссылки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#важные-ссылки",
+    "Количество переходов": 530,
+    "Посетители": 164
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#рулевое",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#рулевое",
-    "value": 43,
-    "user": 13
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#распорки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#распорки",
+    "Количество переходов": 492,
+    "Посетители": 222
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#стеклопластик-итп",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#стеклопластик-итп",
-    "value": 37,
-    "user": 16
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подушки-лапы-подвесной",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подушки-лапы-подвесной",
+    "Количество переходов": 417,
+    "Посетители": 135
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#упоры-капота",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#упоры-капота",
-    "value": 30,
-    "user": 9
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#салонный-фильтр",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#салонный-фильтр",
+    "Количество переходов": 364,
+    "Посетители": 123
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#салон",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#салон",
-    "value": 29,
-    "user": 12
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#mагнитола",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#mагнитола",
+    "Количество переходов": 342,
+    "Посетители": 113
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#салонный-фильтр",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#салонный-фильтр",
-    "value": 27,
-    "user": 11
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#крестовина-рулевого",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#крестовина-рулевого",
+    "Количество переходов": 298,
+    "Посетители": 72
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#фильтр",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#фильтр",
-    "value": 26,
-    "user": 8
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#стекла",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#стекла",
+    "Количество переходов": 287,
+    "Посетители": 103
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#дворники",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#дворники",
-    "value": 25,
-    "user": 17
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#освещение",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#освещение",
+    "Количество переходов": 286,
+    "Посетители": 110
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#допы",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#допы",
-    "value": 25,
-    "user": 21
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#упоры-капота",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#упоры-капота",
+    "Количество переходов": 252,
+    "Посетители": 110
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#скорости-не-переключаются",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#скорости-не-переключаются",
-    "value": 22,
-    "user": 18
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#промывка--шомполение-радиатора",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#промывка--шомполение-радиатора",
+    "Количество переходов": 196,
+    "Посетители": 100
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#сошки-выворот",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#сошки-выворот",
-    "value": 16,
-    "user": 16
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#салон",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#салон",
+    "Количество переходов": 182,
+    "Посетители": 84
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#стекла",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#стекла",
-    "value": 15,
-    "user": 8
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подушка-кпп",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подушка-кпп",
+    "Количество переходов": 156,
+    "Посетители": 84
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#задние-рычаги",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#задние-рычаги",
-    "value": 10,
-    "user": 7
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#губы",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#губы",
+    "Количество переходов": 135,
+    "Посетители": 30
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#плавающий",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#плавающий",
-    "value": 9,
-    "user": 4
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подушки-рулевой-рейки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подушки-рулевой-рейки",
+    "Количество переходов": 135,
+    "Посетители": 53
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#menu",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#menu",
-    "value": 8,
-    "user": 4
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#скорости-не-переключаются",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#скорости-не-переключаются",
+    "Количество переходов": 129,
+    "Посетители": 61
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#крестовина-рулевого",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#крестовина-рулевого",
-    "value": 8,
-    "user": 6
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#тормоза-от-100аристыцельсиораниссана",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#тормоза-от-100аристыцельсиораниссана",
+    "Количество переходов": 123,
+    "Посетители": 65
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#пружины",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#пружины",
-    "value": 8,
-    "user": 2
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#номера-расходников",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#номера-расходников",
+    "Количество переходов": 120,
+    "Посетители": 55
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#кастом-лапы-gxjzx",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#кастом-лапы-gxjzx",
-    "value": 5,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#фильтр",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#фильтр",
+    "Количество переходов": 115,
+    "Посетители": 43
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#самодиагностика",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#самодиагностика",
-    "value": 5,
-    "user": 3
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#фары-туманки-стопы",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#фары-туманки-стопы",
+    "Количество переходов": 112,
+    "Посетители": 65
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#tems",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#tems",
-    "value": 4,
-    "user": 4
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#переход-на-свежие-рейки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#переход-на-свежие-рейки",
+    "Количество переходов": 108,
+    "Посетители": 36
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#без-категории",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#без-категории",
-    "value": 4,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#самодиагностика",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#самодиагностика",
+    "Количество переходов": 97,
+    "Посетители": 51
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#колы-plaza",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#колы-plaza",
-    "value": 3,
-    "user": 2
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#сток-стойки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#сток-стойки",
+    "Количество переходов": 89,
+    "Посетители": 38
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#опоры",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#опоры",
-    "value": 3,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#плавающий",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#плавающий",
+    "Количество переходов": 85,
+    "Посетители": 38
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#подушка-кпп",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#подушка-кпп",
-    "value": 3,
-    "user": 3
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#гтц",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#гтц",
+    "Количество переходов": 83,
+    "Посетители": 25
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#привода",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#привода",
-    "value": 3,
-    "user": 3
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#распиновка",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#распиновка",
+    "Количество переходов": 79,
+    "Посетители": 5
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#втулки-стаба",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#втулки-стаба",
-    "value": 1,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#сошки-выворот",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#сошки-выворот",
+    "Количество переходов": 79,
+    "Посетители": 47
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#кастомные-сайленты",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#кастомные-сайленты",
-    "value": 1,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#молдинги",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#молдинги",
+    "Количество переходов": 70,
+    "Посетители": 36
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#номера-расходников",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#номера-расходников",
-    "value": 1,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#двигатель",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#двигатель",
+    "Количество переходов": 65,
+    "Посетители": 21
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#развальные",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#развальные",
-    "value": 1,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#капотдверибагажник",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#капотдверибагажник",
+    "Количество переходов": 62,
+    "Посетители": 50
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/#светящийся-значек-на-решетке",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/#светящийся-значек-на-решетке",
-    "value": 1,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подушкишайбы-редуктора",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подушкишайбы-редуктора",
+    "Количество переходов": 55,
+    "Посетители": 44
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/?fbclid=IwAR25fZQXfmbkcs_k1kmm8gQdL9LdUO1LToqA7yW_S8KWL6_FrA2hLIXise0",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/?fbclid=IwAR25fZQXfmbkcs_k1kmm8gQdL9LdUO1LToqA7yW_S8KWL6_FrA2hLIXise0",
-    "value": 1,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#задние-рычаги",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#задние-рычаги",
+    "Количество переходов": 54,
+    "Посетители": 32
   },
   {
-    "url1": "https://daks01.github.io/",
-    "url2": "https://daks01.github.io/FAQx81/",
-    "url3": "https://daks01.github.io/FAQx81/?fbclid=IwAR2ZIstB6oq0yKa7mYAMhZmaU4sXnnPPMklS_gqCola5eBFr9Ux_MuBQ9SQ",
-    "url4": "Не определено",
-    "url": "https://daks01.github.io/FAQx81/?fbclid=IwAR2ZIstB6oq0yKa7mYAMhZmaU4sXnnPPMklS_gqCola5eBFr9Ux_MuBQ9SQ",
-    "value": 1,
-    "user": 1
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#концевики",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#концевики",
+    "Количество переходов": 53,
+    "Посетители": 27
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#свап",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#свап",
+    "Количество переходов": 50,
+    "Посетители": 10
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#кастом-лапы-gxjzx",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#кастом-лапы-gxjzx",
+    "Количество переходов": 49,
+    "Посетители": 22
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подушки-двс",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подушки-двс",
+    "Количество переходов": 49,
+    "Посетители": 4
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#колы-plaza",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#колы-plaza",
+    "Количество переходов": 47,
+    "Посетители": 26
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#Электрика",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#Электрика",
+    "Количество переходов": 45,
+    "Посетители": 5
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#русский-язык",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#русский-язык",
+    "Количество переходов": 45,
+    "Посетители": 14
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#муфта-эластичная-карданного-вала",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#муфта-эластичная-карданного-вала",
+    "Количество переходов": 44,
+    "Посетители": 25
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#допы",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#допы",
+    "Количество переходов": 40,
+    "Посетители": 34
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#атмо-jz",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#атмо-jz",
+    "Количество переходов": 38,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#опоры",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#опоры",
+    "Количество переходов": 38,
+    "Посетители": 23
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#пружины",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#пружины",
+    "Количество переходов": 36,
+    "Посетители": 11
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#шаровые",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#шаровые",
+    "Количество переходов": 35,
+    "Посетители": 11
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#сток-рейка",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#сток-рейка",
+    "Количество переходов": 29,
+    "Посетители": 22
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#пыльникиотбойники",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#пыльникиотбойники",
+    "Количество переходов": 28,
+    "Посетители": 9
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#привода",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#привода",
+    "Количество переходов": 27,
+    "Посетители": 13
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#& Русский язык",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#& Русский язык",
+    "Количество переходов": 25,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#стирка",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#стирка",
+    "Количество переходов": 25,
+    "Посетители": 16
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#кузовной-ремонт",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#кузовной-ремонт",
+    "Количество переходов": 24,
+    "Посетители": 8
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#литература",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#литература",
+    "Количество переходов": 23,
+    "Посетители": 9
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подвесной",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подвесной",
+    "Количество переходов": 20,
+    "Посетители": 7
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#tems",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#tems",
+    "Количество переходов": 19,
+    "Посетители": 9
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#без-категории",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#без-категории",
+    "Количество переходов": 18,
+    "Посетители": 6
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#тормоза-от-100110аристыцельсиораниссана",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#тормоза-от-100110аристыцельсиораниссана",
+    "Количество переходов": 16,
+    "Посетители": 4
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#разное-3",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#разное-3",
+    "Количество переходов": 14,
+    "Посетители": 11
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#крылья",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#крылья",
+    "Количество переходов": 12,
+    "Посетители": 4
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#кастомные-сайленты",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#кастомные-сайленты",
+    "Количество переходов": 11,
+    "Посетители": 8
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#Литература",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#Литература",
+    "Количество переходов": 10,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#линки-перед",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#линки-перед",
+    "Количество переходов": 10,
+    "Посетители": 7
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#общие-моменты",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#общие-моменты",
+    "Количество переходов": 9,
+    "Посетители": 5
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подушки-рейки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подушки-рейки",
+    "Количество переходов": 9,
+    "Посетители": 7
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#обогрев-сидений",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#обогрев-сидений",
+    "Количество переходов": 8,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#блокировка",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#блокировка",
+    "Количество переходов": 7,
+    "Посетители": 5
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#воздушный-фильтр-на-jz",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#воздушный-фильтр-на-jz",
+    "Количество переходов": 7,
+    "Посетители": 5
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#передние-рычаги",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#передние-рычаги",
+    "Количество переходов": 7,
+    "Посетители": 5
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#развальные",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#развальные",
+    "Количество переходов": 7,
+    "Посетители": 7
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#С‚РѕСЂР�?",
+    "Адрес, ур. 4": "https://daks01.github.io/FAQx81/#С‚РѕСЂР�?РѕР·Р°-РѕС‚-100Р°СЂРёСЃС‚С‹С†РµР»СЊСЃРёРѕСЂР°РЅРёСЃСЃР°РЅР°",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#С‚РѕСЂР�?РѕР·Р°-РѕС‚-100Р°СЂРёСЃС‚С‹С†РµР»СЊСЃРёРѕСЂР°РЅРёСЃСЃР°РЅР°",
+    "Количество переходов": 6,
+    "Посетители": 5
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#?4?",
+    "Адрес, ур. 4": "https://daks01.github.io/FAQx81/#?4??4?",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#?4??4??4??4??4??4??5??1?-?4??4??4??5??4??6",
+    "Количество переходов": 5,
+    "Посетители": 5
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#пороги",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#пороги",
+    "Количество переходов": 5,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#редуктор-главная-пара",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#редуктор-главная-пара",
+    "Количество переходов": 5,
+    "Посетители": 4
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#1uz-fe",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#1uz-fe",
+    "Количество переходов": 4,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#лобаш",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#лобаш",
+    "Количество переходов": 4,
+    "Посетители": 3
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#обвесы",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#обвесы",
+    "Количество переходов": 4,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#стирка-прибрать",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#стирка-прибрать",
+    "Количество переходов": 4,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#евросвет",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#евросвет",
+    "Количество переходов": 3,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#колодки",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#колодки",
+    "Количество переходов": 3,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#передняя-трехточечная",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#передняя-трехточечная",
+    "Количество переходов": 3,
+    "Посетители": 3
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#пневма",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#пневма",
+    "Количество переходов": 3,
+    "Посетители": 3
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#разное-2",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#разное-2",
+    "Количество переходов": 3,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#рулевые-тяги",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#рулевые-тяги",
+    "Количество переходов": 3,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#салон-1",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#салон-1",
+    "Количество переходов": 3,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#фильтр-ионизатора",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#фильтр-ионизатора",
+    "Количество переходов": 3,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "file:///",
+    "Адрес, ур. 2": "file:///C:/",
+    "Адрес, ур. 3": "file:///C:/Users/",
+    "Адрес, ур. 4": "file:///C:/Users/Александр/",
+    "Внешняя ссылка": "file:///C:/Users/Александр/Desktop/Stuff/Морква/faq x81.html",
+    "Количество переходов": 2,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#&Русский язык",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#&Русский язык",
+    "Количество переходов": 2,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#aux",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#aux",
+    "Количество переходов": 2,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#С",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#С",
+    "Количество переходов": 2,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#С‚РѕСЂР�РѕР·Р°-РѕС‚-100Р°СЂРёСЃС‚С‹С†РµР»СЊСЃРёРѕСЂР°РЅРёСЃСЃР°РЅР°",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#С‚РѕСЂР�РѕР·Р°-РѕС‚-100Р°СЂРёСЃС‚С‹С†РµР»СЊСЃРёРѕСЂР°РЅРёСЃСЃР°РЅР°",
+    "Количество переходов": 2,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#втулки-стаба",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#втулки-стаба",
+    "Количество переходов": 2,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#различия-рестдорест",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#различия-рестдорест",
+    "Количество переходов": 2,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#светящийся-значек-на-решетке",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#светящийся-значек-на-решетке",
+    "Количество переходов": 2,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#фильтр-топливный-тонкой-очистки-на-jz",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#фильтр-топливный-тонкой-очистки-на-jz",
+    "Количество переходов": 2,
+    "Посетители": 2
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "Не определено",
+    "Адрес, ур. 3": "Не определено",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#1jz-ge-vvt-i",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#1jz-ge-vvt-i",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#airmagicgt",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#airmagicgt",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#m",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#m",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#smt174",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#smt174",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#Рулевое",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#Рулевое",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#С‚РѕРї-20-РІРѕРїСЂРѕСЃРѕРІ",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#С‚РѕРї-20-РІРѕРїСЂРѕСЃРѕРІ",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#к",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#к",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#линки-зад",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#линки-зад",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#от-автоваза",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#от-автоваза",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#перетяжка-руля",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#перетяжка-руля",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#подушки-лапы-подвесной..",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#подушки-лапы-подвесной..",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#светящийся-значок-на-решетке",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#светящийся-значок-на-решетке",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#тест",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#тест",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/#тормоза-от-100аристыцельсиора",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/#тормоза-от-100аристыцельсиора",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/?fbclid=IwAR0Yi9YDQWPVHgEOZwacmDPPPjHodSLlgC4eGf3c5LVcL16hS_zM7MxcuBU",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/?fbclid=IwAR0Yi9YDQWPVHgEOZwacmDPPPjHodSLlgC4eGf3c5LVcL16hS_zM7MxcuBU",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/?fbclid=IwAR1SbYgqk5-N5WMPvP8I7OPwBJdjFbxGbq3e7dvKqQH26gBY1RoJvVUPYAM",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/?fbclid=IwAR1SbYgqk5-N5WMPvP8I7OPwBJdjFbxGbq3e7dvKqQH26gBY1RoJvVUPYAM",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/?fbclid=IwAR25fZQXfmbkcs_k1kmm8gQdL9LdUO1LToqA7yW_S8KWL6_FrA2hLIXise0",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/?fbclid=IwAR25fZQXfmbkcs_k1kmm8gQdL9LdUO1LToqA7yW_S8KWL6_FrA2hLIXise0",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/?fbclid=IwAR2ZIstB6oq0yKa7mYAMhZmaU4sXnnPPMklS_gqCola5eBFr9Ux_MuBQ9SQ",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/?fbclid=IwAR2ZIstB6oq0yKa7mYAMhZmaU4sXnnPPMklS_gqCola5eBFr9Ux_MuBQ9SQ",
+    "Количество переходов": 1,
+    "Посетители": 1
+  },
+  {
+    "Адрес, ур. 1": "https://daks01.github.io/",
+    "Адрес, ур. 2": "https://daks01.github.io/FAQx81/",
+    "Адрес, ур. 3": "https://daks01.github.io/FAQx81/?fbclid=IwAR2hT1pLiNwHOHZrlKyos188LJ8UguX0AB6ghc9PL14GKcCv6rKi80P0GEA",
+    "Адрес, ур. 4": "Не определено",
+    "Внешняя ссылка": "https://daks01.github.io/FAQx81/?fbclid=IwAR2hT1pLiNwHOHZrlKyos188LJ8UguX0AB6ghc9PL14GKcCv6rKi80P0GEA",
+    "Количество переходов": 1,
+    "Посетители": 1
   }
 ]
