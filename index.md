@@ -33,9 +33,9 @@
 # Подвеска
 
 ## Номера расходников
-- схема подвески [перед](assets/img/подвеска.%20перед.%20макферсон.png) && [(pdf)](assets/img/подвеска.%20перед.%20макферсон.pdf){:target="_blank" rel="noopener"}
-- схема подвески [зад (подрамник)](assets/img/подвеска.%20зад.%20подрамник.png) && [(pdf)](assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}
-- схема подвески [зад (мост)](assets/img/подвеска.%20зад.%20мост.png) [(pdf)](assets/img/подвеска.%20зад.%20мост.pdf){:target="_blank" rel="noopener"}
+- схема подвески [перед](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.pdf){:target="_blank" rel="noopener"}
+- схема подвески [зад (подрамник)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}
+- схема подвески [зад (мост)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20мост.png) [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20мост.pdf){:target="_blank" rel="noopener"}
 - пост на драйве если не веришь - [drive2.ru/…](https://drive2.ru/l/503523000281203440/)
 - и еще номера [forums.drom.ru/…](https://forums.drom.ru/toyota-mark-ii-chaser-cresta/t1151251615-p938.html)
 
