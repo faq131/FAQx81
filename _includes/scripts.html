@@ -1,16 +1,19 @@
-<script src="{{ "/assets/js/scale.fix.js" | relative_url }}" async></script>
+<script src="{{ " /assets/js/scale.fix.js" | relative_url }}" async></script>
 <!--<script src="{{ "/assets/js/heatmap.min.js" | relative_url }}" defer></script>
 <script src="{{ "/assets/js/heatmap-init.js" | relative_url }}" defer></script>-->
 
 <script>
-    (function(){
+    (function () {
         collapceMenu();
         changeLinkTarget();
-        
+
+        showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-external-clicks.json');
+        showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-internal-clicks.json');
+
         function collapceMenu() {
             document.addEventListener('click', event => {
                 let submenu = event.target.nextElementSibling;
-                
+
                 if (!event.target.matches('.toc-menu>ul>li>a')) {
                     return;
                 }
@@ -23,30 +26,67 @@
                 window.getComputedStyle(el).display === 'none' ? el.style.display = 'block' : el.style.display = 'none';
             }
         }
-        
+
         function changeLinkTarget() {
             let linksArr = document.querySelectorAll('a[href^="http"]');
-            
+
             linksArr.forEach(item => {
                 item.target = '_blank';
             });
         }
+
+        function showClickStatistics(url) {
+            if (window.location.search !== "?showClicks") {
+                return;
+            }
+            fetch(url)
+                .then((response) => {
+                    if (response.status !== 200) {
+                        console.log('Status Code: ' + response.status);
+                        return;
+                    }
+                    response.json().then(function (data) {
+                        data.forEach((e) => {
+                            let link = document.querySelector(`a[href="${e['Внешняя ссылка']}"]`);
+                            if (!document.body.contains(link)) {
+                                return;
+                            }
+                            var sup = document.createElement("sup");
+                            sup.textContent = `(🡕${e['Количество переходов']})`
+                            link.after(sup);
+                        });
+                    });
+                })
+                .catch(function (err) {
+                    console.log('Error :-S', err);
+                });
+        }
     }());
 </script>
 
+<style>
+    sup {
+        font-size: 70%;
+        color: red;
+    }
+</style>
 <!-- Yandex.Metrika -->
 <script type="text/javascript" async>
-    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    (function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+        m[i].l = 1 * new Date(); k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
     ym(51819752, "init", {
-        id:51819752,
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
+        id: 51819752,
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true
     });
 </script>
-<noscript><div><img src="https://mc.yandex.ru/watch/51819752" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/51819752" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>
 <!-- /Yandex.Metrika counter -->
