@@ -262,6 +262,7 @@
 - опоры передние для овощных стоек 48609-22070, есть кроссномер 48609-22100: оригинал норм, но заменитель [не тот приезжает](https://vk.com/x81squad?w=wall-31295460_338708)
 - опоры передние на tems от короны бочки [vk.com/…](https://vk.com/wall-31295460_558051)
 - кастом опоры шс (Yuran) (2к) - [drive2.ru/…](https://drive2.ru/l/3610124/)
+- опорный подшипник по дешману [vk.com/…](https://vk.com/wall-31295460_686532)
 
 **регулируемые опоры**
 - регулируемые опоры стоек WWshop (5к) (говорят, что фиговые) - [vk.com/…](https://vk.com/wall-96463523_601)
@@ -365,12 +366,6 @@
 - колхоз на повседнев [vk.com/…](https://vk.com/wall-31295460_405370)
 - колхоз от 24-й волги 20-1001020 или от газели 3102-1001020 (ЗМЗ или с велосипедом) [drive2.ru/…](https://drive2.ru/c/2997880/)
 
-## Кастом лапы gx>jzx
-- кастомные лапы JZ-блока к 1G подрамнику! fdmetalwork - [vk.com/…](https://vk.com/market-139119461) 
-- но кастомные лапы у Романа выглядят пизже! (вроде на продажу не делает) [a.d-cd.net/…](https://a.d-cd.net/3f1b6bas-960.jpg)
-- кастомные опоры для jz на gx-балку от SelfMade [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_305232618%2Fphotos-37846447) && [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_301033856%2Fphotos-37846447)
-- кастомные лапы под jz от Русалеева - [vk.com/…](https://vk.com/id5300733) - [vk.com/…](https://vk.com/photo5300733_426975794) - [drive2.ru/…](https://drive2.ru/l/527539083010901977/)
-
 ## Упоры капота
 - газовые упоры капота от 2108/9 [drive2.ru/…](https://drive2.ru/l/1446799/) && [drive2.ru/…](https://drive2.ru/l/471478833401299687/)
 - газовые упоры капота -> FENOX для задней двери Нивы ВАЗ2121, 2131, 2108 (290Н сила) - резьба [drive2.ru/…](https://drive2.ru/l/288230376152036717/) && гайка [drive2.ru/…](https://drive2.ru/l/288230376152059883) && гайки [drive2.ru/…](https://drive2.ru/l/6098/) ?? [drive2.ru/…](https://drive2.ru/experience/toyota/g2385/)
@@ -380,6 +375,7 @@
 - аналог Nakayama gs983ny (500р\шт) - [drive2.ru/…](https://drive2.ru/l/545817089433141344/)
 - аналог SAT ST5345069015 (500р\шт) от крузака 80 (53450-69015) - [m.vk.com/…](https://m.vk.com/wall-31295460_425000#wall_reply-31295460_425023) 
 - аналог Patron PGS100087 (правый) PGS100086 (левый) - [drive2.ru/…](https://drive2.ru/l/541133444776723145/)
+- упоры капота с багажника виша в 10-м кузове
 
 ## Подвесной
 - ориг. подвесной подшипник от от gx100: 37230-22110, 37230-30152, 3723030151, 3723022120 (6-9к)  - [drive2.ru/…](https://drive2.ru/l/465620910326416279/)
@@ -501,6 +497,7 @@
 - моторчик печки, крыльчатка от 100 - [vk.com/…](https://vk.com/wall-31295460_578454) && [drive2.ru/…](https://drive2.ru/l/524185847424092383/)
 - кран отопителя/печки от 90-100 [drive2.ru/…](https://drive2.ru/l/9808346/) && [vk.com/…](https://vk.com/wall-31295460_562186)
 - ревизия печки. проклейка бипластом - [vk.com/…](https://vk.com/wall-31295460_629120)
+- электровентилятор от таза 2111-2123 (универсальный) LFh 01230 почти болтон [luzar.ru/…](https://luzar.ru/catalogue/elektroventilyatory/elektroventilyatory-otopitelya/elektroventilyator-otopitelya-2111-2123-lfh-01230/)
 
 ## Промывка \ шомполение радиатора
 - снятие печки - [vk.com/…](https://vk.com/wall-31295460_570149) && [vk.com/…](https://vk.com/wall-31295460_570050)
@@ -619,6 +616,8 @@
 
 # Mагнитола
 - размеры динамиков - [vk.com/…](https://pp.vk.me/c633618/v633618527/147bb/mY8i4StBkJ8.jpg)
+- единороговая магнитола с cd-чейнджером от 90ка [drive2.ru/…](https://www.drive2.ru/l/580796952359208287/)
+- но нужен контроллер с пультом [vk.com/…](https://vk.com/wall-31295460_770674)
 
 ## Распиновка
 - распиновка - [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/56022e0698142f9e3caa97fc/5604c19bd81144afd7b060c3/a61b501b2f03452ead22c005e9555919/G8oMkRxVOmQ.jpg) && [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/5604c19bd81144afd7b060c3/934x704/0628bbc8319829bf41487a9b97d5e596/gbO-lmsE7Co.jpg)
@@ -942,6 +941,10 @@ BN-Sport
 - Рулевая рейка Ч.3  [drive2.ru/…](https://drive2.ru/c/1073538/)
 - Сборка, монтаж ДВС  [drive2.ru/…](https://drive2.ru/c/1073554/)
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/l/7318037/)
+- кастомные лапы JZ-блока к 1G подрамнику! fdmetalwork - [vk.com/…](https://vk.com/market-139119461) 
+- но кастомные лапы у Романа выглядят пизже! (вроде на продажу не делает) [a.d-cd.net/…](https://a.d-cd.net/3f1b6bas-960.jpg)
+- кастомные опоры для jz на gx-балку от SelfMade [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_305232618%2Fphotos-37846447) && [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_301033856%2Fphotos-37846447)
+- кастомные лапы под jz от Русалеева - [vk.com/…](https://vk.com/id5300733) - [vk.com/…](https://vk.com/photo5300733_426975794) - [drive2.ru/…](https://drive2.ru/l/527539083010901977/)
 
 ## 2JZ-GE VVT-i
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/c/455549108938082000/)
@@ -974,7 +977,8 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 
 ## Скриншоты
 - длины карданов [vk.com/…](https://vk.com/wall-31295460_737736) && [vk.com/…](https://vk.com/wall-31295460_737731) && [vk.com/…](https://vk.com/wall-31295460_737730)
-
+- от 90-ка [vk.com/…](https://vk.com/wall-31295460_773812)
+- -от 100-ка [vk.com/…](https://vk.com/wall-31295460_773813)
 
 
 # Разное
@@ -1029,3 +1033,5 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 - изготавливает подрамник под jz и 100 рейкой [vk.com/…](https://vk.com/wall-31295460_737967)
 - втулки мкпп W-серии, ЧПУ-обработка металла (Омск) [vk.com/…](https://vk.com/id516922637)
 - заготовки ключей. OEM и как выглядят [vk.com/…](https://vk.com/wall-31295460_764302)
+- трос ручника от 100  [vk.com/…](https://vk.com/wall-31295460_765790?hash=c1cf56ff07a7190bcf)
+- ремонт уголка спидометра [drive2.ru/…](https://www.drive2.ru/l/583315933498475849/)
