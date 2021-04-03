@@ -942,9 +942,8 @@ BN-Sport
 - Сборка, монтаж ДВС  [drive2.ru/…](https://drive2.ru/c/1073554/)
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/l/7318037/)
 - кастомные лапы JZ-блока к 1G подрамнику! fdmetalwork - [vk.com/…](https://vk.com/market-139119461) 
-- но кастомные лапы у Романа выглядят пизже! (вроде на продажу не делает) [a.d-cd.net/…](https://a.d-cd.net/3f1b6bas-960.jpg)
 - кастомные опоры для jz на gx-балку от SelfMade [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_305232618%2Fphotos-37846447) && [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_301033856%2Fphotos-37846447)
-- кастомные лапы под jz от Русалеева - [vk.com/…](https://vk.com/id5300733) - [vk.com/…](https://vk.com/photo5300733_426975794) - [drive2.ru/…](https://drive2.ru/l/527539083010901977/)
+- кастомные лапы под jz от Русалеева - [vk.com/…](https://vk.com/id5300733) - [vk.com/…](https://vk.com/photo5300733_426975794) - [drive2.ru/…](https://drive2.ru/l/527539083010901977/) && [a.d-cd.net/…](https://a.d-cd.net/3f1b6bas-960.jpg)
 
 ## 2JZ-GE VVT-i
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/c/455549108938082000/)
