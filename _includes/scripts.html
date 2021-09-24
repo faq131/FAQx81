@@ -35,9 +35,9 @@
                             }
                             const number = e['Количество переходов'];
                             const className = getClassName(number, medianNumber, centralNumber);
-                            const emoji = number > centralNumber ? '❤' : '🤍';
+                            const emoji = number > centralNumber ? '🔥' : '🤍';
                             const counter = `<sup class="${className}" title="🡕${e['Количество переходов']}">🡕${emoji}</sup>`
-                            item.innerHTML = counter + item.innerHTML;
+                            item.innerHTML += counter;
                         });
                     });
                 });
