@@ -2,17 +2,20 @@
 <script src="{{ "/assets/js/heatmap-init.js" | relative_url }}" defer></script>-->
 
 <script type='module'>
-    init();
-
-    function init() {
+    window.onload = function() {
         if (window.location.search !== "?showClicks") {
             return;
         }
-        import { median, mean } from "https://unpkg.com/simple-statistics@7.7.0/index.js?module";
-        showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-external-clicks.json', median, mean);
-        showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-internal-clicks.json', median, mean);
-    }
-        
+
+        import('https://unpkg.com/simple-statistics@7.7.0/index.js?module')
+            .then((obj) => {
+                const { median, mean } = obj;
+                showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-external-clicks.json', median, mean);
+                showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-internal-clicks.json', median, mean); 
+            });
+                
+    };
+ 
     function showClickStatistics(url, median, mean) {
         fetch(url)
             .then((response) => {

@@ -4,14 +4,15 @@
 - `_layouts/default.html` - шаблон
 - `_includes/toc.htm` - генератор оглавления
 - `assets/css/style.scss` -  стили
-- `assets/js/heatmap-init.js` -  визуализация карты кликов
+- `_includes_/scripts.html` -  js
 - `index.md` - контент FAQ'а в [маркдауне](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - `heatmapdata-internal-clicks.json` - статистика внутренних переходов
 - `heatmapdata-external-clicks.json` - статистика внешних переходов
 - `README.md` - сие ридми
 - `_config.yml` - конфиг GithubPages
 
-## Импорт статистики кликов
+## Счетчики кликов по ссылкам
+[Демо](https://daks01.github.io/FAQx81/?showClicks)
 
 **внешние переходы:**
 - [Яндекс.Метрика](https://metrika.yandex.ru/stat/links?group=day&period=year&id=51819752&stateHash=5c52cc5b995fb633e5cbc505)
