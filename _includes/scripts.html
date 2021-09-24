@@ -18,7 +18,7 @@
                     return;
                 }
                 response.json().then(function (data) {
-                    const median = median(data.map((e) => e['Количество переходов']));
+                    const statMedian = median(data.map((e) => e['Количество переходов']));
                     data.forEach((e) => {
                         let src = e['Внешняя ссылка'].replace('https://daks01.github.io/FAQx81/','');
                         
@@ -28,7 +28,7 @@
                                 return;
                             }
                             const number = e['Количество переходов'];
-                            const className = number >= median ? 'green' : 'gray';
+                            const className = number >= statMedian ? 'green' : 'gray';
                             const counter = `<sup class="${className}">🡕${e['Количество переходов']}</sup>`
                             item.innerHTML += counter;
                         });
