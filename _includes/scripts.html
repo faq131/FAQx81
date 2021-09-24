@@ -35,7 +35,7 @@
                             }
                             const number = e['Количество переходов'];
                             const mark = getMark(number, medianNumber, centralNumber);
-                            const counter = `<sup class="${mark.className}" title="🡕${number}">🡕${mark.content}</sup>`
+                            const counter = `<sup class="${mark.className}" title="🡕${number}">${mark.content}</sup>`
                             item.innerHTML += counter;
                         });
                     });
@@ -48,7 +48,7 @@
 
     function getMark(number, medianNumber, centralNumber) {
         if(number < medianNumber) {
-            return {color: 'gray', content: `🡕${number}`};
+            return {color: 'gray', content: `🡕`};
         }
         if(number > centralNumber) {
             return {color: 'red', content: '🔥'};
@@ -91,7 +91,7 @@
 </script>
 
 <style>
-    sup {
+    sup.green {
         font-size: 70%;
         color: rgb(6, 168, 6);
     }
