@@ -1,12 +1,15 @@
 <script type='module'>
     window.onload = function() {
-        if (window.location.search !== "?showClicks") {
-            return;
-        }
+        // if (window.location.search !== "?showClicks") {
+        //     return;
+        // }
 
         import('https://unpkg.com/simple-statistics@7.7.0/index.js?module')
             .then((obj) => {
-                const { median, mean } = obj;
+                const { 
+                    // median, 
+                    mean 
+                } = obj;
                 showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-external-clicks.json', median, mean);
                 // showClickStatistics('https://daks01.github.io/FAQx81/heatmapdata-internal-clicks.json', median, mean); 
             });
@@ -22,7 +25,7 @@
                 }
                 response.json().then(function (data) {
                     const counterList = data.map((e) => e['Количество переходов']);
-                    const medianNumber = median(counterList);
+                    // const medianNumber = median(counterList);
                     const centralNumber = mean(counterList);
 
                     data.forEach((e) => {
@@ -30,12 +33,12 @@
                         
                         let links = document.querySelectorAll(`a[href="${src}"]`);
                         links.forEach((item) => {
-                            if (!document.body.contains(item)) {
+                            if (!document.body.contains(item) 
+                                || number < centralNumber) {
                                 return;
                             }
                             const number = e['Количество переходов'];
-                            const mark = getMark(number, medianNumber, centralNumber);
-                            const counter = `<sup class="${mark.className}" title="🡕${number}">${mark.content}</sup>`
+                            const counter = `<sup title="🡕${number}">🔥</sup>`
                             item.innerHTML += counter;
                         });
                     });
@@ -44,16 +47,6 @@
             .catch(function (err) {
                 console.log('Error :-S', err);
             });
-    }
-
-    function getMark(number, medianNumber, centralNumber) {
-        if(number < medianNumber) {
-            return {color: 'gray', content: `🡕`};
-        }
-        if(number > centralNumber) {
-            return {color: 'red', content: '🔥'};
-        }
-        return {color: 'green', content: '🤍'};
     }
 </script>
 
