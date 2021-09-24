@@ -35,8 +35,9 @@
                             }
                             const number = e['Количество переходов'];
                             const className = getClassName(number, medianNumber, centralNumber);
-                            const counter = `<sup class="${className}">&thinsp;🡕${e['Количество переходов']}</sup>`
-                            item.innerHTML += counter;
+                            const emoji = number > centralNumber ? '❤' : '🤍';
+                            const counter = `<sup class="${className}" title="🡕${e['Количество переходов']}">🡕${emoji}</sup>`
+                            item.innerHTML = counter + item.innerHTML;
                         });
                     });
                 });
@@ -53,7 +54,6 @@
         if(number > centralNumber) {
             return 'red';
         }
-        return 'green';
     }
 </script>
 
@@ -91,15 +91,15 @@
 </script>
 
 <style>
+    sup {
+        font-size: 70%;
+        color: rgb(6, 168, 6);
+    }
     sup.gray {
         color: rgb(167, 167, 167);
     }
     sup.red {
         color: rgb(196, 2, 2);
-    }
-    sup.green {
-        font-size: 70%;
-        color: rgb(6, 168, 6);
     }
     a:hover sup {
         text-decoration: none;
