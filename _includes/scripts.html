@@ -33,11 +33,11 @@
                         
                         let links = document.querySelectorAll(`a[href="${src}"]`);
                         links.forEach((item) => {
+                            const number = e['Количество переходов'];
                             if (!document.body.contains(item) 
                                 || number < centralNumber) {
                                 return;
                             }
-                            const number = e['Количество переходов'];
                             const counter = `<sup title="🡕${number}">🔥</sup>`
                             item.innerHTML += counter;
                         });
