@@ -45,14 +45,13 @@
     }
 
     function getClassName(number, medianNumber, centralNumber) {
-        switch (a) {
-            case number < medianNumber:
-                return 'gray';
-            case number > centralNumber:
-                return 'red';
-            default:
-                return 'green'
-            }
+        if(number < medianNumber) {
+            return 'gray';
+        }
+        if(number > centralNumber) {
+            return 'red';
+        }
+            return 'blue';
     }
 </script>
 
