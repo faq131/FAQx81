@@ -34,9 +34,8 @@
                                 return;
                             }
                             const number = e['Количество переходов'];
-                            const className = getClassName(number, medianNumber, centralNumber);
-                            const emoji = number > centralNumber ? '🔥' : '🤍';
-                            const counter = `<sup class="${className}" title="🡕${e['Количество переходов']}">🡕${emoji}</sup>`
+                            const mark = getMark(number, medianNumber, centralNumber);
+                            const counter = `<sup class="${mark.className}" title="🡕${number}">🡕${mark.content}</sup>`
                             item.innerHTML += counter;
                         });
                     });
@@ -47,13 +46,14 @@
             });
     }
 
-    function getClassName(number, medianNumber, centralNumber) {
+    function getMark(number, medianNumber, centralNumber) {
         if(number < medianNumber) {
-            return 'gray';
+            return {color: 'gray', content: `🡕${number}`};
         }
         if(number > centralNumber) {
-            return 'red';
+            return {color: 'red', content: '🔥'};
         }
+        return {color: 'green', content: '🤍'};
     }
 </script>
 
