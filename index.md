@@ -202,6 +202,9 @@
 - колы и опоры от импрезы (колы) - [vk.com/…](https://vk.com/wall-31295460_526610) (видимо под ниссано-кулаки)
 - колы от аристы, маджесты - переделка [drive2.ru/…](https://drive2.ru/l/498068323095806575/)
 - от чего колы подходят  [vk.com/…](https://vk.com/wall-31295460_649014)
+- самопальные колы ч.1  [drive2.ru/…](https://www.drive2.ru/l/288230376151824439/)
+- самопальные колы ч.2  [drive2.ru/…](https://www.drive2.ru/l/288230376151826003/)
+
 
 **plaza**
 - стойки PLAZA sport - зад 2108 [drive2.ru/…](https://drive2.ru/l/6137912/) && перед bmw e36 [vk.com/…](https://vk.com/wall-31295460_510733) && перед [drive2.ru/…](https://drive2.ru/l/476144336115859592/) && номер (рд 47.10.00-01) [pp.userapi.com/…](https://pp.userapi.com/c836730/v836730219/32153/of9SkuI0JF8.jpg) && жаль, но от 2110 чуть не залезает картридж в tems-сапог (решаемо) [vk.com/…](https://vk.com/wall-31295460_636103?reply=636125)
@@ -299,6 +302,7 @@
 - ремкомплект суппортов gx - перед 800, зад 2к [pp.vk.me/…](https://pp.vk.me/c626424/v626424077/2663c/KN1E2PLQjpo.jpg)
 - пыльник направляющей суппорта переднего от прадика [drive2.ru/…](https://drive2.ru/l/562412843064885914/). Артикулы TOYOTA 4776922010, SAT stp-4776922010
 - ремкомплект заднего суппорта на овощные тормоза SAM 34040000. Качество норм, комплект не полный, хватает только на 1 суппорт, смазки внутри нет.
+- задний овощной тормозной поршень от корейцев с доработками [vk.com/…](https://vk.com/wall-31295460_787955)
 
 ## ГТЦ
 - ГТЦ от 100'ки (2,5к) [drive2.ru/…](https://drive2.ru/l/9761282/) && [drive2.ru/…](https://drive2.ru/l/9752969/) && [drive2.ru/…](https://drive2.ru/c/2167643/) && [drive2.ru/…](https://drive2.ru/c/2723627/) 
@@ -403,6 +407,7 @@
 - подушки рулевой рейки от альтезы 1-12-2508, 1-12-2560 (бортик срезать) [drive2.ru/…](https://drive2.ru/l/482320842684891297/) && [drive2.ru/…](https://drive2.ru/l/561417785041748315/)
 - подушки рулевой рейки полик (2к) из питера [www.facebook.com/…](https://www.facebook.com/dominosaintp/posts/1806589532724201?__tn__=-R) && 
 - подушки рейки из полика 81 [vk.com/…](https://vk.com/wall-31295460_620100)
+- полик от альтезы 1122925 [drive2.ru/…](https://www.drive2.ru/l/593052108962430308/)
 
 
 
@@ -812,6 +817,7 @@ NB проверяйте отзывы!
 - Yuran расширение на задние крылья [vk.com/…](https://vk.com/wall-31295460_631156) && [drive2.ru/…](https://drive2.ru/l/507784982228369686/)
 - губа, губа гтр, спойлер ямаха - [vk.com/…](https://vk.com/wall-31295460_637563)
 - подиум под датчик - [drive2.ru/…](https://drive2.ru/l/4899916394579312791/)
+- ArtTunung38 [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) && [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html) && [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-toyota-mark-ii-81-81968063.html)
 
 ## Крылья
 - Yurran 6к - [drive2.ru/…](https://drive2.ru/b/2102016/)
