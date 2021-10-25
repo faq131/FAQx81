@@ -333,6 +333,7 @@
 - тормоза от 20/21 цельсиора, +чертежи проставок [drive2.ru/…](https://drive2.ru/l/554087341019365585/)
 - проставки под ниссановские суппорты [drive2.ru/…](https://drive2.ru/l/536364038213337630/)
 - проставка под вторые суппорта. нужно пересверлить отверстия [vk.com/…](https://vk.com/wall-31295460_764003)
+- 2-поршневые суппорты и 282 диски почти болт-он [vk.com/…](https://m.vk.com/wall-31295460_779757)
 
 
 
@@ -417,6 +418,7 @@
 - ребилд рулевой (сборка) [drive2.ru/…](https://drive2.ru/l/468760016023716076/)
 - рейка с клапаном. датчик скорости [vk.com/…](https://vk.com/wall-31295460_504955)
 - рейка с демпфером. заменитель от mercedes w140 (AS1003H) 1.5к [drive2.ru/…](https://drive2.ru/l/481027267254812850/) &&  [drive2.ru/…](https://drive2.ru/c/2229821/)
+- как замкнуть клапан рейки на постоянку [vk.com/…](https://vk.com/wall-31295460_776172)
 
 ## Переход на свежие рейки
 - рейка от 90, 100, альтезы, аристы - [vk.com/…](https://vk.com/photo-31295460_456288715) && [drive2.ru/…](https://drive2.ru/l/464122550855663769/) && [drive2.ru/…](https://drive2.ru/l/464120901588222090/) && [drive2.ru/…](https://drive2.ru/l/531189186737209396/) && [vk.com/…](https://vk.com/wall-31295460_512251) && [drive2.ru/…](https://drive2.ru/l/522175115534794979/) && [vk.com/…](https://drive2.ru/l/542632079125382016/)
@@ -550,6 +552,7 @@
 - без снятия с быстрым доступом для замены - [drive2.ru/…](https://drive2.ru/l/496084804119298616/)
 - без снятия печки, но в труднодоступном месте   - [vk.com/…](https://vk.com/wall-31295460_524637)([drive2.ru/…](https://drive2.ru/l/474313924133519473/)) && [drive2.ru/…](https://drive2.ru/l/487708449660993930/) && [drive2.ru/](https://drive2.ru/l/490837659753644162/…)
 - если есть аргоновая сварка [vk.com/…](https://vk.com/wall-31295460_748821)
+- другой вариант колхоза - фильтр на входе под жабо [vk.com/…](https://vk.com/x81squad?w=wall-31295460_780065_r780081)
 
 ## Фильтр топливный тонкой очистки на jz
 - KL203 по резьбе подходит [vk.com/…](https://vk.com/wall-31295460_593559) && кастомное крепение [vk.com/…](https://vk.com/wall-31295460_741127)
@@ -600,11 +603,20 @@
 - восстановление кондёра после свапа [vk.com/…](https://vk.com/wall-31295460_696129)
 - распиновка подкапотной косы [docs.google.com/…](https://docs.google.com/document/d/1Rt6SlDWhACZjzexntdM2IuG0g7q9UlmH9R1x_yB1_tA/edit)
 
-## Доп. опции
+## Калькулятор
 - переход со стрелочного табло на калькулятор (датчик скорости + распиновка [vk.com/…](https://vk.com/wall-31295460_446574))
+- как заставить работать тахометр при свапе на катушечный мотор  [vk.com/…](https://vk.com/wall-31295460_775303)
+- переход на калькулятор [vk.com/…](https://vk.com/wall-31295460_775881)
+- что необходимо при переходе [vk.com/…](https://vk.com/wall-31295460_775454)
+- схемы приборок: [раз](https://vk.com/wall-31295460_775437), [два](https://vk.com/wall-31295460_775436), [три](https://vk.com/wall-31295460_775435), [четыре](https://vk.com/wall-31295460_775434)
+- датчик скорости электро 83181-20040 && 8972565260 - [ru.aliexpress.com/…](https://ru.aliexpress.com/item/Zuk-Toyota-Crown-Previa-Land-Cruiser-Rush-Celica-cressdia-Hilux/32841438399.html) && [ru.aliexpress.com/…](https://aliexpress.ru/item/4000334875049.html)
+- фишка на него 90980-11143, на Али тоже есть с проводами, 150 рублей
+- с доработкой подходит фишка датчика скорости с ВАЗ-2110, но разъем будет негерметичным.
+- переход с троса на датчик простыми словами - питание параллельно DOME(см. схемы), минус в любое место, сигнальный к фишке C по схеме, 4 пин со стороны проводов
+
+## Доп. опции
 - кит метлы - [drive2.ru/…](https://drive2.ru/l/510976589605896906/)
 - датчик дождя - [drive2.ru/…](https://drive2.ru/l/510976589605896906/)
-- датчик скорости электро 83181-20040 && 8972565260 - [ru.aliexpress.com/…](https://ru.aliexpress.com/item/Zuk-Toyota-Crown-Previa-Land-Cruiser-Rush-Celica-cressdia-Hilux/32841438399.html) && [ru.aliexpress.com/…](https://aliexpress.ru/item/4000334875049.html)
 - датчик заднего хода МКПП 84210-30060 [ru.aliexpress.com/…](https://ru.aliexpress.com/item/84210-30060-Reverse-Light-Switch-For-Suzuki-Grand-Vitara-Toyota-Supra-Lexus/32806622475.html)
 - кит заднего дворника [vk.com/…](https://vk.com/wall-31295460_539798)
 - задний дворник. установка - [vk.com/…](https://vk.com/wall-31295460_539798) && [drive2.ru/…](https://drive2.ru/l/488730170841104497/)
