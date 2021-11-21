@@ -658,6 +658,10 @@
 
 # Салон
 
+## Разбор салона
+- Основные моменты разбора, ч.1 [drive2.ru/…](https://www.drive2.ru/l/1984873/)
+- Ч.2 [drive2.ru/…](https://www.drive2.ru/l/1988627/)
+
 ## Стирка 
 - стирка сидений [drive2.ru/…](https://drive2.ru/l/5778131) && 1 [drive2.ru/…](https://drive2.ru/l/3127865/) && 2 [drive2.ru/…](https://drive2.ru/l/3127917/) && 3 - [drive2.ru/…](https://drive2.ru/l/3493436/)   & 4 - [drive2.ru/…](https://drive2.ru/l/3493488/)  мое [drive2.ru/…](https://drive2.ru/l/472948880447635527/)
 - чистка дверных карт - [drive2.ru/…](https://drive2.ru/l/476490957156515911/)
