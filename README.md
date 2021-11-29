@@ -18,11 +18,11 @@ FAQx81 постоянно развивается.
 Вы можете все! Во славу опенсурса!
 
 ## Планы
-- `+` подсветить горячие ссылки
-- при переходе из поисковиков сделать промотку к стопслову
-- актуализировать битые ссылки
-- закрыть все активные [issues](https://github.com/daks01/FAQx81/issues)
-- смерджить faq на [drive2](https://drive2.ru/c/574975/), старую ветку на [tourerv.ru](http://tourerv.ru/forum/forumdisplay.php?f=80) и этот [FAQx81](https://daks01.github.io/FAQx81)
+- [x] подсветить горячие ссылки
+- [ ] при переходе из поисковиков сделать промотку к стопслову
+- [ ] актуализировать битые ссылки
+- [ ] закрыть все активные [issues](https://github.com/daks01/FAQx81/issues)
+- [ ] смерджить faq на [drive2](https://drive2.ru/c/574975/), старую ветку на [tourerv.ru](http://tourerv.ru/forum/forumdisplay.php?f=80) и этот [FAQx81](https://daks01.github.io/FAQx81)
 
 ### Структура проекта
 - `_layouts/default.html` - шаблон
