@@ -584,7 +584,7 @@
 ## Концевики
 - концевики - передний 84231-12060 2шт., задний 84231-22070 2шт., винт с шайбой 90119-08683 4шт. - [d-a.d-cd.net/…](https://d-a.d-cd.net/573d84u/480.jpg)
 - концевики - ревизия [drive2.ru/…](https://drive2.ru/l/9880557/) && [drive2.ru/…](https://drive2.ru/l/2230980/)
-- концевики китай (пара) - обзор [drive2.ru/…](https://drive2.ru/l/4849518/) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html) && [ru.aliexpress.com/…](http://ru.aliexpress.com/item/2pcs-Car-Door-Lamps-Switches-Door-Light-Automobiles-Black-Door-Lights-Switches-Wholesale-Free-Shipping/32330019094.html?spm=2114.13010608.0.136.WNuUDs) && [ru.aliexpress.com/…](https://ru.aliexpress.com/item/1PCS-Universal-Auto-Car-Vehicle-Interior-Door-Light-Lamp-Switch-Push-Button-Interior-Parts-Black/32662769499.html?shortkey=aAjYneea&addresstype=600)
+- концевики китай (пара) - обзор [drive2.ru/…](https://drive2.ru/l/4849518/) && [ru.aliexpress.com/…](https://ru.aliexpress.com/item/1PCS-Universal-Auto-Car-Vehicle-Interior-Door-Light-Lamp-Switch-Push-Button-Interior-Parts-Black/32662769499.html?shortkey=aAjYneea&addresstype=600) && универсальный с проводом [ru.aliexpress.com/…](https://aliexpress.ru/wholesale?catId=&SearchText=Car%20Door%20Lamps%20Switches%20Door)
 
 ## Разное
 - стекла не поднимаются - [vk.com/…](https://vk.com/wall-31295460_532597)
