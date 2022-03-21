@@ -26,7 +26,9 @@
 <meta name="msapplication-config" content="{{ "/assets/img/favicon/browserconfig.xml?v=" | append: site.github.build_revision | relative_url }}">
 <meta name="theme-color" content="#000000">
 
-<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+<link rel="preload" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}" as="style" onload="this.rel='stylesheet'">
+<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}"></noscript>
 <!--[if IE]>
     <link rel="stylesheet" href="{{ "/assets/css/ie.css?v=" | append: site.github.build_revision | relative_url }}">
 <![endif]-->
