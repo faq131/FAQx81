@@ -34,7 +34,24 @@ body {margin: 0;}
         display: -webkit-flex; display: -ms-flexbox; display: -ms-flex; display: flex; -webkit-flex: 0 0 230px; -moz-flex: 0 0 230px; -ms-flex: 0 0 230px; flex: 0 0 230px;
         overflow-y: scroll; -webkit-overflow-scrolling: touch; color: ##b5b1b1 !important }
     .page-layout__content { background: #fdfdfd }
-    .page-layout__content-inner { padding: 50px 40px; max-width: 1000px }
+    .page-layout__content-inner { padding: 50px 40px; max-width: 1000px }  
+.mobile-hide { display: block}
+.mobile-show { display: none }
+@media screen and (max-width: 992px) {
+    .page-layout,.page-layout__sidebar,.page-layout__content { display:block; flex: none; height: auto; overflow: initial; position: static }
+    .mobile-btn { display: block }
+    .page-layout__content-inner { padding: 30px 15px }
+    .toc-menu ul ul { display: none }
+    .mobile-hide { display: none }
+    .mobile-show { display: block }
+}
+.toc-menu ul { list-style-type: none; margin: 0 0 30px; padding: 0 }
+.toc-menu ul ul { display: none }
+.toc-menu li {  display: block; padding: 0; margin: 0 }
+.toc-menu a { display: block; color: inherit !important; padding: 9px 15px 10px; line-height: 1.43; text-decoration: none !important; cursor: pointer; font-size: 14px }
+.toc-menu>ul>li>a,.toc-menu>ul>li:hover>a { font-weight: 600 }
+.toc-menu li li a { padding: 5px 17px 6px 40px }
+.toc-menu a:hover { background: rgba(0,0,0,0.1) 
 </style>
 <link rel="preload" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}" as="style" onload="this.rel='stylesheet'">
 <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}" media="print" onload="this.media='all'">
