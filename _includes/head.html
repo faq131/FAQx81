@@ -26,6 +26,16 @@
 <meta name="msapplication-config" content="{{ "/assets/img/favicon/browserconfig.xml?v=" | append: site.github.build_revision | relative_url }}">
 <meta name="theme-color" content="#000000">
 
+<style>
+body {margin: 0;}
+    .page-layout__sidebar a { color: #fff; text-decoration: none; }
+    .page-layout { display: -webkit-flex; display: -ms-flexbox; display: -ms-flex; display: flex; -webkit-flex: 2; -moz-flex: 2; -ms-flex: 2; flex: 2 }
+    .page-layout__sidebar { position: sticky; top: 0; left: 0; background-color: #303030; min-width: 300px; height: 100vh; padding: 25px 5px 30px 8px;
+        display: -webkit-flex; display: -ms-flexbox; display: -ms-flex; display: flex; -webkit-flex: 0 0 230px; -moz-flex: 0 0 230px; -ms-flex: 0 0 230px; flex: 0 0 230px;
+        overflow-y: scroll; -webkit-overflow-scrolling: touch; color: ##b5b1b1 !important }
+    .page-layout__content { background: #fdfdfd }
+    .page-layout__content-inner { padding: 50px 40px; max-width: 1000px }
+</style>
 <link rel="preload" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}" as="style" onload="this.rel='stylesheet'">
 <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}" media="print" onload="this.media='all'">
 <noscript><link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}"></noscript>
