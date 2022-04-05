@@ -540,6 +540,7 @@
 **если шел с завода**
 - штатный 88508-22010 (4к) (если печка предполагает) - [forums.drom.ru/…](https://forums.drom.ru/toyota-mark-ii-chaser-cresta/t67887.html#post685817)
 - заменитель lac112 встает отлично! [vk.com/…](https://vk.com/wall-31295460_593511) && заменитель mc-2012 [vk.com/…](https://vk.com/wall-31295460_594071) && [drive2.ru/…](https://drive2.ru/l/499962231874650505/) && возможно AG 569 CF [drive2.ru/…](https://drive2.ru/l/465620085692695158/#comments)
+- заменители от короллы (88508-12010), например Green Filter IF0342 (500р) [drive2.ru/…](https://www.drive2.ru/l/614345251145916275/) 
 - обзор печки и др - [forums.drom.ru/…](http://forums.drom.ru/attachment.php?attachmentid=5587378&d=1448027879) && [forums.drom.ru/…](http://forums.drom.ru/toyota-mark-ii-chaser-cresta/t67887.html) && [drive2.ru/…](https://drive2.ru/l/9661897/) && [forums.drom.ru/…](http://forums.drom.ru/toyota-mark-ii-chaser-cresta/t1151996685-p1126.html#post1176001799)
 - фильтр салона. на штатное место фильтр от приоры - [drive2.ru/…](https://drive2.ru/l/465620085692695158/#comments)
 - фильтр салона. переделка штатного пасадочного места под другие фильтры - [drive2.ru/…](https://drive2.ru/l/9337041#a164735154)
