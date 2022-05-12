@@ -1067,8 +1067,8 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 
 __________________
 
-# Клон FAQ с drive2 
-> 🔐 Может потребоваться [авторизация](https://www.drive2.ru/reception/?.AMRU=https://www.drive2.ru/c/574975/)
+# Клон FAQ с drive2 🆕
+>  Может потребоваться [авторизация](https://www.drive2.ru/reception/?.AMRU=https://www.drive2.ru/c/574975/)
 
 прямая ссылка на faq [drive2.ru/…](https://www.drive2.ru/c/574975/) 
 
