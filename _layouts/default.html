@@ -11,10 +11,6 @@
                     {% include pagetitle.html %}
                 </div>
                 <div class="toc-menu">
-                    <form data-search style="padding: 0 15px 10px;" style="padding: 0 15px 10px;display: flex;">
-                        <input type="search" placeholder="Быстрый поиск" aria-label="Быстрый поиск" style="padding: 3px;">
-                        <button type="submit" style="white-space: pre;">Найти</button>
-                    </form>
                     {% include toc.html html=content %}
                 </div>
             </nav>
@@ -22,13 +18,16 @@
         <main class="page-layout__content">
             <div class="page-layout__content-inner">
                 <div style="position: relative;">
-                    <div class="heatmap__wrap">
-                        <div class="heatmap" data-externsl-heatmap></div>
-                    </div>
                     <div style="position: relative; z-index: 5;">
                         <div class="mobile-hide">
                             {% include pagetitle.html %}
                         </div>
+
+                        <form data-search="" style="padding: 8px 0;display: flex;position: sticky;top: 0;background: #fff;width: 100%;border-bottom: 1px solid #cecece;z-index: 10;">
+                            <input type="search" placeholder="Быстрый поиск" aria-label="Быстрый поиск" style="padding: 3px;">
+                            <button type="submit" style="white-space: pre;">Найти</button>
+                        </form>
+
                         {{ content }}
                         <a href="#menu" class="mobile-btn mobile-btn_menu">&#9776;</a>
                     </div>
