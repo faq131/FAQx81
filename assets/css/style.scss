@@ -55,6 +55,10 @@ body {
     padding: 0; 
 }
 
+[hidden] {
+    display: none !important;
+}
+
 //typography
 a {
     color: #0367e3;
