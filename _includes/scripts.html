@@ -55,7 +55,7 @@
     (function () {
         collapceMenu();
         changeLinkTarget();
-
+        initSearch();
 
         function collapceMenu() {
             document.addEventListener('click', event => {
@@ -81,6 +81,51 @@
                 item.target = '_blank';
             });
         }
+        
+        function initSearch(){
+          if (!window.find) {
+             document.querySelector('form[data-search]').hidden = true;
+             return;
+          }
+
+          const searchForm = document.querySelector('form[data-search]');
+          const searchInput = searchForm.querySelector('input[type="search"]');
+          const searchButton = searchForm.querySelector('button[type="submit"]');
+
+          searchForm.addEventListener('submit', findString, false);
+          searchInput.addEventListener('input', countOccurrence, false);
+
+          function findString(event) {
+            event.preventDefault();
+            const searchQuery = searchInput.value.trim();
+            let isStrFound = window.find(searchQuery);
+
+            // searchButton.disabled = false;
+
+            if (!isStrFound) {
+              isStrFound = window.find(searchQuery, 0, 1);
+              while (window.find(searchQuery, 0, 1)) continue;
+              // searchButton.disabled = true;
+            }
+            return;
+          }
+
+          function countOccurrence() {
+            const searchQuery = searchInput.value.trim();   
+
+            if (searchQuery.length === 0) {
+              searchButton.innerText = `Search`;
+              return;
+            }
+
+            const pageContent = document.body.innerText;
+            const regex = new RegExp(searchQuery, 'gi');
+            const count = (pageContent.match(regex) || []).length;
+
+            searchButton.innerText = `Next of ${count}`;
+          }
+        }
+
     }());
 </script>
 
