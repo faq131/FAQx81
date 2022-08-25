@@ -11,16 +11,11 @@
                     {% include pagetitle.html %}
                 </div>
                 <div class="toc-menu">
+                    <form data-search style="padding: 0 15px 10px;">
+                        <input type="search" placeholder="Быстрый поиск" aria-label="Быстрый поиск">
+                        <button type="submit">Найти</button>
+                    </form>
                     {% include toc.html html=content %}
-                    <div style="display: none;">
-                        <br><br>
-                        <span style="display: inline-block;">
-                            <a href="#" data-show-heatmap style="color: currentColor;">
-                                Включить подсветку<br> 
-                                интересных ссылок (beta)
-                            </a>
-                        </span>
-                    </div>
                 </div>
             </nav>
         </aside>
