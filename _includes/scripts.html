@@ -83,7 +83,9 @@
         }
         
         function initSearch(){
-          if (!window.find) {
+          var isMobile = /iPhone|iPad|Android/i.test(navigator.userAgent);
+
+          if (isMobile || !window.find) {
              document.querySelector('form[data-search]').hidden = true;
              return;
           }
