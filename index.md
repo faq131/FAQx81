@@ -503,6 +503,7 @@
 # Печка
 - моторчик печки, крыльчатка от 100 - [vk.com/…](https://vk.com/wall-31295460_578454) && [drive2.ru/…](https://drive2.ru/l/524185847424092383/)
 - кран отопителя/печки от 90-100 [drive2.ru/…](https://drive2.ru/l/9808346/) && [vk.com/…](https://vk.com/wall-31295460_562186)
+- кран отопителя от короллы *100-110 [drive2.ru/…](https://www.drive2.ru/l/628146870853584723/)
 - ревизия печки. проклейка бипластом - [vk.com/…](https://vk.com/wall-31295460_629120)
 - электровентилятор от таза 2111-2123 (универсальный) LFh 01230 почти болтон [luzar.ru/…](https://luzar.ru/catalogue/elektroventilyatory/elektroventilyatory-otopitelya/elektroventilyator-otopitelya-2111-2123-lfh-01230/)
 
